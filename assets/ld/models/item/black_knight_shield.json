@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ld:item/black_knight_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [66, -90, -22.5],
+			"translation": [2, -2.5, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [66, -90, -22.5],
+			"translation": [2, -2.5, 0.75],
+			"scale": [2, 2, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -33, 14],
+			"translation": [4.75, -3.75, 0],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -33, 14],
+			"translation": [4.75, -3.75, 0],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2.75, 0]
+		},
+		"gui": {
+			"translation": [0, -0.75, 0]
+		},
+		"fixed": {
+			"translation": [0, -0.75, 0]
+		}
+	}
+}

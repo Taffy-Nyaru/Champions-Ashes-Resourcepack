@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/netherite_axe"
+    },
+    "overrides": [
+      {
+        "model": "ld:item/black_knight_greataxe",
+        "predicate": { "custom_model_data": 1390051 }
+      }
+    ]
+  }

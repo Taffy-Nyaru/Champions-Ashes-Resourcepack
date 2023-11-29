@@ -1,0 +1,32 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/netherite_sword"
+    },
+    "overrides": [
+      {
+        "model": "ld:item/night_cavalry_halberd",
+        "predicate": { "custom_model_data": 1390041 }
+      },
+      {
+        "model": "ld:item/ringed_knight_straight_sword",
+        "predicate": { "custom_model_data": 1390054 }
+      },
+      {
+        "model": "ld:item/ringed_knight_straight_sword_ignite",
+        "predicate": { "custom_model_data": 1390055 }
+      },
+      {
+        "model": "ld:item/black_blade",
+        "predicate": { "custom_model_data": 1390060 }
+      },
+      {
+        "model": "ld:item/splitleaf",
+        "predicate": { "custom_model_data": 1390065 }
+      },
+      {
+        "model": "ld:item/gundyr_halberd",
+        "predicate": { "custom_model_data": 1390070 }
+      }
+    ]
+  }

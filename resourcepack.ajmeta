@@ -1,0 +1,26 @@
+{
+    "version": "0.4.6",
+    "projects": {
+        "undefined": {
+            "project_name": "aquamarine_dagger_skill",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\gundyr_skill\\bone.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "cfe9b4cc-0de4-5e9b-c181-1466461e29de": {
+            "project_name": "aquamarine_dagger_skill",
+            "file_list": [
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "41af5190-ee22-29ee-ff38-5fe4b0b76334": {
+            "project_name": "aquamarine_heavy_skill",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\aquamarine_dagger\\bone.json",
+                "assets\\animated_java\\textures\\item\\aquamarine_dagger\\aquamarine_dagger_skill.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        }
+    }
+}

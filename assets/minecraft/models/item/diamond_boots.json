@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_boots"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/drakeblood_boots",
+      "predicate": { "custom_model_data": 1390048 }
+    }
+  ]
+}

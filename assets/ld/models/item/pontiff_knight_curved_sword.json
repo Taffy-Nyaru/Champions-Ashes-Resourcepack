@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "ld:item/pontiff_knight_curved_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, 40],
+			"translation": [-0.75, 6, 2.25],
+			"scale": [1, 1, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-40, 0, -45],
+			"translation": [-1.5, 5, -2.25],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-56, 175, 31],
+			"translation": [1, 7.5, -2.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-57, -10, -41],
+			"translation": [1, 7.75, -2.25]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0]
+		},
+		"gui": {
+			"rotation": [0, 0, -5],
+			"translation": [3.25, 0, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, -5],
+			"translation": [-2.5, -0.25, 0]
+		}
+	}
+}

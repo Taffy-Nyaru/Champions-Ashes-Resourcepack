@@ -1,0 +1,57 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "animated_java:item/aquamarine_heavy_skill/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "animated_java:item/aquamarine_dagger/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "animated_java:item/gundyr_skill/bone"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"aquamarine_dagger_skill": {
+				"used_ids": []
+			},
+			"aquamarine_dagger_heavy_skill": {
+				"used_ids": []
+			},
+			"aquamarine_heavy_skill": {
+				"used_ids": [
+					2
+				]
+			},
+			"aquamarine_dagger": {
+				"used_ids": [
+					3
+				]
+			},
+			"gundyr_skill": {
+				"used_ids": [
+					4
+				]
+			}
+		}
+	}
+}

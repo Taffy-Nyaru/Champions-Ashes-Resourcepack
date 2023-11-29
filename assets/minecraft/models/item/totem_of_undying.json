@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/totem_of_undying"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/void_totem",
+      "predicate": { "custom_model_data": 1380016 }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "ld:font/debuff/scarlet_rot.png",
+			"height": 24,
+			"ascent": 24,
+			"chars": [
+				"1"
+			]
+		}
+	]
+}

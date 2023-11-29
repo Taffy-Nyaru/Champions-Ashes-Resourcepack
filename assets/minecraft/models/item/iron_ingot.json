@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_ingot"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/steel_ingot",
+      "predicate": { "custom_model_data": 1390006 }
+    }
+  ]
+}

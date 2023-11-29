@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/snowball"
+    },
+    "overrides": [
+      {
+        "model": "ld:item/stalk_dung_pie",
+        "predicate": { "custom_model_data": 1390049 }
+      },
+      {
+        "model": "ld:item/thunder_knife",
+        "predicate": { "custom_model_data": 1390064 }
+      }
+    ]
+  }

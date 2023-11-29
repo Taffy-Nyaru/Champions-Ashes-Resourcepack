@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_pickaxe"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/gtx_690",
+      "predicate": { "custom_model_data": 1390013 }
+    },
+    {
+      "model": "ld:item/rtx_4090",
+      "predicate": { "custom_model_data": 1390014 }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/amethyst_shard"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/eternal_crystal",
+      "predicate": { "custom_model_data": 1390012 }
+    }
+  ]
+}

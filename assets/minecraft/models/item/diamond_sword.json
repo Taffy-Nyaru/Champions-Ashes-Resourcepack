@@ -1,0 +1,16 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+      {
+        "model": "ld:item/magic_sword",
+        "predicate": { "custom_model_data": 1390042 }
+      },
+      {
+        "model": "ld:item/pontiff_knight_curved_sword_skill",
+        "predicate": { "custom_model_data": 1390059 }
+      }
+    ]
+  }

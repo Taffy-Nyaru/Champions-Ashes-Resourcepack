@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/written_book"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/bible",
+      "predicate": { "custom_model_data": 1390005 }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/iron_block",
+  "overrides": [
+    {
+      "model": "ld:block/steel_block",
+      "predicate": { "custom_model_data": 1440010 }
+    }
+  ]
+}

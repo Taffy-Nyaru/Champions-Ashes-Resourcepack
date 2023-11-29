@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "trims/models/armor/wither_armor",
+        "trims/models/armor/wither_armor_leggings",
+        "trims/models/armor/steel_armor",
+        "trims/models/armor/steel_armor_leggings",
+        "trims/models/armor/drakeblood_set",
+        "trims/models/armor/drakeblood_set_leggings"
+      ],
+      "palette_key": "trims/color_palettes/impossible",
+      "permutations": {
+        "impossible": "trims/color_palettes/impossible"
+      }
+    }
+  ]
+}

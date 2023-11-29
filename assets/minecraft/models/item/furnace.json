@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "minecraft:block/furnace_front",
+    "side": "minecraft:block/furnace_side",
+    "top": "minecraft:block/furnace_top"
+  },
+  "overrides": [
+    {
+      "model": "ld:block/steel_furnace",
+      "predicate": { "custom_model_data": 1440002 }
+    },
+    {
+      "model": "ld:block/steel_furnace_lit",
+      "predicate": { "custom_model_data": 1440003 }
+    }
+  ]
+}

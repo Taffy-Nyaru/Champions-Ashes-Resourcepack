@@ -1,0 +1,18 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "ld:item/gold_medal",
+		"layer0": "ld:item/gold_medal"
+	},
+	"display": {
+		"thirdperson_lefthand": {
+			"rotation": [70, 180, 0],
+			"translation": [-4.25, -0.5, 6.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		}
+	}
+}

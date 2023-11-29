@@ -1,0 +1,6 @@
+{
+	"parent": "ld:gui/template",
+	"textures": {
+		"layer0": "ld:item/gui/reinforced_crafting_table"
+	}
+}

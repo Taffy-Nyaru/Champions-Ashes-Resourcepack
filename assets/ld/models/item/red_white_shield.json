@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ld:item/red_white_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [180, 90, 0],
+			"translation": [2.25, -2.25, 4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-180, 90, 0],
+			"translation": [2.25, -2.25, 4.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [5, 7, 0],
+			"translation": [1.5, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [5, 7, 0],
+			"translation": [1.5, 2.5, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

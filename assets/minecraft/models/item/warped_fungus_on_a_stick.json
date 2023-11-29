@@ -1,0 +1,104 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {
+    "layer0": "item/warped_fungus_on_a_stick"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/gold_medal",
+      "predicate": { "custom_model_data": 1380001 }
+    },
+    {
+      "model": "ld:item/silver_medal",
+      "predicate": { "custom_model_data": 1380002 }
+    },
+    {
+      "model": "ld:item/bronze_medal",
+      "predicate": { "custom_model_data": 1380003 }
+    },
+    {
+      "model": "ld:item/cat_medal",
+      "predicate": { "custom_model_data": 1380004 }
+    },
+    {
+      "model": "ld:item/vampire_hat",
+      "predicate": { "custom_model_data": 1390007 }
+    },
+    {
+      "model": "ld:item/vampire_hat_item",
+      "predicate": { "custom_model_data": 1390008 }
+    },
+    {
+      "model": "ld:item/gtx_690",
+      "predicate": { "custom_model_data": 1390013 }
+    },
+    {
+      "model": "ld:item/rtx_4090",
+      "predicate": { "custom_model_data": 1390014 }
+    },
+    {
+      "model": "ld:item/shadow_pearl",
+      "predicate": { "custom_model_data": 1390015 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_crack1",
+      "predicate": { "custom_model_data": 1390016 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_crack2",
+      "predicate": { "custom_model_data": 1390017 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_crack3",
+      "predicate": { "custom_model_data": 1390018 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_crack4",
+      "predicate": { "custom_model_data": 1390019 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_ignite1",
+      "predicate": { "custom_model_data": 1390020 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_ignite2",
+      "predicate": { "custom_model_data": 1390021 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_ignite3",
+      "predicate": { "custom_model_data": 1390022 }
+    },
+    {
+      "model": "ld:item/shadow_pearl_ignite4",
+      "predicate": { "custom_model_data": 1390023 }
+    },
+    {
+      "model": "ld:item/ender_ring",
+      "predicate": { "custom_model_data": 1390039 }
+    },
+    {
+      "model": "ld:item/ender_ring_activate",
+      "predicate": { "custom_model_data": 1390040 }
+    },
+    {
+      "model": "ld:item/soul_of_nep",
+      "predicate": { "custom_model_data": 1390043 }
+    },
+    {
+      "model": "ld:item/old_sorcerer_hat",
+      "predicate": { "custom_model_data": 1390052 }
+    },
+    {
+      "model": "ld:item/old_sorcerer_hat_nep",
+      "predicate": { "custom_model_data": 1390053 }
+    },
+    {
+      "model": "ld:item/bewitching_branch",
+      "predicate": { "custom_model_data": 1390062 }
+    },
+    {
+      "model": "ld:item/bewitching_branch_used",
+      "predicate": { "custom_model_data": 1390063 }
+    }
+  ]
+}

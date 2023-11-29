@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ld:item/thunder_knife"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 0, -90],
+			"translation": [0, 3.75, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 3.75, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -86, 108],
+			"translation": [0, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 86, -108],
+			"translation": [0, 4.75, 0]
+		},
+		"ground": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 3, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

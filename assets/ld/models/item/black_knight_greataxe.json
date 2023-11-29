@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ld:item/black_knight_greataxe"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 5.25, 2.5],
+			"scale": [2.5, 2.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 5.25, 2.5],
+			"scale": [2.5, 2.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 112, 21],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -51, -14],
+			"translation": [2.25, 0.75, 0],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

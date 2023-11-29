@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/dropper",
+  "overrides": [
+    {
+      "model": "ld:block/crafting_table",
+      "predicate": { "custom_model_data": 1440009 }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ld:item/night_cavalry_halberd"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -95, 71],
+			"translation": [0, 7.25, -2.5],
+			"scale": [4, 4, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 85, -77],
+			"scale": [4, 4, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [10, -77, 68],
+			"translation": [4.25, 0, 0],
+			"scale": [2, 2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 139, -65],
+			"translation": [5.5, 0, 0],
+			"scale": [2, 2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 5.75, 0],
+			"scale": [1.5, 1.5, 0.5]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/netherite_leggings"
+  },
+  "overrides": [
+    {
+      "model": "ld:item/witherite_leggings",
+      "predicate": { "custom_model_data": 1390009 }
+    }
+  ]
+}
