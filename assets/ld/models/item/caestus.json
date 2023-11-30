@@ -747,13 +747,13 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_righthand": {
-			"rotation": [80, -1, 11],
-			"translation": [0.75, 5, 4.75],
+			"rotation": [90, 0, 0],
+			"translation": [-8, 5, 4.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [90, -1, 11],
-			"translation": [-0.75, 5, 4.75],
+			"rotation": [90, 0, 0],
+			"translation": [-9.75, 5, 4.75],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {

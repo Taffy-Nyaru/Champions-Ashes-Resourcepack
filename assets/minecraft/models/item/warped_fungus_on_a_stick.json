@@ -99,6 +99,10 @@
     {
       "model": "ld:item/bewitching_branch_used",
       "predicate": { "custom_model_data": 1390063 }
+    },
+    {
+      "model": "ld:item/caestus",
+      "predicate": { "custom_model_data": 1390071 }
     }
   ]
 }
