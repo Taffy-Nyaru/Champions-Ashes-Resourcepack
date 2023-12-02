@@ -144,6 +144,8 @@
   "advancements.ldmc.func.gundyr_halberd.disc": "The Unstoppable Lesson",
   "advancements.ldmc.func.antspur_rapier.title": "Scarlet Rot",
   "advancements.ldmc.func.antspur_rapier.disc": "Spur of a giant ant which has been fashioned into a rapier. The blade drips with the old legend scarlet rot.",
+  "advancements.ldmc.func.drakeblood_armor.title": "Drakeblood Knight",
+  "advancements.ldmc.func.drakeblood_armor.disc": "Armor of the Drakeblood Knights, worshippers of the blood of dragons.",
   "death.attack.bloodloss": "%1$s lose too much blood",
   "death.attack.bloodloss.item": "%1$s lose too much blood",
   "death.attack.bloodloss.player": "%1$s was domm by bloodloss whilst fighting %2$s",

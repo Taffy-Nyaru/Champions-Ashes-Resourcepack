@@ -4,7 +4,7 @@
         "undefined": {
             "project_name": "aquamarine_dagger_skill",
             "file_list": [
-                "assets\\animated_java\\models\\item\\gundyr_skill\\bone.json",
+                "assets\\animated_java\\models\\item\\ringed_knight_straight_sword_skill\\bone.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
@@ -19,6 +19,20 @@
             "file_list": [
                 "assets\\animated_java\\models\\item\\aquamarine_dagger\\bone.json",
                 "assets\\animated_java\\textures\\item\\aquamarine_dagger\\aquamarine_dagger_skill.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "708eff52-7757-82f5-5aa9-60a1c2f07797": {
+            "project_name": "gundyr_skill",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\gundyr_skill\\bone.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "d08f38ac-de67-6259-e4bd-6741d92917a4": {
+            "project_name": "ringed_knight_straight_sword_skill",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rkss_skill\\bone.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         }

@@ -143,6 +143,8 @@
   "advancements.ldmc.func.gundyr_halberd.disc": "古达老师的课堂",
   "advancements.ldmc.func.antspur_rapier.title": "猩红腐败",
   "advancements.ldmc.func.antspur_rapier.disc": "大蚂蚁的刺化成剑身的刺剑。传说中的猩红腐败的毒液不停滴落。",
+  "advancements.ldmc.func.drakeblood_armor.title": "龙血骑士",
+  "advancements.ldmc.func.drakeblood_armor.disc": "信仰NEP的骑士",
   "death.attack.bloodloss": "%1$s爆血而亡",
   "death.attack.bloodloss.item": "%1$s爆血而亡",
   "death.attack.bloodloss.player": "%1$s在与%2$s战斗时爆血而亡",

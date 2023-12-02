@@ -27,6 +27,18 @@
 				"custom_model_data": 4
 			},
 			"model": "animated_java:item/gundyr_skill/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "animated_java:item/ringed_knight_straight_sword_skill/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "animated_java:item/rkss_skill/bone"
 		}
 	],
 	"animated_java": {
@@ -50,6 +62,16 @@
 			"gundyr_skill": {
 				"used_ids": [
 					4
+				]
+			},
+			"ringed_knight_straight_sword_skill": {
+				"used_ids": [
+					5
+				]
+			},
+			"rkss_skill": {
+				"used_ids": [
+					6
 				]
 			}
 		}
