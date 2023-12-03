@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ld:item/warrior_round_shield"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [77, 180, 0],
+			"translation": [0, 5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 180, 0],
+			"translation": [0, 0.5, 4.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, 12, 0],
+			"translation": [-1, 4.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, 12, 0],
+			"translation": [-1, 4.75, 0]
+		},
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

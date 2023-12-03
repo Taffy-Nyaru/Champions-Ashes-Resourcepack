@@ -71,6 +71,14 @@
         {
             "model": "ld:item/red_white_shield_blocking",
             "predicate": { "custom_model_data": 1390067, "blocking": 1 }
+        },
+        {
+            "model": "ld:item/warrior_round_shield",
+            "predicate": { "custom_model_data": 1390072 }
+        },
+        {
+            "model": "ld:item/warrior_round_shield_blocking",
+            "predicate": { "custom_model_data": 1390072, "blocking": 1 }
         }
     ]
 }

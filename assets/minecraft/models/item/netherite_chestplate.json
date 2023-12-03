@@ -7,6 +7,10 @@
     {
       "model": "ld:item/witherite_chestplate",
       "predicate": { "custom_model_data": 1390008 }
+    },
+    {
+      "model": "ld:item/tryhard_chestplate",
+      "predicate": { "custom_model_data": 1390075 }
     }
   ]
 }
