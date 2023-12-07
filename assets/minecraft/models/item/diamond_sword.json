@@ -11,6 +11,10 @@
       {
         "model": "ld:item/pontiff_knight_curved_sword_skill",
         "predicate": { "custom_model_data": 1390059 }
+      },
+      {
+        "model": "ld:item/irithyll_straight_sword",
+        "predicate": { "custom_model_data": 1390078 }
       }
     ]
   }

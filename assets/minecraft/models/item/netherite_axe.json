@@ -7,6 +7,10 @@
       {
         "model": "ld:item/black_knight_greataxe",
         "predicate": { "custom_model_data": 1390051 }
+      },
+      {
+        "model": "ld:item/ledo_great_hammer",
+        "predicate": { "custom_model_data": 1390077 }
       }
     ]
   }

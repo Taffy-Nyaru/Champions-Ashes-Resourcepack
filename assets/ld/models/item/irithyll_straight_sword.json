@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"1": "ld:item/irithyll_straight_sword",
+		"particle": "ld:item/irithyll_straight_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 12.5, 2.75],
+			"scale": [1.7, 1.7, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -45],
+			"translation": [0, 12.5, 2.75],
+			"scale": [1.7, 1.7, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-66, -83, 0],
+			"translation": [0.5, 10, -1.25],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-72, 110, 0],
+			"translation": [0.5, 10, -1.25],
+			"scale": [1, 1, 0.5]
+		},
+		"ground": {
+			"rotation": [0, 0, -135],
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"translation": [1.5, 1, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [-1.5, 1, 0],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}
