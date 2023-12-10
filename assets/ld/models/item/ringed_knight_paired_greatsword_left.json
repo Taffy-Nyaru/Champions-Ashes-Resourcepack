@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "ld:item/ringed_knight_paired_greatsword_left"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -90, -45],
+			"translation": [0, 11.25, 2.5],
+			"scale": [2, 2, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [180, 90, -45],
+			"translation": [0, 11.25, 2.5],
+			"scale": [2, 2, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-180, -94, 57],
+			"translation": [4, 8.75, -3.75],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-7, 111, 130],
+			"translation": [4.25, 7.75, -5],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

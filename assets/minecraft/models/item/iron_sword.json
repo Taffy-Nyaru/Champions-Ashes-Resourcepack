@@ -11,6 +11,10 @@
       {
         "model": "ld:item/drakeblood_greatsword",
         "predicate": { "custom_model_data": 1390044 }
+      },
+      {
+        "model": "ld:item/lothric_holy_sword",
+        "predicate": { "custom_model_data": 1390083 }
       }
     ]
   }

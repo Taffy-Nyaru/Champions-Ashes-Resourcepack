@@ -27,6 +27,22 @@
       {
         "model": "ld:item/gundyr_halberd",
         "predicate": { "custom_model_data": 1390070 }
+      },
+      {
+        "model": "ld:item/ringed_knight_paired_greatsword_right",
+        "predicate": { "custom_model_data": 1390080 }
+      },
+      {
+        "model": "ld:item/ringed_knight_paired_greatsword_left",
+        "predicate": { "custom_model_data": 1390081 }
+      },
+      {
+        "model": "ld:item/lorian_greatsword",
+        "predicate": { "custom_model_data": 1390082 }
+      },
+      {
+        "model": "ld:item/gael_greatsword",
+        "predicate": { "custom_model_data": 1390083 }
       }
     ]
   }

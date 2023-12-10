@@ -43,7 +43,7 @@
   "item.ldmc.crying_waystone": "Crying Waystone",
   "item.ldmc.homeward_bone": "Homeward Bone",
   "item.ldmc.night_cavalry_halberd": "Nightrider Glaive",
-  "item.ldmc.drakeblood_greatsword": "Drakeblood Great Sword",
+  "item.ldmc.drakeblood_greatsword": "Drakeblood Greatsword",
   "item.ldmc.soul_of_nep": "Soul of the Elder",
   "item.ldmc.drakeblood_helmet": "Drakeblood Helmet",
   "item.ldmc.drakeblood_chestplate": "Drakeblood Chestplate",
@@ -67,7 +67,7 @@
   "item.ldmc.black_blade": "Black Blade",
   "item.ldmc.item_displayer": "Item Displayer",
   "item.ldmc.bewitching_branch": "Bewitching Branch",
-  "item.ldmc.splitleaf": "Split Leaf Great Sword",
+  "item.ldmc.splitleaf": "Split Leaf Greatsword",
   "item.ldmc.thunder_knife": "Thunder Knife",
   "item.ldmc.estus_flask": "Estus Flask",
   "item.ldmc.red_white_shield": "Red and White Shield",
@@ -83,6 +83,12 @@
   "item.ldmc.tryhard_set": "Tryhard Set",
   "item.ldmc.ledo_great_hammer": "Ledo's Great Hammer",
   "item.ldmc.irithyll_straight_sword": "Irithyll Straight Sword",
+  "item.ldmc.lorian_greatsword": "Lorian's Greatsword",
+  "item.ldmc.lothric_holy_sword": "Lorthric Holy Sword",
+  "item.ldmc.ringed_knight_paired_greatsword_right": "Right Ringed Knight Paired Greatsword",
+  "item.ldmc.ringed_knight_paired_greatsword_left": "Left Ringed Knight Paired Greatsword",
+  "item.ldmc.gael_greatsword": "Gael's Greatsword",
+  "item.ldmc.nep_medal": "Elder Medal",
   "entity.ldmc.slark":"Slark",
   "entity.ldmc.pearl":"Pearl",
   "entity.ldmc.night_cavalry":"Night Cavalry",
@@ -168,5 +174,6 @@
   "death.attack.gtx690.player": "%1$s was leaked by memory whilst fighting %2$s",
   "translate.ldmc.nep.start_fight": "I am the Lord. And this is my throne.",
   "translate.ldmc.nep.phase2": "I Have Given Thee Courtesy Enough. Now I fight as RF, a cheater!!",
-  "translate.ldmc.nep.kill": "Beautiful gameplay, from start to finish."
+  "translate.ldmc.nep.kill": "Beautiful gameplay, from start to finish.",
+  "sounds.ldmc.nep_elder": "Nep Elder!"
 }

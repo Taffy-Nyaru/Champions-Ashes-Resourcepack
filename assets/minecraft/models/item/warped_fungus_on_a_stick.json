@@ -103,6 +103,10 @@
     {
       "model": "ld:item/caestus",
       "predicate": { "custom_model_data": 1390071 }
+    },
+    {
+      "model": "ld:item/nep_medal",
+      "predicate": { "custom_model_data": 1390079 }
     }
   ]
 }
