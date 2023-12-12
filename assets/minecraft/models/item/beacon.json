@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/beacon",
+  "overrides": [
+    {
+      "model": "ld:block/lazer",
+      "predicate": { "custom_model_data": 1390084 }
+    }
+  ]
+}

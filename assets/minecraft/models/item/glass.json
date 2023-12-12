@@ -3,7 +3,7 @@
   "overrides": [
     {
       "model": "ld:block/upgrade_table",
-      "predicate": { "custom_model_data": 1440004 }
+      "predicate": { "custom_model_data": 1390085 }
     }
   ]
 }
