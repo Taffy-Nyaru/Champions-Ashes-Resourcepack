@@ -35,6 +35,38 @@
                 "assets\\animated_java\\models\\item\\rkss_skill\\bone.json",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "bf850678-6694-65d1-1ac8-c8d52f8dec0f": {
+            "project_name": "rkgugs_skill",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\weapon1.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\right_arm.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\weapon2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\left_arm.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\head.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\body_top.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\body.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\right_leg.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\left_leg.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\weapon1.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\right_arm.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\weapon2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\left_arm.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\head.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\body_top.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\body.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\right_leg.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\rkgugs_skill\\ember\\left_leg.json",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
