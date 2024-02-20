@@ -107,6 +107,10 @@
     {
       "model": "ld:item/nep_medal",
       "predicate": { "custom_model_data": 1390079 }
+    },
+    {
+      "model": "ld:block/alumopper",
+      "predicate": { "custom_model_data": 1390086 }
     }
   ]
 }

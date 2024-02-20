@@ -195,6 +195,42 @@
 				"custom_model_data": 32
 			},
 			"model": "animated_java:item/rkgugs_skill/ember/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "animated_java:item/alumopper/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "animated_java:item/alumopper/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "animated_java:item/alumopper/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "animated_java:item/alumopper/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "animated_java:item/alumopper/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "animated_java:item/alumopper/head"
 		}
 	],
 	"animated_java": {
@@ -258,6 +294,16 @@
 					30,
 					31,
 					32
+				]
+			},
+			"alumopper": {
+				"used_ids": [
+					33,
+					34,
+					35,
+					36,
+					37,
+					38
 				]
 			}
 		}
