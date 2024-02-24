@@ -11,6 +11,14 @@
       {
         "model": "ld:item/thunder_knife",
         "predicate": { "custom_model_data": 1390064 }
+      },
+      {
+        "model": "ld:item/shadow_vortex",
+        "predicate": { "custom_model_data": 1390087 }
+      },
+      {
+        "model": "ld:block/shadow_vortex",
+        "predicate": { "custom_model_data": 1390088 }
       }
     ]
   }
