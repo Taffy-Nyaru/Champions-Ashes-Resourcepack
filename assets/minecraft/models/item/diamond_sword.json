@@ -15,6 +15,10 @@
       {
         "model": "ld:item/irithyll_straight_sword",
         "predicate": { "custom_model_data": 1390078 }
+      },
+      {
+        "model": "ld:item/moonlight_greatsword",
+        "predicate": { "custom_model_data": 1390090 }
       }
     ]
   }

@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "ld:item/serpent_hunter"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 45],
+			"translation": [0, 7, 2.25],
+			"scale": [2.5, 2.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -45],
+			"translation": [0, 7, 2.5],
+			"scale": [2.5, 2.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 105, 35],
+			"translation": [1, 3.5, 0],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -75, -35],
+			"translation": [1, 3.5, 0],
+			"scale": [1.5, 1.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [1, 1, 0.5]
+		},
+		"gui": {
+			"scale": [1, 1, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

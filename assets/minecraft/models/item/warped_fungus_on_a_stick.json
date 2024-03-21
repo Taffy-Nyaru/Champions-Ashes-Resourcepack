@@ -111,6 +111,14 @@
     {
       "model": "ld:block/alumopper",
       "predicate": { "custom_model_data": 1390086 }
+    },
+    {
+      "model": "ld:item/serpent_hunter",
+      "predicate": { "custom_model_data": 1390089 }
+    },
+		{
+      "model": "ld:item/moonlight_slash",
+      "predicate": { "custom_model_data": 1390091 }
     }
   ]
 }
