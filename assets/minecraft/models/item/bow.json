@@ -65,6 +65,10 @@
         {
             "model": "ld:item/dragonslayer_greatbow_pulling_3",
             "predicate": { "custom_model_data": 1390036, "pulling": 1, "pull": 0.9 }
+        },
+        {
+            "model": "ld:item/thunder_slayer",
+            "predicate": { "custom_model_data": 1390093 }
         }
     ]
 }

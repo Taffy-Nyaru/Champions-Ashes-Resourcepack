@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/ender_pearl"
+    },
+    "overrides": [
+      {
+        "model": "ld:item/void_eye",
+        "predicate": { "custom_model_data": 1390094 }
+      }
+    ]
+  }
