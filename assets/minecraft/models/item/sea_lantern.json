@@ -2,7 +2,7 @@
   "parent": "minecraft:block/sea_lantern",
   "overrides": [
     {
-      "model": "ld:block/lava_sponge",
+      "model": "championsashes:block/lava_sponge",
       "predicate": { "custom_model_data": 1440008 }
     }
   ]

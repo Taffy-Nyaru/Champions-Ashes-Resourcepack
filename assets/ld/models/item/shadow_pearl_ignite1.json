@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ld:item/shadow_pearl_ignite1"
+    "layer0": "championsashes:item/shadow_pearl_ignite1"
   }
 }

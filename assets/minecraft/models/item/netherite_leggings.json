@@ -5,11 +5,11 @@
   },
   "overrides": [
     {
-      "model": "ld:item/witherite_leggings",
+      "model": "championsashes:item/witherite_leggings",
       "predicate": { "custom_model_data": 1390009 }
     },
     {
-      "model": "ld:item/tryhard_leggings",
+      "model": "championsashes:item/tryhard_leggings",
       "predicate": { "custom_model_data": 1390073 }
     }
   ]

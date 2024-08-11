@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/steel_boots",
+      "model": "championsashes:item/steel_boots",
       "predicate": { "custom_model_data": 1390028 }
     }
   ]

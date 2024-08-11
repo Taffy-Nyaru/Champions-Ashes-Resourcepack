@@ -1,15 +1,15 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/handhechampionsashes",
   "textures": {
     "layer0": "item/netherite_pickaxe"
   },
   "overrides": [
     {
-      "model": "ld:item/gtx_690",
+      "model": "championsashes:item/gtx_690",
       "predicate": { "custom_model_data": 1390013 }
     },
     {
-      "model": "ld:item/rtx_4090",
+      "model": "championsashes:item/rtx_4090",
       "predicate": { "custom_model_data": 1390014 }
     }
   ]

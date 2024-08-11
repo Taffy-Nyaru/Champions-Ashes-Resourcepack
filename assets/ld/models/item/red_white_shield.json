@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/red_white_shield"
+		"layer0": "championsashes:item/red_white_shield"
 	},
 	"display": {
 		"thirdperson_righthand": {

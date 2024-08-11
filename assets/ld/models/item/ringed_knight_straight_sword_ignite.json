@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ld:item/ringed_knight_straight_sword_ignite",
-		"1": "ld:item/sword_body_ignite",
-		"particle": "ld:item/ringed_knight_straight_sword_ignite"
+		"0": "championsashes:item/ringed_knight_straight_sword_ignite",
+		"1": "championsashes:item/sword_body_ignite",
+		"particle": "championsashes:item/ringed_knight_straight_sword_ignite"
 	},
 	"elements": [
 		{

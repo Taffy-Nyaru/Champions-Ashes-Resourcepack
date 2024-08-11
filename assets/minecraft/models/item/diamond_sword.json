@@ -1,23 +1,23 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/diamond_sword"
     },
     "overrides": [
       {
-        "model": "ld:item/magic_sword",
+        "model": "championsashes:item/magic_sword",
         "predicate": { "custom_model_data": 1390042 }
       },
       {
-        "model": "ld:item/pontiff_knight_curved_sword_skill",
+        "model": "championsashes:item/pontiff_knight_curved_sword_skill",
         "predicate": { "custom_model_data": 1390059 }
       },
       {
-        "model": "ld:item/irithyll_straight_sword",
+        "model": "championsashes:item/irithyll_straight_sword",
         "predicate": { "custom_model_data": 1390078 }
       },
       {
-        "model": "ld:item/moonlight_greatsword",
+        "model": "championsashes:item/moonlight_greatsword",
         "predicate": { "custom_model_data": 1390090 }
       }
     ]

@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/ender_ring"
+		"layer0": "championsashes:item/ender_ring"
 	}
 }

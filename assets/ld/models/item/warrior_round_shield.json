@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/warrior_round_shield"
+		"layer0": "championsashes:item/warrior_round_shield"
 	},
 	"display": {
 		"thirdperson_righthand": {

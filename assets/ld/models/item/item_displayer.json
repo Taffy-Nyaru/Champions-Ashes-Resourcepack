@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/item_displayer"
+		"layer0": "championsashes:item/item_displayer"
 	}
 }

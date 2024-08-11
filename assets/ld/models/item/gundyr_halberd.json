@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/gundyr_halberd"
+		"layer0": "championsashes:item/gundyr_halberd"
 	},
 	"display": {
 		"thirdperson_righthand": {

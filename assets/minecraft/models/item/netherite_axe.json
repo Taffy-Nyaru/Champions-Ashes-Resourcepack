@@ -1,15 +1,15 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/netherite_axe"
     },
     "overrides": [
       {
-        "model": "ld:item/black_knight_greataxe",
+        "model": "championsashes:item/black_knight_greataxe",
         "predicate": { "custom_model_data": 1390051 }
       },
       {
-        "model": "ld:item/ledo_great_hammer",
+        "model": "championsashes:item/ledo_great_hammer",
         "predicate": { "custom_model_data": 1390077 }
       }
     ]

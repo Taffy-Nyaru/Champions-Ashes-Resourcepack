@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"2": "ld:item/thunder_slayer",
-		"particle": "ld:item/lightning"
+		"2": "championsashes:item/thunder_slayer",
+		"particle": "championsashes:item/lightning"
 	},
 	"elements": [
 		{
@@ -166,7 +166,7 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"nbt": "{}",
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+			"chichampionsashesren": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		}
 	]
 }

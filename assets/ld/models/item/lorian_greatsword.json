@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/lorian_greatsword"
+		"layer0": "championsashes:item/lorian_greatsword"
 	},
 	"display": {
 		"thirdperson_righthand": {

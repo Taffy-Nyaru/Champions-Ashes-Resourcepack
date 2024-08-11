@@ -5,19 +5,19 @@
     },
     "overrides": [
       {
-        "model": "ld:item/stalk_dung_pie",
+        "model": "championsashes:item/stalk_dung_pie",
         "predicate": { "custom_model_data": 1390049 }
       },
       {
-        "model": "ld:item/thunder_knife",
+        "model": "championsashes:item/thunder_knife",
         "predicate": { "custom_model_data": 1390064 }
       },
       {
-        "model": "ld:item/shadow_vortex",
+        "model": "championsashes:item/shadow_vortex",
         "predicate": { "custom_model_data": 1390087 }
       },
       {
-        "model": "ld:block/shadow_vortex",
+        "model": "championsashes:block/shadow_vortex",
         "predicate": { "custom_model_data": 1390088 }
       }
     ]

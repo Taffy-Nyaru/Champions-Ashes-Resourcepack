@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ld:item/bewitching_branch_used"
+		"layer0": "championsashes:item/bewitching_branch_used"
 	},
 	"display": {
 		"thirdperson_righthand": {

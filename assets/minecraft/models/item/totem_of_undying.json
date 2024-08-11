@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/void_totem",
+      "model": "championsashes:item/void_totem",
       "predicate": { "custom_model_data": 1380016 }
     }
   ]

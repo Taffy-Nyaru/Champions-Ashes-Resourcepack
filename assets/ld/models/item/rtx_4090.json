@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ld:item/rtx_4090",
-		"1": "ld:block/cable",
-		"particle": "ld:item/rtx_4090"
+		"0": "championsashes:item/rtx_4090",
+		"1": "championsashes:block/cable",
+		"particle": "championsashes:item/rtx_4090"
 	},
 	"elements": [
 		{
@@ -601,7 +601,7 @@
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [
+			"chichampionsashesren": [
 				0,
 				1,
 				2,
@@ -641,7 +641,7 @@
 					"color": 0,
 					"nbt": "{}",
 					"armAnimationEnabled": false,
-					"children": [33, 34, 35, 36, 37, 38, 39, 40]
+					"chichampionsashesren": [33, 34, 35, 36, 37, 38, 39, 40]
 				}
 			]
 		},

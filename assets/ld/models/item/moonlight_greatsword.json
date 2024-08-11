@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld_rod",
 	"textures": {
-		"1": "ld:item/zweihandler",
-		"layer0": "ld:item/moonlight_greatsword",
-		"particle": "ld:item/zweihandler"
+		"1": "championsashes:item/zweihandler",
+		"layer0": "championsashes:item/moonlight_greatsword",
+		"particle": "championsashes:item/zweihandler"
 	},
 	"display": {
 		"thirdperson_righthand": {

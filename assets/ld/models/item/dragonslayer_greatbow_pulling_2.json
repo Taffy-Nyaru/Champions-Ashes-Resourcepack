@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/dragonslayer_greatbow_pulling_2"
+		"layer0": "championsashes:item/dragonslayer_greatbow_pulling_2"
 	},
 	"display": {
 		"thirdperson_righthand": {

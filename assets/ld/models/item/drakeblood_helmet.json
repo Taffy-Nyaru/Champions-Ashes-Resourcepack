@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/drakeblood_helmet"
+		"layer0": "championsashes:item/drakeblood_helmet"
 	}
 }

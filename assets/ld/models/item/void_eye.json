@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ld:item/void_eye"
+    "layer0": "championsashes:item/void_eye"
   }
 }

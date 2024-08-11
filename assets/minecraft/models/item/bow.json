@@ -47,27 +47,27 @@
             "model": "item/bow_pulling_2"
         },
         {
-            "model": "ld:item/dragonslayer_greatbow",
+            "model": "championsashes:item/dragonslayer_greatbow",
             "predicate": { "custom_model_data": 1390036 }
         },
         {
-            "model": "ld:item/dragonslayer_greatbow_pulling_0",
+            "model": "championsashes:item/dragonslayer_greatbow_pulling_0",
             "predicate": { "custom_model_data": 1390036, "pulling": 1 }
         },
         {
-            "model": "ld:item/dragonslayer_greatbow_pulling_1",
+            "model": "championsashes:item/dragonslayer_greatbow_pulling_1",
             "predicate": { "custom_model_data": 1390036, "pulling": 1, "pull": 0.45 }
         },
         {
-            "model": "ld:item/dragonslayer_greatbow_pulling_2",
+            "model": "championsashes:item/dragonslayer_greatbow_pulling_2",
             "predicate": { "custom_model_data": 1390036, "pulling": 1, "pull": 0.65 }
         },
         {
-            "model": "ld:item/dragonslayer_greatbow_pulling_3",
+            "model": "championsashes:item/dragonslayer_greatbow_pulling_3",
             "predicate": { "custom_model_data": 1390036, "pulling": 1, "pull": 0.9 }
         },
         {
-            "model": "ld:item/thunder_slayer",
+            "model": "championsashes:item/thunder_slayer",
             "predicate": { "custom_model_data": 1390093 }
         }
     ]

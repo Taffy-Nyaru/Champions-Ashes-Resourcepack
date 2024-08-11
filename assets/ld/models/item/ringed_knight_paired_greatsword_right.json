@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/ringed_knight_paired_greatsword_right"
+		"layer0": "championsashes:item/ringed_knight_paired_greatsword_right"
 	},
 	"display": {
 		"thirdperson_righthand": {

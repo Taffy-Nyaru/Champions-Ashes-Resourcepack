@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/drakeblood_chestplate",
+      "model": "championsashes:item/drakeblood_chestplate",
       "predicate": { "custom_model_data": 1390047 }
     }
   ]

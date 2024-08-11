@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"1": "ld:item/vampire_hat_item",
-		"2": "ld:item/vampire_hat",
-		"3": "ld:item/bowknot"
+		"1": "championsashes:item/vampire_hat_item",
+		"2": "championsashes:item/vampire_hat",
+		"3": "championsashes:item/bowknot"
 	},
 	"elements": [
 		{

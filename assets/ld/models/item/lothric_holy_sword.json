@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/lothric_holy_sword"
+		"layer0": "championsashes:item/lothric_holy_sword"
 	},
 	"display": {
 		"thirdperson_righthand": {

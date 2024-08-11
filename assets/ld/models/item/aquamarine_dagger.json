@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/aquamarine_dagger"
+		"layer0": "championsashes:item/aquamarine_dagger"
 	},
 	"display": {
 		"thirdperson_righthand": {

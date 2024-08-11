@@ -6,11 +6,11 @@
     },
     "overrides": [
         {
-          "model": "ld:block/crying_waystone",
+          "model": "championsashes:block/crying_waystone",
           "predicate": { "custom_model_data": 1440011 }
         },
         {
-          "model": "ld:block/crying_waystone_activated",
+          "model": "championsashes:block/crying_waystone_activated",
           "predicate": { "custom_model_data": 1440012 }
         }
       ]

@@ -5,7 +5,7 @@
     },
     "overrides": [
       {
-        "model": "ld:item/void_eye",
+        "model": "championsashes:item/void_eye",
         "predicate": { "custom_model_data": 1390094 }
       }
     ]

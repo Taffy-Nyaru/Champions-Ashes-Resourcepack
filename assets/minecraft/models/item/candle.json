@@ -5,19 +5,19 @@
   },
   "overrides": [
     {
-      "model": "ld:block/milkweed",
+      "model": "championsashes:block/milkweed",
       "predicate": { "custom_model_data": 1440001 }
     },
     {
-      "model": "ld:block/drink1",
+      "model": "championsashes:block/drink1",
       "predicate": { "custom_model_data": 1440005 }
     },
     {
-      "model": "ld:block/drink2",
+      "model": "championsashes:block/drink2",
       "predicate": { "custom_model_data": 1440006 }
     },
     {
-      "model": "ld:block/drink3",
+      "model": "championsashes:block/drink3",
       "predicate": { "custom_model_data": 1440007 }
     }
   ]

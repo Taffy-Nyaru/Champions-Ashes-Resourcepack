@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-      "layer0": "ld:item/soul_of_nep"
+      "layer0": "championsashes:item/soul_of_nep"
     }
   }

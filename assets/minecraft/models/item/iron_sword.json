@@ -1,19 +1,19 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/iron_sword"
     },
     "overrides": [
       {
-        "model": "ld:item/steel_sword",
+        "model": "championsashes:item/steel_sword",
         "predicate": { "custom_model_data": 1390026 }
       },
       {
-        "model": "ld:item/drakeblood_greatsword",
+        "model": "championsashes:item/drakeblood_greatsword",
         "predicate": { "custom_model_data": 1390044 }
       },
       {
-        "model": "ld:item/lothric_holy_sword",
+        "model": "championsashes:item/lothric_holy_sword",
         "predicate": { "custom_model_data": 1390083 }
       }
     ]

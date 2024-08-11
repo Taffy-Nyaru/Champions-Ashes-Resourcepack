@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/sonic_boom_shard",
+      "model": "championsashes:item/sonic_boom_shard",
       "predicate": { "custom_model_data": 1390003 }
     }
   ]

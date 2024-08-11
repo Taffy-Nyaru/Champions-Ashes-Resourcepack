@@ -1,11 +1,11 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/iron_hoe"
     },
     "overrides": [
       {
-        "model": "ld:item/steel_hoe",
+        "model": "championsashes:item/steel_hoe",
         "predicate": { "custom_model_data": 1390033 }
       }
     ]

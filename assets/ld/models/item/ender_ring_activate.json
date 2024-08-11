@@ -2,6 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/ender_ring_activate"
+		"layer0": "championsashes:item/ender_ring_activate"
 	}
 }

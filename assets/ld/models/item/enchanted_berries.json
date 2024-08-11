@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ld:item/enchanted_berries"
+    "layer0": "championsashes:item/enchanted_berries"
   }
 }

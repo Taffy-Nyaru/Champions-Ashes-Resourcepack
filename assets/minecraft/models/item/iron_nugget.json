@@ -5,7 +5,7 @@
     },
     "overrides": [
       {
-        "model": "ld:item/steel_nugget",
+        "model": "championsashes:item/steel_nugget",
         "predicate": { "custom_model_data": 1390027 }
       }
     ]

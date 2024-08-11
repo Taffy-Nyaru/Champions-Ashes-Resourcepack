@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/steel_ingot",
+      "model": "championsashes:item/steel_ingot",
       "predicate": { "custom_model_data": 1390006 }
     }
   ]

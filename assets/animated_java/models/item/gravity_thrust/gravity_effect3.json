@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"4": "animated_java:item/gravity_thrust/gravity_effects"
+	},
+	"elements": [
+		{
+			"from": [
+				7.5,
+				4.5,
+				7.5
+			],
+			"to": [
+				8.5,
+				11.5,
+				8.5
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					5.5,
+					-25.5,
+					3.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						4,
+						0,
+						5,
+						7
+					],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [
+						3,
+						0,
+						4,
+						7
+					],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [
+						2,
+						0,
+						3,
+						7
+					],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [
+						1,
+						0,
+						2,
+						7
+					],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						1,
+						1
+					],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [
+						5,
+						6,
+						6,
+						7
+					],
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

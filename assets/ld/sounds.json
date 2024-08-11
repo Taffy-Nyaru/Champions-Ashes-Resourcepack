@@ -1,6 +1,6 @@
 {
-    "sounds.ldmc.nep_elder": {
-        "subtitle": "sounds.ldmc.nep_elder",
+    "sounds.championsashes.nep_elder": {
+        "subtitle": "sounds.championsashes.nep_elder",
             "sounds": [{
                 "name": "ld:nep_elder",
                 "stream": true

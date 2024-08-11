@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/reinforced_phantom_membrane",
+      "model": "championsashes:item/reinforced_phantom_membrane",
       "predicate": { "custom_model_data": 1390002 }
     }
   ]

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ld:item/murky_hand_scythe"
+		"layer0": "championsashes:item/murky_hand_scythe"
 	},
 	"display": {
 		"thirdperson_righthand": {

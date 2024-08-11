@@ -5,11 +5,11 @@
   },
   "overrides": [
     {
-      "model": "ld:item/witherite_boots",
+      "model": "championsashes:item/witherite_boots",
       "predicate": { "custom_model_data": 1390010 }
     },
     {
-      "model": "ld:item/tryhard_boots",
+      "model": "championsashes:item/tryhard_boots",
       "predicate": { "custom_model_data": 1390076 }
     }
   ]

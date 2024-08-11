@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ld:item/reinforced_phantom_membrane"
+    "layer0": "championsashes:item/reinforced_phantom_membrane"
   }
 }

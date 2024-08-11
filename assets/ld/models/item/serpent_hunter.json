@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/serpent_hunter"
+		"layer0": "championsashes:item/serpent_hunter"
 	},
 	"display": {
 		"thirdperson_righthand": {

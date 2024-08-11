@@ -1,0 +1,84 @@
+{
+	"textures": {
+		"4": "animated_java:item/gravity_soul_stream/soul_stream_effects"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				7.119999999999999,
+				-4
+			],
+			"to": [
+				20,
+				7.119999999999999,
+				20
+			],
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						15,
+						0
+					],
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						15,
+						0
+					],
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						15,
+						0
+					],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						15,
+						0
+					],
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						15,
+						15
+					],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [
+						15,
+						0,
+						0,
+						15
+					],
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

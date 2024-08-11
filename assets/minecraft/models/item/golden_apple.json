@@ -1,11 +1,11 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/golden_apple"
+    "layer0": "item/gochampionsashesen_apple"
   },
   "overrides": [
     {
-      "model": "ld:item/enchanted_berries",
+      "model": "championsashes:item/enchanted_berries",
       "predicate": { "custom_model_data": 1390001 }
     }
   ]

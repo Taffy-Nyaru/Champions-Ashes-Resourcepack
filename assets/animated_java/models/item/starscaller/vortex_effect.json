@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"5": "animated_java:item/starscaller/starscaller_vortex_effect"
+	},
+	"elements": [
+		{
+			"from": [
+				-2.799999999999999,
+				-4,
+				-4.6
+			],
+			"to": [
+				21.2,
+				0.8000000000000007,
+				19.4
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						5,
+						0,
+						10,
+						1
+					],
+					"texture": "#5"
+				},
+				"east": {
+					"uv": [
+						5,
+						1,
+						10,
+						2
+					],
+					"texture": "#5"
+				},
+				"south": {
+					"uv": [
+						5,
+						2,
+						10,
+						3
+					],
+					"texture": "#5"
+				},
+				"west": {
+					"uv": [
+						5,
+						3,
+						10,
+						4
+					],
+					"texture": "#5"
+				},
+				"up": {
+					"uv": [
+						5,
+						5,
+						0,
+						0
+					],
+					"texture": "#5"
+				},
+				"down": {
+					"uv": [
+						5,
+						5,
+						0,
+						10
+					],
+					"texture": "#5"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

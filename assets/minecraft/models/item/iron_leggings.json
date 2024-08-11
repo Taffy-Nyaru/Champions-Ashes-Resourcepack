@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/steel_leggings",
+      "model": "championsashes:item/steel_leggings",
       "predicate": { "custom_model_data": 1390031 }
     }
   ]

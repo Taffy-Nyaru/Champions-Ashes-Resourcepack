@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/steel_hoe"
+		"layer0": "championsashes:item/steel_hoe"
 	},
 	"display": {}
 }

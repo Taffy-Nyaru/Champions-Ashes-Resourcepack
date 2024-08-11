@@ -2,7 +2,7 @@
   "parent": "minecraft:block/glass",
   "overrides": [
     {
-      "model": "ld:block/upgrade_table",
+      "model": "championsashes:block/upgrade_table",
       "predicate": { "custom_model_data": 1390085 }
     }
   ]

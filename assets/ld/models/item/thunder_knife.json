@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/thunder_knife"
+		"layer0": "championsashes:item/thunder_knife"
 	},
 	"display": {
 		"thirdperson_righthand": {

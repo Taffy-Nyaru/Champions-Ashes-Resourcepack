@@ -1,47 +1,47 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/netherite_sword"
     },
     "overrides": [
       {
-        "model": "ld:item/night_cavalry_halberd",
+        "model": "championsashes:item/night_cavalry_halberd",
         "predicate": { "custom_model_data": 1390041 }
       },
       {
-        "model": "ld:item/ringed_knight_straight_sword",
+        "model": "championsashes:item/ringed_knight_straight_sword",
         "predicate": { "custom_model_data": 1390054 }
       },
       {
-        "model": "ld:item/ringed_knight_straight_sword_ignite",
+        "model": "championsashes:item/ringed_knight_straight_sword_ignite",
         "predicate": { "custom_model_data": 1390055 }
       },
       {
-        "model": "ld:item/black_blade",
+        "model": "championsashes:item/black_blade",
         "predicate": { "custom_model_data": 1390060 }
       },
       {
-        "model": "ld:item/splitleaf",
+        "model": "championsashes:item/splitleaf",
         "predicate": { "custom_model_data": 1390065 }
       },
       {
-        "model": "ld:item/gundyr_halberd",
+        "model": "championsashes:item/gundyr_halberd",
         "predicate": { "custom_model_data": 1390070 }
       },
       {
-        "model": "ld:item/ringed_knight_paired_greatsword_right",
+        "model": "championsashes:item/ringed_knight_paired_greatsword_right",
         "predicate": { "custom_model_data": 1390080 }
       },
       {
-        "model": "ld:item/ringed_knight_paired_greatsword_left",
+        "model": "championsashes:item/ringed_knight_paired_greatsword_left",
         "predicate": { "custom_model_data": 1390081 }
       },
       {
-        "model": "ld:item/lorian_greatsword",
+        "model": "championsashes:item/lorian_greatsword",
         "predicate": { "custom_model_data": 1390082 }
       },
       {
-        "model": "ld:item/gael_greatsword",
+        "model": "championsashes:item/gael_greatsword",
         "predicate": { "custom_model_data": 1390083 }
       }
     ]

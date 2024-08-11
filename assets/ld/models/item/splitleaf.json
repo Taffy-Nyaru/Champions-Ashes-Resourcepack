@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/splitleaf"
+		"layer0": "championsashes:item/splitleaf"
 	},
 	"display": {
 		"thirdperson_righthand": {

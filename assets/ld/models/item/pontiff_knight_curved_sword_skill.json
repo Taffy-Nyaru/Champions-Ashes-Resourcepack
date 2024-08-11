@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ld:item/pontiff_knight_curved_sword_skill"
+		"layer0": "championsashes:item/pontiff_knight_curved_sword_skill"
 	},
 	"display": {
 		"thirdperson_righthand": {

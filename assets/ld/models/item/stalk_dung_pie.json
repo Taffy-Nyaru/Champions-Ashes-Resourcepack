@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ld:item/feces",
-		"particle": "ld:item/feces"
+		"0": "championsashes:item/feces",
+		"particle": "championsashes:item/feces"
 	},
 	"elements": [
 		{

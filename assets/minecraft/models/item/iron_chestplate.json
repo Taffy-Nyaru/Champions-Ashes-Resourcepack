@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/steel_chestplate",
+      "model": "championsashes:item/steel_chestplate",
       "predicate": { "custom_model_data": 1390029 }
     }
   ]

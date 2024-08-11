@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:gui/reinforced_crafting_table",
+      "model": "championsashes:gui/reinforced_crafting_table",
       "predicate": { "custom_model_data": 1390011 }
     }
   ]

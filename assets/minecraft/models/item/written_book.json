@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/bible",
+      "model": "championsashes:item/bible",
       "predicate": { "custom_model_data": 1390005 }
     }
   ]

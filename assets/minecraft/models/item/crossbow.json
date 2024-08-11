@@ -60,39 +60,39 @@
       "model": "item/crossbow_firework"
     },
     {
-      "model": "ld:item/zweihandler",
+      "model": "championsashes:item/zweihandler",
       "predicate": { "custom_model_data": 1390004 }
     },
     {
-      "model": "ld:item/arbalest",
+      "model": "championsashes:item/arbalest",
       "predicate": { "custom_model_data": 1390037 }
     },
     {
-      "model": "ld:item/arbalest_arrow",
+      "model": "championsashes:item/arbalest_arrow",
       "predicate": { "custom_model_data": 1390037, "charged": 1 }
     },
     {
-      "model": "ld:item/arbalest_firework",
+      "model": "championsashes:item/arbalest_firework",
       "predicate": { "custom_model_data": 1390037, "charged": 1, "firework": 1 }
     },
     {
-      "model": "ld:item/murky_hand_scythe",
+      "model": "championsashes:item/murky_hand_scythe",
       "predicate": { "custom_model_data": 1390056 }
     },
     {
-      "model": "ld:item/pontiff_knight_curved_sword",
+      "model": "championsashes:item/pontiff_knight_curved_sword",
       "predicate": { "custom_model_data": 1390058 }
     },
     {
-      "model": "ld:item/aquamarine_dagger",
+      "model": "championsashes:item/aquamarine_dagger",
       "predicate": { "custom_model_data": 1390068 }
     },
     {
-      "model": "ld:item/antspur_rapier",
+      "model": "championsashes:item/antspur_rapier",
       "predicate": { "custom_model_data": 1390069 }
     },
     {
-      "model": "ld:item/antspur_rapier",
+      "model": "championsashes:item/antspur_rapier",
       "predicate": { "custom_model_data": 1390069 }
     }
   ]

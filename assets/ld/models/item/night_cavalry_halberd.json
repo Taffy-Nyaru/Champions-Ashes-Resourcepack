@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/night_cavalry_halberd"
+		"layer0": "championsashes:item/night_cavalry_halberd"
 	},
 	"display": {
 		"thirdperson_righthand": {

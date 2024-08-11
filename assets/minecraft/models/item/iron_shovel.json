@@ -1,11 +1,11 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handhechampionsashes",
     "textures": {
       "layer0": "item/iron_shovel"
     },
     "overrides": [
       {
-        "model": "ld:item/steel_shovel",
+        "model": "championsashes:item/steel_shovel",
         "predicate": { "custom_model_data": 1390035 }
       }
     ]

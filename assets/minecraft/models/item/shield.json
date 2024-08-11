@@ -49,35 +49,35 @@
             "model": "item/shield_blocking"
         },
         {
-            "model": "ld:item/brass_shield",
+            "model": "championsashes:item/brass_shield",
             "predicate": { "custom_model_data": 1390050 }
         },
         {
-            "model": "ld:item/brass_shield_blocking",
+            "model": "championsashes:item/brass_shield_blocking",
             "predicate": { "custom_model_data": 1390050, "blocking": 1 }
         },
         {
-            "model": "ld:item/black_knight_shield",
+            "model": "championsashes:item/black_knight_shield",
             "predicate": { "custom_model_data": 1390057 }
         },
         {
-            "model": "ld:item/black_knight_shield_blocking",
+            "model": "championsashes:item/black_knight_shield_blocking",
             "predicate": { "custom_model_data": 1390057, "blocking": 1 }
         },
         {
-            "model": "ld:item/red_white_shield",
+            "model": "championsashes:item/red_white_shield",
             "predicate": { "custom_model_data": 1390067 }
         },
         {
-            "model": "ld:item/red_white_shield_blocking",
+            "model": "championsashes:item/red_white_shield_blocking",
             "predicate": { "custom_model_data": 1390067, "blocking": 1 }
         },
         {
-            "model": "ld:item/warrior_round_shield",
+            "model": "championsashes:item/warrior_round_shield",
             "predicate": { "custom_model_data": 1390072 }
         },
         {
-            "model": "ld:item/warrior_round_shield_blocking",
+            "model": "championsashes:item/warrior_round_shield_blocking",
             "predicate": { "custom_model_data": 1390072, "blocking": 1 }
         }
     ]

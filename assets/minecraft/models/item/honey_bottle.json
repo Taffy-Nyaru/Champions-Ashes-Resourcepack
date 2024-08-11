@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/estus_flask",
+      "model": "championsashes:item/estus_flask",
       "predicate": { "custom_model_data": 1390066 }
     }
   ]

@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/drakeblood_boots",
+      "model": "championsashes:item/drakeblood_boots",
       "predicate": { "custom_model_data": 1390048 }
     }
   ]

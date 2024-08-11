@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"particle": "ld:item/silver_medal",
-		"layer0": "ld:item/silver_medal"
+		"particle": "championsashes:item/silver_medal",
+		"layer0": "championsashes:item/silver_medal"
 	},
 	"display": {
 		"thirdperson_lefthand": {

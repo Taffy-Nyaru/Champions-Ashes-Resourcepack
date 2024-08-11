@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "ld:item/eternal_crystal",
+      "model": "championsashes:item/eternal_crystal",
       "predicate": { "custom_model_data": 1390012 }
     }
   ]

@@ -37,6 +37,6 @@
         { "predicate": { "angle": 0.921875 }, "model": "item/compass_14" },
         { "predicate": { "angle": 0.953125 }, "model": "item/compass_15" },
         { "predicate": { "angle": 0.984375 }, "model": "item/compass" },
-        { "predicate": { "custom_model_data": 1390038 }, "model": "ld:item/homeward_bone" }
+        { "predicate": { "custom_model_data": 1390038 }, "model": "championsashes:item/homeward_bone" }
     ]
 }

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "ld:item/drakeblood_greatsword"
+		"layer0": "championsashes:item/drakeblood_greatsword"
 	},
 	"display": {
 		"thirdperson_righthand": {

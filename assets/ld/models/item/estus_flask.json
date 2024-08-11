@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/estus_flask"
+		"layer0": "championsashes:item/estus_flask"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "ld:item/irithyll_straight_sword"
+		"layer0": "championsashes:item/irithyll_straight_sword"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -7,11 +7,11 @@
   },
   "overrides": [
     {
-      "model": "ld:block/steel_furnace",
+      "model": "championsashes:block/steel_furnace",
       "predicate": { "custom_model_data": 1440002 }
     },
     {
-      "model": "ld:block/steel_furnace_lit",
+      "model": "championsashes:block/steel_furnace_lit",
       "predicate": { "custom_model_data": 1440003 }
     }
   ]

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "ld:item/arbalest"
+		"layer0": "championsashes:item/arbalest"
 	},
 	"display": {
 		"thirdperson_righthand": {

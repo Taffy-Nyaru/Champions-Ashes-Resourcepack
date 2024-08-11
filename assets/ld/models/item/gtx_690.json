@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ld:item/gtx_690",
-		"particle": "ld:item/gtx_690"
+		"0": "championsashes:item/gtx_690",
+		"particle": "championsashes:item/gtx_690"
 	},
 	"elements": [
 		{
@@ -837,7 +837,7 @@
 			"name": "body",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"children": [
+			"chichampionsashesren": [
 				0,
 				1,
 				2,
@@ -894,7 +894,7 @@
 					"name": "fan",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [52, 53, 54, 55, 56, 57, 58, 59]
+					"chichampionsashesren": [52, 53, 54, 55, 56, 57, 58, 59]
 				}
 			]
 		}

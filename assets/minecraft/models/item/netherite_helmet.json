@@ -5,11 +5,11 @@
   },
   "overrides": [
     {
-      "model": "ld:item/witherite_helmet",
+      "model": "championsashes:item/witherite_helmet",
       "predicate": { "custom_model_data": 1390007 }
     },
     {
-      "model": "ld:item/tryhard_helmet",
+      "model": "championsashes:item/tryhard_helmet",
       "predicate": { "custom_model_data": 1390074 }
     }
   ]
