@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/gochampionsashesen_apple"
+    "layer0": "item/golden_apple"
   },
   "overrides": [
     {

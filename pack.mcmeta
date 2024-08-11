@@ -3,11 +3,7 @@
     "pack_format": 15,
     "description": [
       {
-        "text": "Champion's Ashes",
-        "color": "light_blue"
-      },
-      {
-        "text": "Check Welcome to Champions Ashes pdf in the datapack for instructions and recipes!",
+        "text": "Check README.pdf in the datapack for instructions!",
         "color": "gold"
       }
     ]

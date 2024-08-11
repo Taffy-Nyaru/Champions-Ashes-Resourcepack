@@ -1,5 +1,5 @@
 {
-    "parent": "item/handhechampionsashes",
+    "parent": "item/handheld",
     "textures": {
       "layer0": "item/netherite_sword"
     },
@@ -43,6 +43,10 @@
       {
         "model": "championsashes:item/gael_greatsword",
         "predicate": { "custom_model_data": 1390083 }
+      },
+      {
+        "model": "championsashes:item/greatsword",
+        "predicate": { "custom_model_data": 1390095 }
       }
     ]
   }
