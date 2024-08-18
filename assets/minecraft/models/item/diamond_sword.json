@@ -23,6 +23,10 @@
       {
         "model": "championsashes:item/moonveil",
         "predicate": { "custom_model_data": 1390096 }
+      },
+      {
+        "model": "championsashes:item/darksword22",
+        "predicate": { "custom_model_data": 1390099 }
       }
     ]
   }

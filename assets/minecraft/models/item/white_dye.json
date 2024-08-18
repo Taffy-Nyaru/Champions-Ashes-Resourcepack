@@ -2529,6 +2529,90 @@
 				"custom_model_data": 421
 			},
 			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 422
+			},
+			"model": "animated_java:item/ringed_nightstar/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 423
+			},
+			"model": "animated_java:item/ringed_nightstar/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 424
+			},
+			"model": "animated_java:item/ringed_nightstar/darksword22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 425
+			},
+			"model": "animated_java:item/ringed_nightstar/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 426
+			},
+			"model": "animated_java:item/ringed_nightstar/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 427
+			},
+			"model": "animated_java:item/ringed_nightstar/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 428
+			},
+			"model": "animated_java:item/ringed_nightstar/left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 429
+			},
+			"model": "animated_java:item/ringed_nightstar/right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 430
+			},
+			"model": "animated_java:item/ringed_nightstar/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 431
+			},
+			"model": "animated_java:item/ringed_nightstar/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 432
+			},
+			"model": "animated_java:item/ringed_nightstar/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 433
+			},
+			"model": "animated_java:item/ringed_nightstar/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 434
+			},
+			"model": "animated_java:item/ringed_nightstar/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 435
+			},
+			"model": "animated_java:item/ringed_nightstar/left_leg"
 		}
 	],
 	"animated_java": {
@@ -3029,6 +3113,24 @@
 					419,
 					420,
 					421
+				]
+			},
+			"ringed_nightstar": {
+				"used_ids": [
+					422,
+					423,
+					424,
+					425,
+					426,
+					427,
+					428,
+					429,
+					430,
+					431,
+					432,
+					433,
+					434,
+					435
 				]
 			}
 		}

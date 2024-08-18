@@ -563,6 +563,30 @@
                 "assets\\animated_java\\textures\\item\\ancient_lightning_strike\\lightning_orb_outer.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "5fc780b0-272f-8e86-e508-053f2ecf782f": {
+            "project_name": "ringed_nightstar",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\right_arm.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\darksword22.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\left_arm.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\head.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\left.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\right.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\body_top.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\body.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\right_leg.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\ringed_nightstar\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\ringed_nightstar\\wing1.png",
+                "assets\\animated_java\\textures\\item\\ringed_nightstar\\alumopper.png",
+                "assets\\animated_java\\textures\\item\\ringed_nightstar\\wing2.png",
+                "assets\\animated_java\\textures\\item\\ringed_nightstar\\darksword22.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
