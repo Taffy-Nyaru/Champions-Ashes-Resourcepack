@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"0": "animated_java:item/meteorite_shockwave/gravity_shockwave"
+	},
+	"elements": [
+		{
+			"from": [
+				5.999999999999999,
+				8.00553,
+				4.986649999999999
+			],
+			"to": [
+				10,
+				8.00553,
+				10.98665
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "x",
+				"origin": [
+					8,
+					7.98665,
+					7.986649999999999
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						10.75,
+						0
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.25
+					],
+					"rotation": 90,
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						10.75,
+						0
+					],
+					"rotation": 180,
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.25
+					],
+					"rotation": 270,
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						4.5,
+						3.5,
+						0,
+						16
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						0,
+						3.5,
+						4.5,
+						16
+					],
+					"rotation": 180,
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

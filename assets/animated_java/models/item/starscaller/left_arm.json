@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"2": "animated_java:item/starscaller/alumopper"
+		"0": "animated_java:item/starscaller/alumopper"
 	},
 	"elements": [
 		{
@@ -31,7 +31,7 @@
 						13,
 						10.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [
@@ -40,7 +40,7 @@
 						14,
 						10.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [
@@ -49,7 +49,7 @@
 						12,
 						10.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [
@@ -58,7 +58,7 @@
 						11,
 						10.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [
@@ -67,7 +67,7 @@
 						12,
 						9
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [
@@ -76,7 +76,7 @@
 						5,
 						15.25
 					],
-					"texture": "#2"
+					"texture": "#0"
 				}
 			}
 		},
@@ -99,7 +99,7 @@
 						12,
 						14.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [
@@ -108,7 +108,7 @@
 						11,
 						14.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [
@@ -117,7 +117,7 @@
 						10,
 						14.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [
@@ -126,7 +126,7 @@
 						9,
 						14.5
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [
@@ -135,7 +135,7 @@
 						10,
 						13
 					],
-					"texture": "#2"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [
@@ -144,7 +144,7 @@
 						10,
 						13
 					],
-					"texture": "#2"
+					"texture": "#0"
 				}
 			}
 		}

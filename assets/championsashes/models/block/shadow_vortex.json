@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "ld:block/shadow_vortex",
-		"particle": "ld:block/shadow_vortex"
+		"0": "championsashes:block/shadow_vortex",
+		"particle": "championsashes:block/shadow_vortex"
 	},
 	"elements": [
 		{

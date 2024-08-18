@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "ld:block/crying_waystone_side",
-		"4": "ld:block/crying_waystone_bottom",
-		"7": "ld:block/crying_waystone_side_top",
-		"particle": "ld:block/crying_waystone_side"
+		"2": "championsashes:block/crying_waystone_side",
+		"4": "championsashes:block/crying_waystone_bottom",
+		"7": "championsashes:block/crying_waystone_side_top",
+		"particle": "championsashes:block/crying_waystone_side"
 	},
 	"elements": [
 		{

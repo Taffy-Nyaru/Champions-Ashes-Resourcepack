@@ -1,82 +1,88 @@
 {
 	"textures": {
-		"3": "animated_java:item/gravity_thrust/slash"
+		"6": "animated_java:item/gravity_thrust/gravity_slash"
 	},
 	"elements": [
 		{
 			"from": [
-				11.333333333333332,
-				-4,
+				10.333333333333332,
+				-7.666666666666666,
 				8
 			],
 			"to": [
-				20.666666666666664,
-				20,
+				19.666666666666664,
+				16.333333333333332,
 				8
 			],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
 				"origin": [
-					9.11111111111111,
-					-6.222222222222221,
+					30.5,
+					10.333333333333332,
 					8
 				]
 			},
 			"faces": {
 				"north": {
 					"uv": [
+						16,
+						16,
 						0,
-						0,
-						5.75,
-						13.5
+						0
 					],
-					"texture": "#3"
+					"rotation": 90,
+					"texture": "#6"
 				},
 				"east": {
 					"uv": [
+						5.75,
 						0,
 						0,
-						0,
-						13.5
+						0
 					],
-					"texture": "#3"
+					"rotation": 90,
+					"texture": "#6"
 				},
 				"south": {
 					"uv": [
-						5.75,
 						0,
-						11.5,
-						13.5
+						16,
+						16,
+						0
 					],
-					"texture": "#3"
+					"rotation": 270,
+					"texture": "#6"
 				},
 				"west": {
 					"uv": [
+						5.75,
+						0,
+						0,
+						0
+					],
+					"rotation": 90,
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [
 						0,
 						0,
 						0,
 						13.5
 					],
-					"texture": "#3"
-				},
-				"up": {
-					"uv": [
-						5.75,
-						0,
-						0,
-						0
-					],
-					"texture": "#3"
+					"rotation": 270,
+					"texture": "#6"
 				},
 				"down": {
 					"uv": [
-						5.75,
 						0,
 						0,
-						0
+						0,
+						13.5
 					],
-					"texture": "#3"
+					"rotation": 270,
+					"texture": "#6"
 				}
 			}
 		}

@@ -428,145 +428,145 @@
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect1"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 72
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect2"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 73
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect3"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 74
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect4"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 75
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect5"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 76
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect6"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 77
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect7"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 78
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect8"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 79
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_effect9"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_effect9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 80
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/right_arm2"
+			"model": "animated_java:item/gravity_thrust/enchantment2/right_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 81
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/right_arm"
+			"model": "animated_java:item/gravity_thrust/enchantment2/right_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 82
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/left_arm2"
+			"model": "animated_java:item/gravity_thrust/enchantment2/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 83
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/gravity_vortex"
+			"model": "animated_java:item/gravity_thrust/enchantment2/gravity_vortex"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 84
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/slash"
+			"model": "animated_java:item/gravity_thrust/enchantment2/slash"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 85
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/enchantment"
+			"model": "animated_java:item/gravity_thrust/enchantment2/enchantment"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 86
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/greatsword"
+			"model": "animated_java:item/gravity_thrust/enchantment2/greatsword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 87
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/left_arm"
+			"model": "animated_java:item/gravity_thrust/enchantment2/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 88
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/head"
+			"model": "animated_java:item/gravity_thrust/enchantment2/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 89
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/body_top"
+			"model": "animated_java:item/gravity_thrust/enchantment2/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 90
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/body"
+			"model": "animated_java:item/gravity_thrust/enchantment2/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 91
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/right_leg2"
+			"model": "animated_java:item/gravity_thrust/enchantment2/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 92
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/right_leg"
+			"model": "animated_java:item/gravity_thrust/enchantment2/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 93
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/left_leg2"
+			"model": "animated_java:item/gravity_thrust/enchantment2/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 94
 			},
-			"model": "animated_java:item/gravity_thrust/new_variant/left_leg"
+			"model": "animated_java:item/gravity_thrust/enchantment2/left_leg"
 		},
 		{
 			"predicate": {
@@ -1100,91 +1100,91 @@
 			"predicate": {
 				"custom_model_data": 183
 			},
-			"model": "animated_java:item/gravity_soul_stream/gravity_soul_stream_inner_core"
+			"model": "animated_java:item/gravity_soul_stream/meteorite_staff_effects"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 184
 			},
-			"model": "animated_java:item/gravity_soul_stream/meteorite_staff_effects"
+			"model": "animated_java:item/gravity_soul_stream/gravity_soul_stream_outer_core"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 185
 			},
-			"model": "animated_java:item/gravity_soul_stream/gravity_soul_stream_outer_core"
+			"model": "animated_java:item/gravity_soul_stream/gravity_soul_stream_inner_core"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 186
 			},
-			"model": "animated_java:item/gravity_soul_stream/gravity_soul_stream"
+			"model": "animated_java:item/gravity_soul_stream/soul_stream_effects"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 187
 			},
-			"model": "animated_java:item/gravity_soul_stream/soul_stream_effects"
+			"model": "animated_java:item/gravity_soul_stream/meteorite_staff"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 188
 			},
-			"model": "animated_java:item/gravity_soul_stream/meteorite_staff"
+			"model": "animated_java:item/gravity_soul_stream/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 189
 			},
-			"model": "animated_java:item/gravity_soul_stream/left_arm2"
+			"model": "animated_java:item/gravity_soul_stream/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 190
 			},
-			"model": "animated_java:item/gravity_soul_stream/left_arm"
+			"model": "animated_java:item/gravity_soul_stream/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 191
 			},
-			"model": "animated_java:item/gravity_soul_stream/head"
+			"model": "animated_java:item/gravity_soul_stream/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 192
 			},
-			"model": "animated_java:item/gravity_soul_stream/body_top"
+			"model": "animated_java:item/gravity_soul_stream/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 193
 			},
-			"model": "animated_java:item/gravity_soul_stream/body"
+			"model": "animated_java:item/gravity_soul_stream/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 194
 			},
-			"model": "animated_java:item/gravity_soul_stream/right_leg2"
+			"model": "animated_java:item/gravity_soul_stream/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 195
 			},
-			"model": "animated_java:item/gravity_soul_stream/right_leg"
+			"model": "animated_java:item/gravity_soul_stream/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 196
 			},
-			"model": "animated_java:item/gravity_soul_stream/left_leg2"
+			"model": "animated_java:item/gravity_soul_stream/left_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 197
 			},
-			"model": "animated_java:item/gravity_soul_stream/left_leg"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt"
 		},
 		{
 			"predicate": {
@@ -1245,6 +1245,1290 @@
 				"custom_model_data": 207
 			},
 			"model": "animated_java:item/gravity_sniper/laser"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 208
+			},
+			"model": "animated_java:item/dimension_slash/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 209
+			},
+			"model": "animated_java:item/dimension_slash/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 210
+			},
+			"model": "animated_java:item/dimension_slash/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 211
+			},
+			"model": "animated_java:item/dimension_slash/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 212
+			},
+			"model": "animated_java:item/dimension_slash/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 213
+			},
+			"model": "animated_java:item/dimension_slash/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 214
+			},
+			"model": "animated_java:item/dimension_slash/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 215
+			},
+			"model": "animated_java:item/dimension_slash/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 216
+			},
+			"model": "animated_java:item/dimension_slash/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 217
+			},
+			"model": "animated_java:item/dimension_slash/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 218
+			},
+			"model": "animated_java:item/dimension_slash/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 219
+			},
+			"model": "animated_java:item/dimension_slash/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 220
+			},
+			"model": "animated_java:item/dimension_slash/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 221
+			},
+			"model": "animated_java:item/dimension_slash/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 222
+			},
+			"model": "animated_java:item/dimension_slash/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 223
+			},
+			"model": "animated_java:item/dimension_slash/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 224
+			},
+			"model": "animated_java:item/dimension_slash/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 225
+			},
+			"model": "animated_java:item/dimension_slash/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 226
+			},
+			"model": "animated_java:item/dimension_slash/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 227
+			},
+			"model": "animated_java:item/dimension_slash/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 228
+			},
+			"model": "animated_java:item/dimension_slash/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 229
+			},
+			"model": "animated_java:item/dimension_slash/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 230
+			},
+			"model": "animated_java:item/dimension_slash/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 231
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 232
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 233
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 234
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 235
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 236
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 237
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 238
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 239
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 240
+			},
+			"model": "animated_java:item/dimension_slash/slash2/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 241
+			},
+			"model": "animated_java:item/dimension_slash/slash2/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 242
+			},
+			"model": "animated_java:item/dimension_slash/slash2/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 243
+			},
+			"model": "animated_java:item/dimension_slash/slash2/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 244
+			},
+			"model": "animated_java:item/dimension_slash/slash2/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 245
+			},
+			"model": "animated_java:item/dimension_slash/slash2/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 246
+			},
+			"model": "animated_java:item/dimension_slash/slash2/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 247
+			},
+			"model": "animated_java:item/dimension_slash/slash2/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 248
+			},
+			"model": "animated_java:item/dimension_slash/slash2/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 249
+			},
+			"model": "animated_java:item/dimension_slash/slash2/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 250
+			},
+			"model": "animated_java:item/dimension_slash/slash2/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 251
+			},
+			"model": "animated_java:item/dimension_slash/slash2/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 252
+			},
+			"model": "animated_java:item/dimension_slash/slash2/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 253
+			},
+			"model": "animated_java:item/dimension_slash/slash2/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 254
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 255
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 256
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 257
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 258
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 259
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 260
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 261
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 262
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 263
+			},
+			"model": "animated_java:item/dimension_slash/slash3/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 264
+			},
+			"model": "animated_java:item/dimension_slash/slash3/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 265
+			},
+			"model": "animated_java:item/dimension_slash/slash3/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 266
+			},
+			"model": "animated_java:item/dimension_slash/slash3/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 267
+			},
+			"model": "animated_java:item/dimension_slash/slash3/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 268
+			},
+			"model": "animated_java:item/dimension_slash/slash3/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 269
+			},
+			"model": "animated_java:item/dimension_slash/slash3/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 270
+			},
+			"model": "animated_java:item/dimension_slash/slash3/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 271
+			},
+			"model": "animated_java:item/dimension_slash/slash3/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 272
+			},
+			"model": "animated_java:item/dimension_slash/slash3/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 273
+			},
+			"model": "animated_java:item/dimension_slash/slash3/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 274
+			},
+			"model": "animated_java:item/dimension_slash/slash3/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 275
+			},
+			"model": "animated_java:item/dimension_slash/slash3/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 276
+			},
+			"model": "animated_java:item/dimension_slash/slash3/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 277
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 278
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 279
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 280
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 281
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 282
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 283
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 284
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 285
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 286
+			},
+			"model": "animated_java:item/dimension_slash/slash4/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 287
+			},
+			"model": "animated_java:item/dimension_slash/slash4/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 288
+			},
+			"model": "animated_java:item/dimension_slash/slash4/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 289
+			},
+			"model": "animated_java:item/dimension_slash/slash4/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 290
+			},
+			"model": "animated_java:item/dimension_slash/slash4/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 291
+			},
+			"model": "animated_java:item/dimension_slash/slash4/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 292
+			},
+			"model": "animated_java:item/dimension_slash/slash4/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 293
+			},
+			"model": "animated_java:item/dimension_slash/slash4/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 294
+			},
+			"model": "animated_java:item/dimension_slash/slash4/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 295
+			},
+			"model": "animated_java:item/dimension_slash/slash4/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 296
+			},
+			"model": "animated_java:item/dimension_slash/slash4/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 297
+			},
+			"model": "animated_java:item/dimension_slash/slash4/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 298
+			},
+			"model": "animated_java:item/dimension_slash/slash4/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 299
+			},
+			"model": "animated_java:item/dimension_slash/slash4/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 300
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 301
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 302
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 303
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 304
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 305
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 306
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 307
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 308
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 309
+			},
+			"model": "animated_java:item/dimension_slash/slash5/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 310
+			},
+			"model": "animated_java:item/dimension_slash/slash5/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 311
+			},
+			"model": "animated_java:item/dimension_slash/slash5/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 312
+			},
+			"model": "animated_java:item/dimension_slash/slash5/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 313
+			},
+			"model": "animated_java:item/dimension_slash/slash5/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 314
+			},
+			"model": "animated_java:item/dimension_slash/slash5/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 315
+			},
+			"model": "animated_java:item/dimension_slash/slash5/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 316
+			},
+			"model": "animated_java:item/dimension_slash/slash5/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 317
+			},
+			"model": "animated_java:item/dimension_slash/slash5/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 318
+			},
+			"model": "animated_java:item/dimension_slash/slash5/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 319
+			},
+			"model": "animated_java:item/dimension_slash/slash5/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 320
+			},
+			"model": "animated_java:item/dimension_slash/slash5/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 321
+			},
+			"model": "animated_java:item/dimension_slash/slash5/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 322
+			},
+			"model": "animated_java:item/dimension_slash/slash5/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 323
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 324
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 325
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 326
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 327
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 328
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 329
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 330
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 331
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 332
+			},
+			"model": "animated_java:item/dimension_slash/slash6/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 333
+			},
+			"model": "animated_java:item/dimension_slash/slash6/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 334
+			},
+			"model": "animated_java:item/dimension_slash/slash6/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 335
+			},
+			"model": "animated_java:item/dimension_slash/slash6/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 336
+			},
+			"model": "animated_java:item/dimension_slash/slash6/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 337
+			},
+			"model": "animated_java:item/dimension_slash/slash6/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 338
+			},
+			"model": "animated_java:item/dimension_slash/slash6/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 339
+			},
+			"model": "animated_java:item/dimension_slash/slash6/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 340
+			},
+			"model": "animated_java:item/dimension_slash/slash6/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 341
+			},
+			"model": "animated_java:item/dimension_slash/slash6/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 342
+			},
+			"model": "animated_java:item/dimension_slash/slash6/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 343
+			},
+			"model": "animated_java:item/dimension_slash/slash6/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 344
+			},
+			"model": "animated_java:item/dimension_slash/slash6/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 345
+			},
+			"model": "animated_java:item/dimension_slash/slash6/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "animated_java:item/dimension_slash/slash7/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "animated_java:item/dimension_slash/slash7/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "animated_java:item/dimension_slash/slash7/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "animated_java:item/dimension_slash/slash7/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "animated_java:item/dimension_slash/slash7/moonveil_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "animated_java:item/dimension_slash/slash7/moonveil"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "animated_java:item/dimension_slash/slash7/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "animated_java:item/dimension_slash/slash7/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "animated_java:item/dimension_slash/slash7/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "animated_java:item/dimension_slash/slash7/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "animated_java:item/dimension_slash/slash7/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "animated_java:item/dimension_slash/slash7/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "animated_java:item/dimension_slash/slash7/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "animated_java:item/dimension_slash/slash7/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "animated_java:item/gravity_orb_projectile/gravity_core"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 370
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 373
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 374
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 375
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 376
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 377
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 378
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 379
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 380
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 381
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 382
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 383
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 384
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 385
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 386
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 387
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 388
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 389
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 390
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 391
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 392
+			},
+			"model": "animated_java:item/meteorite_shockwave/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 393
+			},
+			"model": "animated_java:item/meteorite_shockwave/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 394
+			},
+			"model": "animated_java:item/meteorite_shockwave/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 395
+			},
+			"model": "animated_java:item/meteorite_shockwave/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 396
+			},
+			"model": "animated_java:item/meteorite_shockwave/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 397
+			},
+			"model": "animated_java:item/meteorite_shockwave/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 398
+			},
+			"model": "animated_java:item/ancient_lightning_strike/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 399
+			},
+			"model": "animated_java:item/ancient_lightning_strike/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 400
+			},
+			"model": "animated_java:item/ancient_lightning_strike/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 401
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 402
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 403
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 404
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 405
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 406
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 407
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 408
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 409
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 410
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 411
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 412
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 413
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 414
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 415
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 416
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 417
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 418
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 419
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 420
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 421
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_orb"
 		}
 	],
 	"animated_java": {
@@ -1495,8 +2779,7 @@
 					193,
 					194,
 					195,
-					196,
-					197
+					196
 				]
 			},
 			"gravity_orb": {
@@ -1515,6 +2798,237 @@
 				"used_ids": [
 					206,
 					207
+				]
+			},
+			"dimension_slash": {
+				"used_ids": [
+					208,
+					209,
+					210,
+					211,
+					212,
+					213,
+					214,
+					215,
+					216,
+					217,
+					218,
+					219,
+					220,
+					221,
+					222,
+					223,
+					224,
+					225,
+					226,
+					227,
+					228,
+					229,
+					230,
+					231,
+					232,
+					233,
+					234,
+					235,
+					236,
+					237,
+					238,
+					239,
+					240,
+					241,
+					242,
+					243,
+					244,
+					245,
+					246,
+					247,
+					248,
+					249,
+					250,
+					251,
+					252,
+					253,
+					254,
+					255,
+					256,
+					257,
+					258,
+					259,
+					260,
+					261,
+					262,
+					263,
+					264,
+					265,
+					266,
+					267,
+					268,
+					269,
+					270,
+					271,
+					272,
+					273,
+					274,
+					275,
+					276,
+					277,
+					278,
+					279,
+					280,
+					281,
+					282,
+					283,
+					284,
+					285,
+					286,
+					287,
+					288,
+					289,
+					290,
+					291,
+					292,
+					293,
+					294,
+					295,
+					296,
+					297,
+					298,
+					299,
+					300,
+					301,
+					302,
+					303,
+					304,
+					305,
+					306,
+					307,
+					308,
+					309,
+					310,
+					311,
+					312,
+					313,
+					314,
+					315,
+					316,
+					317,
+					318,
+					319,
+					320,
+					321,
+					322,
+					323,
+					324,
+					325,
+					326,
+					327,
+					328,
+					329,
+					330,
+					331,
+					332,
+					333,
+					334,
+					335,
+					336,
+					337,
+					338,
+					339,
+					340,
+					341,
+					342,
+					343,
+					344,
+					345,
+					346,
+					347,
+					348,
+					349,
+					350,
+					351,
+					352,
+					353,
+					354,
+					355,
+					356,
+					357,
+					358,
+					359,
+					360,
+					361,
+					362,
+					363,
+					364,
+					365,
+					366,
+					367,
+					368
+				]
+			},
+			"gravity_orb_projectile": {
+				"used_ids": [
+					369
+				]
+			},
+			"meteorite_shockwave": {
+				"used_ids": [
+					370,
+					371,
+					372,
+					373,
+					374,
+					375,
+					376,
+					377,
+					378,
+					379,
+					380,
+					381,
+					382,
+					383,
+					384,
+					385,
+					386,
+					387,
+					388,
+					389,
+					390,
+					391,
+					392,
+					393,
+					394,
+					395,
+					396,
+					397
+				]
+			},
+			"ancient_lightning_strike": {
+				"used_ids": [
+					197,
+					398,
+					399,
+					400,
+					401,
+					402,
+					403,
+					404,
+					405,
+					406,
+					407,
+					408,
+					409,
+					410,
+					411,
+					412,
+					413,
+					414,
+					415,
+					416,
+					417,
+					418,
+					419,
+					420,
+					421
 				]
 			}
 		}

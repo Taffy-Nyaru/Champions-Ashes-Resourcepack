@@ -1,20 +1,40 @@
 {
-  "credit": "Made with Blockbench",
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "championsashes:item/cat_medal",
-    "particle": "championsashes:item/cat_medal"
-  },
-  "display": {
-    "thirdperson_lefthand": {
-      "rotation": [ 70, 180, 0 ],
-      "translation": [ -4.25, 0, 6.75 ],
-      "scale": [ 0.5, 0.5, 0.5 ]
-    },
-    "firstperson_lefthand": {
-      "rotation": [ 0, 0, 0 ],
-      "translation": [ 0, 0, 0 ],
-      "scale": [ 0, 0, 0 ]
-    }
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"particle": "championsashes:item/cat_medal",
+		"layer0": "championsashes:item/cat_medal"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [70, 180, 0],
+			"translation": [-4.25, 0, 8.25],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -58, 13],
+			"translation": [0, 3.75, -1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -58, 13],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [-2.75, -11.5, -3.5],
+			"scale": [0.25, 0.25, 0.25]
+		}
+	}
 }

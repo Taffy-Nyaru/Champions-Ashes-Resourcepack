@@ -1,18 +1,18 @@
 {
 	"textures": {
-		"2": "ld:item/ringed_knight_paired_greatsword_right"
+		"2": "animated_java:item/rkgugs_skill/ringed_knight_paired_greatsword_right"
 	},
 	"elements": [
 		{
 			"from": [
 				8.75,
 				-4.75,
-				-4
+				7.25
 			],
 			"to": [
 				8.75,
 				19.25,
-				20
+				31.25
 			],
 			"rotation": {
 				"angle": 45,
@@ -20,7 +20,7 @@
 				"origin": [
 					8.75,
 					8,
-					8
+					19.25
 				]
 			},
 			"faces": {

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"7": "animated_java:item/ancient_lightning_strike/lightning_orb_outer"
+	},
+	"elements": [
+		{
+			"from": [
+				6,
+				-3,
+				-4
+			],
+			"to": [
+				10,
+				20,
+				20
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						12.3636375,
+						0,
+						16,
+						16
+					],
+					"texture": "#7"
+				},
+				"east": {
+					"uv": [
+						11.6363625,
+						0,
+						12.3636375,
+						12.3636375
+					],
+					"texture": "#7"
+				},
+				"south": {
+					"uv": [
+						12.3636375,
+						0,
+						16,
+						16
+					],
+					"texture": "#7"
+				},
+				"west": {
+					"uv": [
+						11.6363625,
+						0,
+						12.3636375,
+						12.3636375
+					],
+					"texture": "#7"
+				},
+				"up": {
+					"uv": [
+						16,
+						16,
+						12.3636375,
+						0
+					],
+					"texture": "#7"
+				},
+				"down": {
+					"uv": [
+						16,
+						16,
+						12.3636375,
+						0
+					],
+					"texture": "#7"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

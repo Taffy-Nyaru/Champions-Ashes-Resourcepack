@@ -1,0 +1,98 @@
+{
+	"textures": {
+		"1": "animated_java:item/meteorite_shockwave/meteorite_particles"
+	},
+	"elements": [
+		{
+			"from": [
+				7.25,
+				7.5177700000000005,
+				6.14645
+			],
+			"to": [
+				8.75,
+				9.01777,
+				7.14645
+			],
+			"rotation": {
+				"angle": -45,
+				"axis": "x",
+				"origin": [
+					8,
+					9.76777,
+					7.64645
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						9,
+						3.5,
+						15.25,
+						6.75
+					],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						7,
+						9.25,
+						13.25,
+						11.75
+					],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						2,
+						2.5,
+						8.25,
+						5.25
+					],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						3,
+						13.125,
+						9.25,
+						15.625
+					],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						6.5,
+						9,
+						12.25,
+						12.5
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						0.5,
+						5,
+						5.25,
+						7.5
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

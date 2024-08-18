@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"1": "ld:block/upgrade_table_front",
-		"2": "ld:block/upgrade_table_side",
-		"3": "ld:block/upgrade_table_bottom",
-		"4": "ld:block/glass",
-		"particle": "ld:block/upgrade_table_front"
+		"1": "championsashes:block/upgrade_table_front",
+		"2": "championsashes:block/upgrade_table_side",
+		"3": "championsashes:block/upgrade_table_bottom",
+		"4": "championsashes:block/glass",
+		"particle": "championsashes:block/upgrade_table_front"
 	},
 	"elements": [
 		{

@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "ld:block/chiseled_nether_bricks",
-		"1": "ld:block/steel_furnace_lit",
-		"2": "ld:block/nether_bricks",
-		"particle": "ld:block/chiseled_nether_bricks"
+		"0": "championsashes:block/chiseled_nether_bricks",
+		"1": "championsashes:block/steel_furnace_lit",
+		"2": "championsashes:block/nether_bricks",
+		"particle": "championsashes:block/chiseled_nether_bricks"
 	},
 	"elements": [
 		{

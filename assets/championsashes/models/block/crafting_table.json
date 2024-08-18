@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "ld:block/crafting_table_top",
-		"1": "ld:block/crafting_table_side"
+		"0": "championsashes:block/crafting_table_top",
+		"1": "championsashes:block/crafting_table_side"
 	},
 	"elements": [
 		{

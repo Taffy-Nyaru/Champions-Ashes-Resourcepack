@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "ld:block/meteorite",
-		"1": "ld:block/meteorite_effects",
-		"particle": "ld:block/meteorite"
+		"0": "championsashes:block/meteorite",
+		"1": "championsashes:block/meteorite_effects",
+		"particle": "championsashes:block/meteorite"
 	},
 	"elements": [
 		{
@@ -1046,62 +1046,62 @@
 			"origin": [0, 0, 0],
 			"color": 0,
 			"nbt": "{}",
-			"children": [
+			"chichampionsashesren": [
 				{
 					"name": "core",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [0]
+					"chichampionsashesren": [0]
 				},
 				{
 					"name": "face1",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+					"chichampionsashesren": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 				},
 				{
 					"name": "face2",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+					"chichampionsashesren": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
 				},
 				{
 					"name": "face3",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
+					"chichampionsashesren": [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
 				},
 				{
 					"name": "face4",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [48, 49, 50, 51, 52, 53, 54, 55]
+					"chichampionsashesren": [48, 49, 50, 51, 52, 53, 54, 55]
 				},
 				{
 					"name": "up",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
+					"chichampionsashesren": [56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
 				},
 				{
 					"name": "down",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [67, 68, 69, 70, 71, 72, 73, 74, 75, 76]
+					"chichampionsashesren": [67, 68, 69, 70, 71, 72, 73, 74, 75, 76]
 				},
 				{
 					"name": "effects",
 					"origin": [0, 0, 0],
 					"color": 0,
 					"nbt": "{}",
-					"children": [77, 78]
+					"chichampionsashesren": [77, 78]
 				}
 			]
 		}

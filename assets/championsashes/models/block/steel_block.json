@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"0": "ld:block/steel_block"
+		"0": "championsashes:block/steel_block"
 	},
 	"elements": [
 		{

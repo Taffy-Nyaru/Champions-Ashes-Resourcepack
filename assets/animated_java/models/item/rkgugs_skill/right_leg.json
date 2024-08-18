@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"4": "ld:item/entities/ringed_knight"
+		"4": "animated_java:item/rkgugs_skill/ringed_knight"
 	},
 	"elements": [
 		{

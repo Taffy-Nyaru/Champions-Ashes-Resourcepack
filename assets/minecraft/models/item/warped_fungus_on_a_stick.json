@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "championsashes:item/gochampionsashes_medal",
+      "model": "championsashes:item/gold_medal",
       "predicate": { "custom_model_data": 1380001 }
     },
     {
@@ -85,11 +85,11 @@
       "predicate": { "custom_model_data": 1390043 }
     },
     {
-      "model": "championsashes:item/ochampionsashes_sorcerer_hat",
+      "model": "championsashes:item/old_sorcerer_hat",
       "predicate": { "custom_model_data": 1390052 }
     },
     {
-      "model": "championsashes:item/ochampionsashes_sorcerer_hat_nep",
+      "model": "championsashes:item/old_sorcerer_hat_nep",
       "predicate": { "custom_model_data": 1390053 }
     },
     {
@@ -119,6 +119,14 @@
 		{
       "model": "championsashes:item/moonlight_slash",
       "predicate": { "custom_model_data": 1390091 }
+    },
+    {
+      "model": "championsashes:item/meteorite_staff",
+      "predicate": { "custom_model_data": 1390097 }
+    },
+    {
+      "model": "championsashes:item/meteorite_staff_ignite",
+      "predicate": { "custom_model_data": 1390098 }
     }
   ]
 }

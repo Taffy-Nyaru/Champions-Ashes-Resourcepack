@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"layer0": "ld:block/lazer",
-		"layer1": "ld:block/lazer_horizontal",
-		"particle": "ld:block/lazer"
+		"layer0": "championsashes:block/lazer",
+		"layer1": "championsashes:block/lazer_horizontal",
+		"particle": "championsashes:block/lazer"
 	},
 	"elements": [
 		{

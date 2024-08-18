@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "ld:block/meteorite_effects"
+		"4": "animated_java:item/starscaller/meteorite_effects"
 	},
 	"elements": [
 		{
@@ -32,7 +32,7 @@
 						8
 					],
 					"rotation": 180,
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"east": {
 					"uv": [
@@ -42,7 +42,7 @@
 						16
 					],
 					"rotation": 90,
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"south": {
 					"uv": [
@@ -51,7 +51,7 @@
 						0,
 						8
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"west": {
 					"uv": [
@@ -61,7 +61,7 @@
 						16
 					],
 					"rotation": 270,
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"up": {
 					"uv": [
@@ -70,7 +70,7 @@
 						0,
 						14
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"down": {
 					"uv": [
@@ -80,7 +80,7 @@
 						14
 					],
 					"rotation": 180,
-					"texture": "#1"
+					"texture": "#4"
 				}
 			}
 		},
@@ -112,7 +112,7 @@
 						8,
 						16
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"east": {
 					"uv": [
@@ -121,7 +121,7 @@
 						0,
 						14
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"south": {
 					"uv": [
@@ -130,7 +130,7 @@
 						8,
 						16
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"west": {
 					"uv": [
@@ -139,7 +139,7 @@
 						0,
 						14
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"up": {
 					"uv": [
@@ -148,7 +148,7 @@
 						0,
 						0
 					],
-					"texture": "#1"
+					"texture": "#4"
 				},
 				"down": {
 					"uv": [
@@ -157,7 +157,7 @@
 						0,
 						0
 					],
-					"texture": "#1"
+					"texture": "#4"
 				}
 			}
 		}

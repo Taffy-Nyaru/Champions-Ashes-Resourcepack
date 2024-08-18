@@ -19,6 +19,10 @@
       {
         "model": "championsashes:item/moonlight_greatsword",
         "predicate": { "custom_model_data": 1390090 }
+      },
+      {
+        "model": "championsashes:item/moonveil",
+        "predicate": { "custom_model_data": 1390096 }
       }
     ]
   }

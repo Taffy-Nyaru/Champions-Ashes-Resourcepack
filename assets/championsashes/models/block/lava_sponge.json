@@ -1,7 +1,7 @@
 {
   "parent": "block/block",
   "textures": {
-    "0": "ld:block/lava_sponge"
+    "0": "championsashes:block/lava_sponge"
   },
   "elements": [
     {

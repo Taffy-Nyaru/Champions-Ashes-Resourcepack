@@ -1,7 +1,7 @@
 {
 	"parent": "animated_java:item/rkgugs_skill/right_arm",
 	"textures": {
-		"2": "ld:item/ringed_knight_paired_greatsword_ember_right",
-		"3": "ld:item/ringed_knight_paired_greatsword_ember_left"
+		"2": "animated_java:item/rkgugs_skill/ringed_knight_paired_greatsword_ember_right",
+		"3": "animated_java:item/rkgugs_skill/ringed_knight_paired_greatsword_ember_left"
 	}
 }

@@ -1,82 +1,82 @@
 {
 	"textures": {
-		"3": "animated_java:item/gravity_soul_stream/gravity_soul_stream"
+		"4": "animated_java:item/gravity_soul_stream/gravity_soul_stream"
 	},
 	"elements": [
 		{
 			"from": [
-				7.916157205240174,
-				32,
-				7.916157205240174
+				4,
+				8,
+				4
 			],
 			"to": [
-				8.083842794759825,
-				8,
-				8.083842794759825
+				12,
+				23,
+				12
 			],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
 				"origin": [
 					8,
-					19.87423580786026,
+					574.5,
 					8
 				]
 			},
 			"faces": {
 				"north": {
 					"uv": [
-						0,
-						0,
-						8.333335,
+						8.99999875,
+						8,
+						16,
 						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				},
 				"east": {
 					"uv": [
-						0,
-						0,
-						8.333335,
+						8.99999875,
+						8,
+						16,
 						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				},
 				"south": {
 					"uv": [
-						0,
-						0,
-						8.333335,
+						8.99999875,
+						8,
+						16,
 						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				},
 				"west": {
 					"uv": [
-						0,
-						0,
-						8.333335,
+						8.99999875,
+						8,
+						16,
 						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				},
 				"up": {
 					"uv": [
-						0.333335,
-						0,
-						0,
-						0
+						16,
+						8,
+						8.99999875,
+						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				},
 				"down": {
 					"uv": [
-						8.333335,
-						0,
-						0,
+						16,
+						8,
+						8.99999875,
 						16
 					],
-					"texture": "#3"
+					"texture": "#4"
 				}
 			}
 		}

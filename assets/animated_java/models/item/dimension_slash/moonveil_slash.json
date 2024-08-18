@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"9": "animated_java:item/dimension_slash/moonveil_slash"
+	},
+	"elements": [
+		{
+			"from": [
+				7.466666666666667,
+				-15.466666666666665,
+				9.066666666666666
+			],
+			"to": [
+				7.466666666666667,
+				8.533333333333333,
+				19.199999999999996
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#9"
+				},
+				"east": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"rotation": 90,
+					"texture": "#9"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#9"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 270,
+					"texture": "#9"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#9"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#9"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/gravity_thrust/left_leg",
+	"textures": {
+		"2": "animated_java:item/gravity_thrust/enchantment2"
+	}
+}

@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"2": "ld:block/crying_waystone_activated_side_4",
-		"3": "ld:block/crying_waystone_activated_side_3",
-		"4": "ld:block/crying_waystone_bottom",
-		"5": "ld:block/crying_waystone_activated_side_2",
-		"6": "ld:block/crying_waystone_side_top_activated",
-		"7": "ld:block/crying_waystone_activated_side_1",
-		"particle": "ld:block/crying_waystone_activated_side_4"
+		"2": "championsashes:block/crying_waystone_activated_side_4",
+		"3": "championsashes:block/crying_waystone_activated_side_3",
+		"4": "championsashes:block/crying_waystone_bottom",
+		"5": "championsashes:block/crying_waystone_activated_side_2",
+		"6": "championsashes:block/crying_waystone_side_top_activated",
+		"7": "championsashes:block/crying_waystone_activated_side_1",
+		"particle": "championsashes:block/crying_waystone_activated_side_4"
 	},
 	"elements": [
 		{
