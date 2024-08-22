@@ -2642,37 +2642,37 @@
 			"predicate": {
 				"custom_model_data": 440
 			},
-			"model": "animated_java:item/blueprint/left_arm"
+			"model": "animated_java:item/blueprint/black_knight_shield"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 441
 			},
-			"model": "animated_java:item/blueprint/left_arm2"
+			"model": "animated_java:item/blueprint/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 442
 			},
-			"model": "animated_java:item/blueprint/spear_of_the_impaler"
+			"model": "animated_java:item/blueprint/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 443
 			},
-			"model": "animated_java:item/blueprint/flame_slash"
+			"model": "animated_java:item/blueprint/ringed_knight_straight_sword"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 444
 			},
-			"model": "animated_java:item/blueprint/flame_slash2"
+			"model": "animated_java:item/blueprint/flame_slash"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 445
 			},
-			"model": "animated_java:item/blueprint/impaling_thrust"
+			"model": "animated_java:item/blueprint/sword_body"
 		},
 		{
 			"predicate": {
@@ -2714,745 +2714,289 @@
 			"predicate": {
 				"custom_model_data": 452
 			},
-			"model": "animated_java:item/blueprint/spear_effects0"
+			"model": "animated_java:item/blueprint/black_knight_shield/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 453
 			},
-			"model": "animated_java:item/blueprint/spear_effects1"
+			"model": "animated_java:item/blueprint/right_arm2/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 454
 			},
-			"model": "animated_java:item/blueprint/spear_effects2"
+			"model": "animated_java:item/blueprint/right_arm/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 455
 			},
-			"model": "animated_java:item/blueprint/spear_effects3"
+			"model": "animated_java:item/blueprint/flame_slash/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 456
 			},
-			"model": "animated_java:item/blueprint/spear_effects4"
+			"model": "animated_java:item/blueprint/sword_body/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 457
 			},
-			"model": "animated_java:item/blueprint/spear_effects5"
+			"model": "animated_java:item/blueprint/ringed_knight_straight_sword/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 458
 			},
-			"model": "animated_java:item/blueprint/spear_effects6"
+			"model": "animated_java:item/blueprint/left_arm2/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 459
 			},
-			"model": "animated_java:item/blueprint/spear_effects7"
+			"model": "animated_java:item/blueprint/left_arm/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 460
 			},
-			"model": "animated_java:item/blueprint/spear_effects8"
+			"model": "animated_java:item/blueprint/head/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 461
 			},
-			"model": "animated_java:item/blueprint/spear_effects9"
+			"model": "animated_java:item/blueprint/body_top/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 462
 			},
-			"model": "animated_java:item/blueprint/spear_effects10"
+			"model": "animated_java:item/blueprint/body/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 463
 			},
-			"model": "animated_java:item/blueprint/spear_effects11"
+			"model": "animated_java:item/blueprint/right_leg2/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 464
 			},
-			"model": "animated_java:item/blueprint/right_arm2/imapler0"
+			"model": "animated_java:item/blueprint/right_leg/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 465
 			},
-			"model": "animated_java:item/blueprint/right_arm/imapler0"
+			"model": "animated_java:item/blueprint/left_leg2/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 466
 			},
-			"model": "animated_java:item/blueprint/flame_slash2/imapler0"
+			"model": "animated_java:item/blueprint/left_leg/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 467
 			},
-			"model": "animated_java:item/blueprint/flame_slash/imapler0"
+			"model": "animated_java:item/blueprint/flame_blast/ignite"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 468
 			},
-			"model": "animated_java:item/blueprint/impaling_thrust/imapler0"
+			"model": "animated_java:item/blueprint/black_knight_shield/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 469
 			},
-			"model": "animated_java:item/blueprint/spear_of_the_impaler/imapler0"
+			"model": "animated_java:item/blueprint/right_arm2/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 470
 			},
-			"model": "animated_java:item/blueprint/left_arm2/imapler0"
+			"model": "animated_java:item/blueprint/right_arm/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 471
 			},
-			"model": "animated_java:item/blueprint/left_arm/imapler0"
+			"model": "animated_java:item/blueprint/flame_slash/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 472
 			},
-			"model": "animated_java:item/blueprint/head/imapler0"
+			"model": "animated_java:item/blueprint/sword_body/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 473
 			},
-			"model": "animated_java:item/blueprint/body_top/imapler0"
+			"model": "animated_java:item/blueprint/ringed_knight_straight_sword/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 474
 			},
-			"model": "animated_java:item/blueprint/body/imapler0"
+			"model": "animated_java:item/blueprint/left_arm2/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 475
 			},
-			"model": "animated_java:item/blueprint/right_leg2/imapler0"
+			"model": "animated_java:item/blueprint/left_arm/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 476
 			},
-			"model": "animated_java:item/blueprint/right_leg/imapler0"
+			"model": "animated_java:item/blueprint/head/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 477
 			},
-			"model": "animated_java:item/blueprint/left_leg2/imapler0"
+			"model": "animated_java:item/blueprint/body_top/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 478
 			},
-			"model": "animated_java:item/blueprint/left_leg/imapler0"
+			"model": "animated_java:item/blueprint/body/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 479
 			},
-			"model": "animated_java:item/blueprint/flame_blast/imapler0"
+			"model": "animated_java:item/blueprint/right_leg2/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 480
 			},
-			"model": "animated_java:item/blueprint/spear_effects0/imapler0"
+			"model": "animated_java:item/blueprint/right_leg/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 481
 			},
-			"model": "animated_java:item/blueprint/spear_effects1/imapler0"
+			"model": "animated_java:item/blueprint/left_leg2/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 482
 			},
-			"model": "animated_java:item/blueprint/spear_effects2/imapler0"
+			"model": "animated_java:item/blueprint/left_leg/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 483
 			},
-			"model": "animated_java:item/blueprint/spear_effects3/imapler0"
+			"model": "animated_java:item/blueprint/flame_blast/flame_burst0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 484
 			},
-			"model": "animated_java:item/blueprint/spear_effects4/imapler0"
+			"model": "animated_java:item/blueprint/black_knight_shield/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 485
 			},
-			"model": "animated_java:item/blueprint/spear_effects5/imapler0"
+			"model": "animated_java:item/blueprint/right_arm2/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 486
 			},
-			"model": "animated_java:item/blueprint/spear_effects6/imapler0"
+			"model": "animated_java:item/blueprint/right_arm/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 487
 			},
-			"model": "animated_java:item/blueprint/spear_effects7/imapler0"
+			"model": "animated_java:item/blueprint/flame_slash/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 488
 			},
-			"model": "animated_java:item/blueprint/spear_effects8/imapler0"
+			"model": "animated_java:item/blueprint/sword_body/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 489
 			},
-			"model": "animated_java:item/blueprint/spear_effects9/imapler0"
+			"model": "animated_java:item/blueprint/ringed_knight_straight_sword/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 490
 			},
-			"model": "animated_java:item/blueprint/spear_effects10/imapler0"
+			"model": "animated_java:item/blueprint/left_arm2/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 491
 			},
-			"model": "animated_java:item/blueprint/spear_effects11/imapler0"
+			"model": "animated_java:item/blueprint/left_arm/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 492
 			},
-			"model": "animated_java:item/blueprint/right_arm2/imapler1"
+			"model": "animated_java:item/blueprint/head/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 493
 			},
-			"model": "animated_java:item/blueprint/right_arm/imapler1"
+			"model": "animated_java:item/blueprint/body_top/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 494
 			},
-			"model": "animated_java:item/blueprint/flame_slash2/imapler1"
+			"model": "animated_java:item/blueprint/body/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 495
 			},
-			"model": "animated_java:item/blueprint/flame_slash/imapler1"
+			"model": "animated_java:item/blueprint/right_leg2/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 496
 			},
-			"model": "animated_java:item/blueprint/impaling_thrust/imapler1"
+			"model": "animated_java:item/blueprint/right_leg/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 497
 			},
-			"model": "animated_java:item/blueprint/spear_of_the_impaler/imapler1"
+			"model": "animated_java:item/blueprint/left_leg2/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 498
 			},
-			"model": "animated_java:item/blueprint/left_arm2/imapler1"
+			"model": "animated_java:item/blueprint/left_leg/flame_burst1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 499
 			},
-			"model": "animated_java:item/blueprint/left_arm/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 500
-			},
-			"model": "animated_java:item/blueprint/head/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 501
-			},
-			"model": "animated_java:item/blueprint/body_top/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 502
-			},
-			"model": "animated_java:item/blueprint/body/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 503
-			},
-			"model": "animated_java:item/blueprint/right_leg2/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 504
-			},
-			"model": "animated_java:item/blueprint/right_leg/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 505
-			},
-			"model": "animated_java:item/blueprint/left_leg2/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 506
-			},
-			"model": "animated_java:item/blueprint/left_leg/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 507
-			},
-			"model": "animated_java:item/blueprint/flame_blast/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 508
-			},
-			"model": "animated_java:item/blueprint/spear_effects0/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 509
-			},
-			"model": "animated_java:item/blueprint/spear_effects1/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 510
-			},
-			"model": "animated_java:item/blueprint/spear_effects2/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 511
-			},
-			"model": "animated_java:item/blueprint/spear_effects3/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 512
-			},
-			"model": "animated_java:item/blueprint/spear_effects4/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 513
-			},
-			"model": "animated_java:item/blueprint/spear_effects5/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 514
-			},
-			"model": "animated_java:item/blueprint/spear_effects6/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 515
-			},
-			"model": "animated_java:item/blueprint/spear_effects7/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 516
-			},
-			"model": "animated_java:item/blueprint/spear_effects8/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 517
-			},
-			"model": "animated_java:item/blueprint/spear_effects9/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 518
-			},
-			"model": "animated_java:item/blueprint/spear_effects10/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 519
-			},
-			"model": "animated_java:item/blueprint/spear_effects11/imapler1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 520
-			},
-			"model": "animated_java:item/blueprint/right_arm2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 521
-			},
-			"model": "animated_java:item/blueprint/right_arm/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 522
-			},
-			"model": "animated_java:item/blueprint/flame_slash2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 523
-			},
-			"model": "animated_java:item/blueprint/flame_slash/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 524
-			},
-			"model": "animated_java:item/blueprint/impaling_thrust/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 525
-			},
-			"model": "animated_java:item/blueprint/spear_of_the_impaler/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 526
-			},
-			"model": "animated_java:item/blueprint/left_arm2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 527
-			},
-			"model": "animated_java:item/blueprint/left_arm/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 528
-			},
-			"model": "animated_java:item/blueprint/head/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 529
-			},
-			"model": "animated_java:item/blueprint/body_top/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 530
-			},
-			"model": "animated_java:item/blueprint/body/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 531
-			},
-			"model": "animated_java:item/blueprint/right_leg2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 532
-			},
-			"model": "animated_java:item/blueprint/right_leg/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 533
-			},
-			"model": "animated_java:item/blueprint/left_leg2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 534
-			},
-			"model": "animated_java:item/blueprint/left_leg/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 535
-			},
-			"model": "animated_java:item/blueprint/flame_blast/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 536
-			},
-			"model": "animated_java:item/blueprint/spear_effects0/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 537
-			},
-			"model": "animated_java:item/blueprint/spear_effects1/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 538
-			},
-			"model": "animated_java:item/blueprint/spear_effects2/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 539
-			},
-			"model": "animated_java:item/blueprint/spear_effects3/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 540
-			},
-			"model": "animated_java:item/blueprint/spear_effects4/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 541
-			},
-			"model": "animated_java:item/blueprint/spear_effects5/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 542
-			},
-			"model": "animated_java:item/blueprint/spear_effects6/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 543
-			},
-			"model": "animated_java:item/blueprint/spear_effects7/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 544
-			},
-			"model": "animated_java:item/blueprint/spear_effects8/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 545
-			},
-			"model": "animated_java:item/blueprint/spear_effects9/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 546
-			},
-			"model": "animated_java:item/blueprint/spear_effects10/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 547
-			},
-			"model": "animated_java:item/blueprint/spear_effects11/flame_burst"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 548
-			},
-			"model": "animated_java:item/blueprint/right_arm2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 549
-			},
-			"model": "animated_java:item/blueprint/right_arm/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 550
-			},
-			"model": "animated_java:item/blueprint/flame_slash2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 551
-			},
-			"model": "animated_java:item/blueprint/flame_slash/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 552
-			},
-			"model": "animated_java:item/blueprint/impaling_thrust/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 553
-			},
-			"model": "animated_java:item/blueprint/spear_of_the_impaler/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 554
-			},
-			"model": "animated_java:item/blueprint/left_arm2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 555
-			},
-			"model": "animated_java:item/blueprint/left_arm/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 556
-			},
-			"model": "animated_java:item/blueprint/head/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 557
-			},
-			"model": "animated_java:item/blueprint/body_top/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 558
-			},
-			"model": "animated_java:item/blueprint/body/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 559
-			},
-			"model": "animated_java:item/blueprint/right_leg2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 560
-			},
-			"model": "animated_java:item/blueprint/right_leg/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 561
-			},
-			"model": "animated_java:item/blueprint/left_leg2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 562
-			},
-			"model": "animated_java:item/blueprint/left_leg/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 563
-			},
 			"model": "animated_java:item/blueprint/flame_blast/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 564
-			},
-			"model": "animated_java:item/blueprint/spear_effects0/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 565
-			},
-			"model": "animated_java:item/blueprint/spear_effects1/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 566
-			},
-			"model": "animated_java:item/blueprint/spear_effects2/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 567
-			},
-			"model": "animated_java:item/blueprint/spear_effects3/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 568
-			},
-			"model": "animated_java:item/blueprint/spear_effects4/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 569
-			},
-			"model": "animated_java:item/blueprint/spear_effects5/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 570
-			},
-			"model": "animated_java:item/blueprint/spear_effects6/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 571
-			},
-			"model": "animated_java:item/blueprint/spear_effects7/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 572
-			},
-			"model": "animated_java:item/blueprint/spear_effects8/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 573
-			},
-			"model": "animated_java:item/blueprint/spear_effects9/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 574
-			},
-			"model": "animated_java:item/blueprint/spear_effects10/flame_burst1"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 575
-			},
-			"model": "animated_java:item/blueprint/spear_effects11/flame_burst1"
 		}
 	],
 	"animated_java": {
@@ -3527,83 +3071,7 @@
 			496,
 			497,
 			498,
-			499,
-			500,
-			501,
-			502,
-			503,
-			504,
-			505,
-			506,
-			507,
-			508,
-			509,
-			510,
-			511,
-			512,
-			513,
-			514,
-			515,
-			516,
-			517,
-			518,
-			519,
-			520,
-			521,
-			522,
-			523,
-			524,
-			525,
-			526,
-			527,
-			528,
-			529,
-			530,
-			531,
-			532,
-			533,
-			534,
-			535,
-			536,
-			537,
-			538,
-			539,
-			540,
-			541,
-			542,
-			543,
-			544,
-			545,
-			546,
-			547,
-			548,
-			549,
-			550,
-			551,
-			552,
-			553,
-			554,
-			555,
-			556,
-			557,
-			558,
-			559,
-			560,
-			561,
-			562,
-			563,
-			564,
-			565,
-			566,
-			567,
-			568,
-			569,
-			570,
-			571,
-			572,
-			573,
-			574,
-			575
+			499
 		],
 		"dimension_slash": [
 			208,

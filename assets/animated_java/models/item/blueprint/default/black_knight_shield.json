@@ -1,0 +1,82 @@
+{
+	"textures": {
+		"1": "animated_java:item/blueprint/black_knight_shield"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.37758, -4, 2.2349],
+			"to": [7.37758, 20, 8.2349],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "y",
+				"origin": [7.37758, 8, 5.2349]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0.5, 8],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [8, 0, 3.11111, 16],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0.5, 8],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [3.11111, 0, 8, 16],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 0, 0.5, 4],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0.5, 4],
+					"texture": "#1"
+				}
+			}
+		},
+		{
+			"from": [7.34765, -4, 7.75993],
+			"to": [7.34765, 20, 13.75993],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "y",
+				"origin": [7.34765, 8, 10.75993]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0.5, 8],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [12.88889, 0, 8, 16],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 0, 0.5, 8],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [8, 0, 12.88889, 16],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 0, 0.5, 4],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0.5, 4],
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"2": "animated_java:item/blueprint/flame_slash"
+		"4": "animated_java:item/blueprint/flame_slash"
 	},
 	"display": {
 		"head": {
@@ -9,41 +9,43 @@
 	},
 	"elements": [
 		{
-			"from": [8, -9.9469, -3.89381],
-			"to": [8, 14.0531, 8],
+			"from": [3.74222, -5.33333, 8],
+			"to": [14.92444, 18.66667, 8],
 			"rotation": {
 				"angle": 0,
 				"axis": "y",
-				"origin": [8, 2.0531, 2.0531]
+				"origin": [8, 8, 8]
 			},
 			"faces": {
 				"north": {
-					"uv": [0.78689, 13.125, 0.78689, 13.04918],
-					"rotation": 180,
-					"texture": "#2"
+					"uv": [0, 16, 16, 0],
+					"rotation": 270,
+					"texture": "#4"
 				},
 				"east": {
-					"uv": [16, 0, 0, 16],
+					"uv": [0.81967, 7.23771, 0.86885, 7.2623],
 					"rotation": 90,
-					"texture": "#2"
+					"texture": "#4"
 				},
 				"south": {
-					"uv": [0.78689, 13.04918, 0.78689, 13.125],
-					"texture": "#2"
+					"uv": [16, 16, 0, 0],
+					"rotation": 90,
+					"texture": "#4"
 				},
 				"west": {
-					"uv": [0, 0, 16, 16],
-					"rotation": 270,
-					"texture": "#2"
+					"uv": [0.63115, 7.16394, 0.68033, 7.13935],
+					"rotation": 90,
+					"texture": "#4"
 				},
 				"up": {
-					"uv": [2.91189, 16, 2.91189, 16],
-					"texture": "#2"
+					"uv": [0, 3.5, 0, 8.61271],
+					"rotation": 90,
+					"texture": "#4"
 				},
 				"down": {
-					"uv": [2.91189, 16, 2.64959, 16],
-					"rotation": 180,
-					"texture": "#2"
+					"uv": [0, 3.5, 0, 8.61271],
+					"rotation": 90,
+					"texture": "#4"
 				}
 			}
 		}

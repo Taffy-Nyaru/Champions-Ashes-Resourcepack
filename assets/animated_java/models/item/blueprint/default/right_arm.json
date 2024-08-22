@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"1": "animated_java:item/blueprint/alumopper"
+		"0": "animated_java:item/blueprint/alumopper"
 	},
 	"display": {
 		"head": {
@@ -19,27 +19,27 @@
 			"faces": {
 				"north": {
 					"uv": [12.0625, 13, 13.0625, 14.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [13.0625, 13, 14.0625, 14.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [14.0625, 13, 15.0625, 14.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [15, 13, 16, 14.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [14, 13, 13, 12],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [15, 12, 14, 13],
-					"texture": "#1"
+					"texture": "#0"
 				}
 			}
 		},
@@ -54,27 +54,27 @@
 			"faces": {
 				"north": {
 					"uv": [12.5, 5, 13.5, 6.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"east": {
 					"uv": [11.5, 5, 12.5, 6.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"south": {
 					"uv": [10.5, 5, 11.5, 6.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"west": {
 					"uv": [10.5, 5, 9.5, 6.5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"up": {
 					"uv": [10.5, 4, 11.5, 5],
-					"texture": "#1"
+					"texture": "#0"
 				},
 				"down": {
 					"uv": [15, 12.75, 14, 13.75],
-					"texture": "#1"
+					"texture": "#0"
 				}
 			}
 		}

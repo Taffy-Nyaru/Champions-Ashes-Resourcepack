@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/blueprint",
-	"textures": {
-		"6": "animated_java:item/blueprint/flame_burst"
-	}
-}
