@@ -94,6 +94,10 @@
     {
       "model": "championsashes:item/antspur_rapier",
       "predicate": { "custom_model_data": 1390069 }
+    },
+    {
+      "model": "championsashes:item/corvian_greatknife",
+      "predicate": { "custom_model_data": 1390100 }
     }
   ]
 }

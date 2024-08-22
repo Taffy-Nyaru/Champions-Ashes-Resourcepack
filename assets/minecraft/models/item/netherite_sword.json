@@ -47,6 +47,10 @@
       {
         "model": "championsashes:item/greatsword",
         "predicate": { "custom_model_data": 1390095 }
+      },
+      {
+        "model": "championsashes:item/spear_of_the_impaler",
+        "predicate": { "custom_model_data": 1390101 }
       }
     ]
   }
