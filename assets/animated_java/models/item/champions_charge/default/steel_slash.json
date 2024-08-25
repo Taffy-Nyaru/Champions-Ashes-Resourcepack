@@ -1,0 +1,47 @@
+{
+	"textures": {
+		"2": "animated_java:item/champions_charge/steel_slash"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8, -0.12947, -16],
+			"to": [8, 8.00613, 3.52542],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 12.88748, -14.77966]
+			},
+			"faces": {
+				"north": {
+					"uv": [0, 0, 0, 16],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [16, 0, 0, 16],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [0, 0, 0, 16],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [0, 0, 16, 16],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [0, 0, 0, 16],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [0, 0, 0, 16],
+					"texture": "#2"
+				}
+			}
+		}
+	]
+}

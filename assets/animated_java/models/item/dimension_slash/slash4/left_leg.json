@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/dimension_slash/left_leg",
+	"parent": "animated_java:item/dimension_slash/default/left_leg",
 	"textures": {
 		"0": "animated_java:item/dimension_slash/slash4"
 	}

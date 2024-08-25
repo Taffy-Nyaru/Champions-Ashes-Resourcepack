@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/dimension_slash/body_top",
+	"parent": "animated_java:item/dimension_slash/default/body_top",
 	"textures": {
 		"0": "animated_java:item/dimension_slash/slash2"
 	}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/rkss_cancel/default/right_arm",
+	"textures": {
+		"5": "animated_java:item/rkss_cancel/flame_burst1"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"textures": {
+		"1": "animated_java:item/steel_caller/ledo_slash"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [8.19355, -11.74194, 8],
+			"to": [24.06452, 12.25806, 8],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [16.12903, 4.12903, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [16, 16, 0, 0],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [0, 0, 4, 0],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [0, 16, 16, 0],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [0, 0, 4, 0],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [0, 0, 0, 5.125],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [0, 0, 0, 5.125],
+					"rotation": 270,
+					"texture": "#1"
+				}
+			}
+		}
+	]
+}

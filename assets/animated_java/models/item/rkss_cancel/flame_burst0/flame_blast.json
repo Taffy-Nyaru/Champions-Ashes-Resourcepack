@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/rkss_cancel/default/flame_blast",
+	"textures": {
+		"5": "animated_java:item/rkss_cancel/flame_burst1"
+	}
+}

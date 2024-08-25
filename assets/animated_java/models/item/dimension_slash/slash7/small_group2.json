@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/dimension_slash/small_group2",
+	"parent": "animated_java:item/dimension_slash/default/small_group2",
 	"textures": {
 		"0": "animated_java:item/dimension_slash/slash7"
 	}
