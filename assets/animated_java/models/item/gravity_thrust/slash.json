@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"6": "animated_java:item/gravity_thrust/gravity_slash"
+		"5": "animated_java:item/gravity_thrust/gravity_slash"
 	},
 	"elements": [
 		{
@@ -32,7 +32,7 @@
 						0
 					],
 					"rotation": 90,
-					"texture": "#6"
+					"texture": "#5"
 				},
 				"east": {
 					"uv": [
@@ -42,7 +42,7 @@
 						0
 					],
 					"rotation": 90,
-					"texture": "#6"
+					"texture": "#5"
 				},
 				"south": {
 					"uv": [
@@ -52,7 +52,7 @@
 						0
 					],
 					"rotation": 270,
-					"texture": "#6"
+					"texture": "#5"
 				},
 				"west": {
 					"uv": [
@@ -62,7 +62,7 @@
 						0
 					],
 					"rotation": 90,
-					"texture": "#6"
+					"texture": "#5"
 				},
 				"up": {
 					"uv": [
@@ -72,7 +72,7 @@
 						13.5
 					],
 					"rotation": 270,
-					"texture": "#6"
+					"texture": "#5"
 				},
 				"down": {
 					"uv": [
@@ -82,7 +82,7 @@
 						13.5
 					],
 					"rotation": 270,
-					"texture": "#6"
+					"texture": "#5"
 				}
 			}
 		}

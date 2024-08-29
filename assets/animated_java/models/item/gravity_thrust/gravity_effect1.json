@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"3": "animated_java:item/gravity_thrust/gravity_effects"
+		"2": "animated_java:item/gravity_thrust/gravity_effects"
 	},
 	"elements": [
 		{
@@ -31,7 +31,7 @@
 						2,
 						12
 					],
-					"texture": "#3"
+					"texture": "#2"
 				},
 				"east": {
 					"uv": [
@@ -40,7 +40,7 @@
 						4,
 						12
 					],
-					"texture": "#3"
+					"texture": "#2"
 				},
 				"south": {
 					"uv": [
@@ -49,7 +49,7 @@
 						6,
 						12
 					],
-					"texture": "#3"
+					"texture": "#2"
 				},
 				"west": {
 					"uv": [
@@ -58,7 +58,7 @@
 						8,
 						12
 					],
-					"texture": "#3"
+					"texture": "#2"
 				},
 				"up": {
 					"uv": [
@@ -67,7 +67,7 @@
 						8,
 						0
 					],
-					"texture": "#3"
+					"texture": "#2"
 				},
 				"down": {
 					"uv": [
@@ -76,7 +76,7 @@
 						8,
 						4
 					],
-					"texture": "#3"
+					"texture": "#2"
 				}
 			}
 		}

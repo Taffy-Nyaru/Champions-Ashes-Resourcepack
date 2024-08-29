@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/rkss_cancel/default/black_knight_shield",
+	"parent": "animated_java:item/rkss_cancel/black_knight_shield",
 	"textures": {
 		"3": "animated_java:item/rkss_cancel/ringed_knight_straight_sword_ignite"
 	}

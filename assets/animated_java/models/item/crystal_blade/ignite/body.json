@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/crystal_blade/default/body",
+	"parent": "animated_java:item/crystal_blade/body",
 	"textures": {
 		"3": "championsashes:item/aquamarine_dagger_ignite"
 	}

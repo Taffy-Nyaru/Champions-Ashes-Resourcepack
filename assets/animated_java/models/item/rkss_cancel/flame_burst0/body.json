@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/rkss_cancel/default/body",
+	"parent": "animated_java:item/rkss_cancel/body",
 	"textures": {
 		"5": "animated_java:item/rkss_cancel/flame_burst1"
 	}

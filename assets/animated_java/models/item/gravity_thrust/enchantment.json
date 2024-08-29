@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"2": "animated_java:item/gravity_thrust/enchantment"
+		"1": "animated_java:item/gravity_thrust/enchantment"
 	},
 	"elements": [
 		{
@@ -31,7 +31,7 @@
 						2.5,
 						14.25
 					],
-					"texture": "#2"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [
@@ -40,7 +40,7 @@
 						6,
 						14.25
 					],
-					"texture": "#2"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [
@@ -49,7 +49,7 @@
 						5,
 						14.25
 					],
-					"texture": "#2"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [
@@ -58,7 +58,7 @@
 						7,
 						14.25
 					],
-					"texture": "#2"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [
@@ -67,7 +67,7 @@
 						7,
 						0
 					],
-					"texture": "#2"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [
@@ -76,7 +76,7 @@
 						7,
 						2
 					],
-					"texture": "#2"
+					"texture": "#1"
 				}
 			}
 		}

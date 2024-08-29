@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "ld:font/debuff/bleed.png",
+			"file": "championsashes:font/debuff/bleed.png",
 			"height": 24,
 			"ascent": 24,
 			"chars": [

@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/rkss_cancel/default/flame_slash",
+	"parent": "animated_java:item/rkss_cancel/flame_slash",
 	"textures": {
 		"3": "animated_java:item/rkss_cancel/ringed_knight_straight_sword_ignite"
 	}

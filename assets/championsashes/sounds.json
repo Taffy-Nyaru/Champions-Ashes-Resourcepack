@@ -2,7 +2,7 @@
     "sounds.championsashes.nep_elder": {
         "subtitle": "sounds.championsashes.nep_elder",
             "sounds": [{
-                "name": "ld:nep_elder",
+                "name": "championsashes:nep_elder",
                 "stream": true
             }
         ]

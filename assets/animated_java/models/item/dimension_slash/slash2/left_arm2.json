@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/dimension_slash/default/left_arm2",
+	"parent": "animated_java:item/dimension_slash/left_arm2",
 	"textures": {
 		"0": "animated_java:item/dimension_slash/slash2"
 	}

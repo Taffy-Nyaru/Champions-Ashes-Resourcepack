@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "ld:font/debuff/frostbite.png",
+			"file": "championsashes:font/debuff/frostbite.png",
 			"height": 24,
 			"ascent": 24,
 			"chars": [

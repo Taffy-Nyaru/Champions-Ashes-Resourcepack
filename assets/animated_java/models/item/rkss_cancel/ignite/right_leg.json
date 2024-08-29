@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/rkss_cancel/default/right_leg",
+	"parent": "animated_java:item/rkss_cancel/right_leg",
 	"textures": {
 		"3": "animated_java:item/rkss_cancel/ringed_knight_straight_sword_ignite"
 	}

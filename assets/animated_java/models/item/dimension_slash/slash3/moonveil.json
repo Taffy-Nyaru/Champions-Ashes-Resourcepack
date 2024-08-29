@@ -1,5 +1,5 @@
 {
-	"parent": "animated_java:item/dimension_slash/default/moonveil",
+	"parent": "animated_java:item/dimension_slash/moonveil",
 	"textures": {
 		"0": "animated_java:item/dimension_slash/slash3"
 	}

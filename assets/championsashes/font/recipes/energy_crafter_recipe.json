@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "ld:font/recipes/energy_crafter_recipe.png",
+			"file": "championsashes:font/recipes/energy_crafter_recipe.png",
 			"height": 50,
 			"ascent": 5,
 			"chars": [
