@@ -1,6 +1,6 @@
 {
-	"parent": "animated_java:item/messemers_assault/default/flame_slash",
+	"parent": "animated_java:item/messemers_assault/flame_slash",
 	"textures": {
-		"6": "animated_java:item/messemers_assault/flame_burst"
+		"7": "animated_java:item/messemers_assault/flame_burst1"
 	}
 }

@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/messemers_assault/spear_effects2",
+	"textures": {
+		"0": "championsashes:item/spear_of_the_impaler_ignite0",
+		"3": "championsashes:item/spear_of_the_impaler_ignite1"
+	}
+}

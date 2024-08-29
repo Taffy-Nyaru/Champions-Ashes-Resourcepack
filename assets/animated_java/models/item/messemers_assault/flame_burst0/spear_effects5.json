@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/messemers_assault/spear_effects5",
+	"textures": {
+		"6": "animated_java:item/messemers_assault/flame_burst"
+	}
+}

@@ -1,6 +1,6 @@
 {
-	"parent": "animated_java:item/messemers_assault/default/spear_effects8",
+	"parent": "animated_java:item/messemers_assault/spear_effects8",
 	"textures": {
-		"6": "animated_java:item/messemers_assault/flame_burst"
+		"7": "animated_java:item/messemers_assault/flame_burst1"
 	}
 }

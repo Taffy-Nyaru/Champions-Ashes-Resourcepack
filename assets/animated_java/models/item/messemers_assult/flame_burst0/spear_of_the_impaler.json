@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/messemers_assult/spear_of_the_impaler",
-	"textures": {
-		"6": "animated_java:item/messemers_assult/flame_burst"
-	}
-}

@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/messemers_assult/body",
-	"textures": {
-		"7": "animated_java:item/messemers_assult/flame_burst1"
-	}
-}
