@@ -4478,139 +4478,139 @@
 			"predicate": {
 				"custom_model_data": 746
 			},
-			"model": "animated_java:item/messemers_assault/spear_of_the_impaler"
+			"model": "animated_java:item/messemers_assault/spear_effects0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 747
 			},
-			"model": "animated_java:item/messemers_assault/left_arm2"
+			"model": "animated_java:item/messemers_assault/spear_effects1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 748
 			},
-			"model": "animated_java:item/messemers_assault/left_arm"
+			"model": "animated_java:item/messemers_assault/spear_effects2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 749
 			},
-			"model": "animated_java:item/messemers_assault/head"
+			"model": "animated_java:item/messemers_assault/spear_effects3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 750
 			},
-			"model": "animated_java:item/messemers_assault/body_top"
+			"model": "animated_java:item/messemers_assault/spear_effects4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 751
 			},
-			"model": "animated_java:item/messemers_assault/body"
+			"model": "animated_java:item/messemers_assault/spear_effects5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 752
 			},
-			"model": "animated_java:item/messemers_assault/right_leg2"
+			"model": "animated_java:item/messemers_assault/spear_effects6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 753
 			},
-			"model": "animated_java:item/messemers_assault/right_leg"
+			"model": "animated_java:item/messemers_assault/spear_effects7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 754
 			},
-			"model": "animated_java:item/messemers_assault/left_leg2"
+			"model": "animated_java:item/messemers_assault/spear_effects8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 755
 			},
-			"model": "animated_java:item/messemers_assault/left_leg"
+			"model": "animated_java:item/messemers_assault/spear_effects9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 756
 			},
-			"model": "animated_java:item/messemers_assault/flame_blast"
+			"model": "animated_java:item/messemers_assault/spear_effects10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 757
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects0"
+			"model": "animated_java:item/messemers_assault/spear_effects11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 758
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects1"
+			"model": "animated_java:item/messemers_assault/flame_blast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 759
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects2"
+			"model": "animated_java:item/messemers_assault/spear_of_the_impaler"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 760
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects3"
+			"model": "animated_java:item/messemers_assault/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 761
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects4"
+			"model": "animated_java:item/messemers_assault/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 762
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects5"
+			"model": "animated_java:item/messemers_assault/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 763
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects6"
+			"model": "animated_java:item/messemers_assault/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 764
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects7"
+			"model": "animated_java:item/messemers_assault/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 765
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects8"
+			"model": "animated_java:item/messemers_assault/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 766
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects9"
+			"model": "animated_java:item/messemers_assault/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 767
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects10"
+			"model": "animated_java:item/messemers_assault/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 768
 			},
-			"model": "animated_java:item/messemers_assault/spear_effects11"
+			"model": "animated_java:item/messemers_assault/left_leg"
 		},
 		{
 			"predicate": {
@@ -4646,139 +4646,139 @@
 			"predicate": {
 				"custom_model_data": 774
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_of_the_impaler"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 775
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/left_arm2"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 776
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/left_arm"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 777
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/head"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 778
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/body_top"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 779
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/body"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 780
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/right_leg2"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 781
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/right_leg"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 782
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/left_leg2"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 783
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/left_leg"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 784
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/flame_blast"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 785
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects0"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 786
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects1"
+			"model": "animated_java:item/messemers_assault/flame_burst0/flame_blast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 787
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects2"
+			"model": "animated_java:item/messemers_assault/flame_burst0/spear_of_the_impaler"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 788
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects3"
+			"model": "animated_java:item/messemers_assault/flame_burst0/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 789
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects4"
+			"model": "animated_java:item/messemers_assault/flame_burst0/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 790
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects5"
+			"model": "animated_java:item/messemers_assault/flame_burst0/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 791
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects6"
+			"model": "animated_java:item/messemers_assault/flame_burst0/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 792
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects7"
+			"model": "animated_java:item/messemers_assault/flame_burst0/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 793
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects8"
+			"model": "animated_java:item/messemers_assault/flame_burst0/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 794
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects9"
+			"model": "animated_java:item/messemers_assault/flame_burst0/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 795
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects10"
+			"model": "animated_java:item/messemers_assault/flame_burst0/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 796
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst0/spear_effects11"
+			"model": "animated_java:item/messemers_assault/flame_burst0/left_leg"
 		},
 		{
 			"predicate": {
@@ -4814,139 +4814,139 @@
 			"predicate": {
 				"custom_model_data": 802
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_of_the_impaler"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 803
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/left_arm2"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 804
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/left_arm"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 805
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/head"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 806
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/body_top"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 807
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/body"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 808
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/right_leg2"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 809
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/right_leg"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 810
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/left_leg2"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 811
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/left_leg"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 812
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/flame_blast"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 813
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects0"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 814
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects1"
+			"model": "animated_java:item/messemers_assault/flame_burst1/flame_blast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 815
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects2"
+			"model": "animated_java:item/messemers_assault/flame_burst1/spear_of_the_impaler"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 816
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects3"
+			"model": "animated_java:item/messemers_assault/flame_burst1/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 817
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects4"
+			"model": "animated_java:item/messemers_assault/flame_burst1/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 818
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects5"
+			"model": "animated_java:item/messemers_assault/flame_burst1/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 819
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects6"
+			"model": "animated_java:item/messemers_assault/flame_burst1/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 820
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects7"
+			"model": "animated_java:item/messemers_assault/flame_burst1/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 821
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects8"
+			"model": "animated_java:item/messemers_assault/flame_burst1/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 822
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects9"
+			"model": "animated_java:item/messemers_assault/flame_burst1/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 823
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects10"
+			"model": "animated_java:item/messemers_assault/flame_burst1/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 824
 			},
-			"model": "animated_java:item/messemers_assault/flame_burst1/spear_effects11"
+			"model": "animated_java:item/messemers_assault/flame_burst1/left_leg"
 		},
 		{
 			"predicate": {
@@ -4982,139 +4982,139 @@
 			"predicate": {
 				"custom_model_data": 830
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_of_the_impaler"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 831
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/left_arm2"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 832
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/left_arm"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 833
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/head"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 834
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/body_top"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 835
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/body"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 836
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/right_leg2"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 837
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/right_leg"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 838
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/left_leg2"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 839
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/left_leg"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 840
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/flame_blast"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 841
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects0"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_effects11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 842
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects1"
+			"model": "animated_java:item/messemers_assault/ignite0/flame_blast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 843
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects2"
+			"model": "animated_java:item/messemers_assault/ignite0/spear_of_the_impaler"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 844
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects3"
+			"model": "animated_java:item/messemers_assault/ignite0/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 845
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects4"
+			"model": "animated_java:item/messemers_assault/ignite0/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 846
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects5"
+			"model": "animated_java:item/messemers_assault/ignite0/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 847
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects6"
+			"model": "animated_java:item/messemers_assault/ignite0/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 848
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects7"
+			"model": "animated_java:item/messemers_assault/ignite0/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 849
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects8"
+			"model": "animated_java:item/messemers_assault/ignite0/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 850
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects9"
+			"model": "animated_java:item/messemers_assault/ignite0/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 851
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects10"
+			"model": "animated_java:item/messemers_assault/ignite0/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 852
 			},
-			"model": "animated_java:item/messemers_assault/ignite0/spear_effects11"
+			"model": "animated_java:item/messemers_assault/ignite0/left_leg"
 		},
 		{
 			"predicate": {
@@ -5150,139 +5150,139 @@
 			"predicate": {
 				"custom_model_data": 858
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_of_the_impaler"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 859
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/left_arm2"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 860
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/left_arm"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 861
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/head"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 862
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/body_top"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 863
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/body"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 864
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/right_leg2"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 865
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/right_leg"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 866
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/left_leg2"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects8"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 867
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/left_leg"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects9"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 868
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/flame_blast"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects10"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 869
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects0"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_effects11"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 870
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects1"
+			"model": "animated_java:item/messemers_assault/ignite1/flame_blast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 871
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects2"
+			"model": "animated_java:item/messemers_assault/ignite1/spear_of_the_impaler"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 872
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects3"
+			"model": "animated_java:item/messemers_assault/ignite1/left_arm2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 873
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects4"
+			"model": "animated_java:item/messemers_assault/ignite1/left_arm"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 874
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects5"
+			"model": "animated_java:item/messemers_assault/ignite1/head"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 875
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects6"
+			"model": "animated_java:item/messemers_assault/ignite1/body_top"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 876
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects7"
+			"model": "animated_java:item/messemers_assault/ignite1/body"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 877
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects8"
+			"model": "animated_java:item/messemers_assault/ignite1/right_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 878
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects9"
+			"model": "animated_java:item/messemers_assault/ignite1/right_leg"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 879
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects10"
+			"model": "animated_java:item/messemers_assault/ignite1/left_leg2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 880
 			},
-			"model": "animated_java:item/messemers_assault/ignite1/spear_effects11"
+			"model": "animated_java:item/messemers_assault/ignite1/left_leg"
 		}
 	],
 	"animated_java": {
