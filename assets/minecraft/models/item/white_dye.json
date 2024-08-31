@@ -2924,7 +2924,7 @@
 			"predicate": {
 				"custom_model_data": 487
 			},
-			"model": "animated_java:item/death_blighted/death_blight/death_blighted"
+			"model": "animated_java:item/death_blighted/death_blight0/death_blighted"
 		},
 		{
 			"predicate": {
@@ -3800,7 +3800,7 @@
 			"predicate": {
 				"custom_model_data": 633
 			},
-			"model": "animated_java:item/gravity_soul_stream/left_leg"
+			"model": "animated_java:item/gravity_blackhole/right_arm2"
 		},
 		{
 			"predicate": {
@@ -5283,6 +5283,96 @@
 				"custom_model_data": 880
 			},
 			"model": "animated_java:item/messemers_assault/ignite1/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 881
+			},
+			"model": "animated_java:item/gravity_blackhole/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 882
+			},
+			"model": "animated_java:item/gravity_blackhole/meteorite_staff_effects"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 883
+			},
+			"model": "animated_java:item/gravity_blackhole/meteorite_staff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 884
+			},
+			"model": "animated_java:item/gravity_blackhole/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 885
+			},
+			"model": "animated_java:item/gravity_blackhole/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 886
+			},
+			"model": "animated_java:item/gravity_blackhole/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 887
+			},
+			"model": "animated_java:item/gravity_blackhole/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 888
+			},
+			"model": "animated_java:item/gravity_blackhole/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 889
+			},
+			"model": "animated_java:item/gravity_blackhole/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 890
+			},
+			"model": "animated_java:item/gravity_blackhole/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 891
+			},
+			"model": "animated_java:item/gravity_blackhole/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 892
+			},
+			"model": "animated_java:item/gravity_blackhole/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 893
+			},
+			"model": "animated_java:item/gravity_blackhole/vortex"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 894
+			},
+			"model": "animated_java:item/gravity_blackhole/tornado"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 895
+			},
+			"model": "animated_java:item/gravity_soul_stream/left_leg"
 		}
 	],
 	"animated_java": {
@@ -5910,7 +6000,7 @@
 					483,
 					484,
 					485,
-					633
+					895
 				]
 			},
 			"death_blighted": {
@@ -6353,6 +6443,25 @@
 					878,
 					879,
 					880
+				]
+			},
+			"gravity_blackhole": {
+				"used_ids": [
+					633,
+					881,
+					882,
+					883,
+					884,
+					885,
+					886,
+					887,
+					888,
+					889,
+					890,
+					891,
+					892,
+					893,
+					894
 				]
 			}
 		}

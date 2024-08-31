@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/death_blighted/death_blighted",
-	"textures": {
-		"0": "animated_java:item/death_blighted/death_blight"
-	}
-}

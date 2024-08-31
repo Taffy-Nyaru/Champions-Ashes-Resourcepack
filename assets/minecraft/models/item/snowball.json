@@ -19,6 +19,10 @@
       {
         "model": "championsashes:block/shadow_vortex",
         "predicate": { "custom_model_data": 1390088 }
+      },
+      {
+        "model": "championsashes:item/death_blight_knife",
+        "predicate": { "custom_model_data": 1390102 }
       }
     ]
   }
