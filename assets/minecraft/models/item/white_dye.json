@@ -5649,6 +5649,84 @@
 				"custom_model_data": 941
 			},
 			"model": "animated_java:item/wave_of_destruction/obsidian"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 942
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 943
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 944
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/lorian_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 945
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/flame_of_lorian"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 946
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 947
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 948
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 949
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 950
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 951
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 952
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 953
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 954
+			},
+			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/left_leg"
 		}
 	],
 	"animated_java": {
@@ -6754,7 +6832,20 @@
 					905,
 					906,
 					907,
-					908
+					908,
+					942,
+					943,
+					944,
+					945,
+					946,
+					947,
+					948,
+					949,
+					950,
+					951,
+					952,
+					953,
+					954
 				]
 			},
 			"lorian": {

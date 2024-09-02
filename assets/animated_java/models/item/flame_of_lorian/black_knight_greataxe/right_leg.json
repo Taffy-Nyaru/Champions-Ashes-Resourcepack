@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/flame_of_lorian/right_leg",
+	"textures": {
+		"1": "animated_java:item/flame_of_lorian/black_knight_greataxe",
+		"3": "animated_java:item/flame_of_lorian/black_axe_slash"
+	}
+}

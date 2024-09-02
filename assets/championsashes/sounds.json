@@ -1,8 +1,18 @@
 {
     "sounds.championsashes.nep_elder": {
         "subtitle": "sounds.championsashes.nep_elder",
-            "sounds": [{
+            "sounds": [
+            {
                 "name": "championsashes:nep_elder",
+                "stream": true
+            }
+        ]
+    },
+    "sounds.championsashes.two_years_ago": {
+        "subtitle": "sounds.championsashes.two_years_ago",
+            "sounds": [
+            {
+                "name": "championsashes:two_years_ago",
                 "stream": true
             }
         ]
