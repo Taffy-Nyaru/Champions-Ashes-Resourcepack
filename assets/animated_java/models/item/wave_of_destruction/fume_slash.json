@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"5": "animated_java:item/wave_of_destruction/fume_slash"
+	},
+	"elements": [
+		{
+			"from": [
+				8,
+				-15.51020408163265,
+				7.510204081632653
+			],
+			"to": [
+				8,
+				8.489795918367347,
+				17.79591836734694
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "z",
+				"origin": [
+					8,
+					0.8979591836734695,
+					15.10204081632653
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.75
+					],
+					"texture": "#5"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 270,
+					"texture": "#5"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.75
+					],
+					"rotation": 180,
+					"texture": "#5"
+				},
+				"west": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"rotation": 90,
+					"texture": "#5"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						7.75
+					],
+					"rotation": 180,
+					"texture": "#5"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						7.75
+					],
+					"texture": "#5"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

@@ -51,6 +51,10 @@
       {
         "model": "championsashes:item/spear_of_the_impaler",
         "predicate": { "custom_model_data": 1390101 }
+      },
+      {
+        "model": "championsashes:item/fume_ultra_greatsword",
+        "predicate": { "custom_model_data": 1390103 }
       }
     ]
   }

@@ -5373,6 +5373,282 @@
 				"custom_model_data": 895
 			},
 			"model": "animated_java:item/gravity_soul_stream/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 896
+			},
+			"model": "animated_java:item/flame_of_lorian/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 897
+			},
+			"model": "animated_java:item/flame_of_lorian/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 898
+			},
+			"model": "animated_java:item/flame_of_lorian/lorian_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 899
+			},
+			"model": "animated_java:item/flame_of_lorian/flame_of_lorian"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 900
+			},
+			"model": "animated_java:item/flame_of_lorian/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 901
+			},
+			"model": "animated_java:item/flame_of_lorian/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 902
+			},
+			"model": "animated_java:item/flame_of_lorian/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 903
+			},
+			"model": "animated_java:item/flame_of_lorian/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 904
+			},
+			"model": "animated_java:item/flame_of_lorian/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 905
+			},
+			"model": "animated_java:item/flame_of_lorian/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 906
+			},
+			"model": "animated_java:item/flame_of_lorian/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 907
+			},
+			"model": "animated_java:item/flame_of_lorian/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 908
+			},
+			"model": "animated_java:item/flame_of_lorian/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 909
+			},
+			"model": "animated_java:item/lorian/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 910
+			},
+			"model": "animated_java:item/lorian/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 911
+			},
+			"model": "animated_java:item/lorian/lorian_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 912
+			},
+			"model": "animated_java:item/lorian/flame_of_lorian"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 913
+			},
+			"model": "animated_java:item/lorian/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 914
+			},
+			"model": "animated_java:item/lorian/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 915
+			},
+			"model": "animated_java:item/lorian/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 916
+			},
+			"model": "animated_java:item/lorian/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 917
+			},
+			"model": "animated_java:item/lorian/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 918
+			},
+			"model": "animated_java:item/lorian/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 919
+			},
+			"model": "animated_java:item/lorian/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 920
+			},
+			"model": "animated_java:item/lorian/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 921
+			},
+			"model": "animated_java:item/lorian/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 922
+			},
+			"model": "animated_java:item/wave_of_destruction/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 923
+			},
+			"model": "animated_java:item/wave_of_destruction/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 924
+			},
+			"model": "animated_java:item/wave_of_destruction/fume_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 925
+			},
+			"model": "animated_java:item/wave_of_destruction/fume_ultra_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 926
+			},
+			"model": "animated_java:item/wave_of_destruction/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 927
+			},
+			"model": "animated_java:item/wave_of_destruction/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 928
+			},
+			"model": "animated_java:item/wave_of_destruction/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 929
+			},
+			"model": "animated_java:item/wave_of_destruction/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 930
+			},
+			"model": "animated_java:item/wave_of_destruction/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 931
+			},
+			"model": "animated_java:item/wave_of_destruction/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 932
+			},
+			"model": "animated_java:item/wave_of_destruction/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 933
+			},
+			"model": "animated_java:item/wave_of_destruction/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 934
+			},
+			"model": "animated_java:item/wave_of_destruction/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 935
+			},
+			"model": "animated_java:item/wave_of_destruction/gravity_thunder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 936
+			},
+			"model": "animated_java:item/wave_of_destruction/wave_of_destruction"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 937
+			},
+			"model": "animated_java:item/wave_of_destruction/obsidian_edges0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 938
+			},
+			"model": "animated_java:item/wave_of_destruction/obsidian_edges1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 939
+			},
+			"model": "animated_java:item/wave_of_destruction/obsidian_edges2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 940
+			},
+			"model": "animated_java:item/wave_of_destruction/obsidian_edges3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 941
+			},
+			"model": "animated_java:item/wave_of_destruction/obsidian"
 		}
 	],
 	"animated_java": {
@@ -6462,6 +6738,64 @@
 					892,
 					893,
 					894
+				]
+			},
+			"flame_of_lorian": {
+				"used_ids": [
+					896,
+					897,
+					898,
+					899,
+					900,
+					901,
+					902,
+					903,
+					904,
+					905,
+					906,
+					907,
+					908
+				]
+			},
+			"lorian": {
+				"used_ids": [
+					909,
+					910,
+					911,
+					912,
+					913,
+					914,
+					915,
+					916,
+					917,
+					918,
+					919,
+					920,
+					921
+				]
+			},
+			"wave_of_destruction": {
+				"used_ids": [
+					922,
+					923,
+					924,
+					925,
+					926,
+					927,
+					928,
+					929,
+					930,
+					931,
+					932,
+					933,
+					934,
+					935,
+					936,
+					937,
+					938,
+					939,
+					940,
+					941
 				]
 			}
 		}

@@ -1167,6 +1167,38 @@
                 "assets\\animated_java\\textures\\item\\shadow_golem\\shadow_golem.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "1413972a-6647-91a8-0659-3842d75cb3a2": {
+            "project_name": "wave_of_destruction",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\right_arm.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\fume_slash.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\fume_ultra_greatsword.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\left_arm.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\head.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\body_top.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\body.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\right_leg.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\left_leg.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\gravity_thunder.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\wave_of_destruction.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\obsidian_edges0.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\obsidian_edges1.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\obsidian_edges2.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\obsidian_edges3.json",
+                "assets\\animated_java\\models\\item\\wave_of_destruction\\obsidian.json",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\gravity_thunder1.png",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\fume_ultra_greatsword.png",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\gravity_thunder0.png",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\crying_obsidian.png",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\alumopper_256x.png",
+                "assets\\animated_java\\textures\\item\\wave_of_destruction\\fume_slash.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
