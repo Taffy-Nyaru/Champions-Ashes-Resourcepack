@@ -1215,6 +1215,27 @@
                 "assets\\animated_java\\textures\\item\\wave_of_destruction\\fume_slash.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "e0c6aeb4-6520-9b42-4b39-7929c680ed6f": {
+            "project_name": "sword_dance",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\sword_dance\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\right_arm.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\irithyll_slash.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\irithyll_straight_sword.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\left_arm.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\head.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\body_top.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\body.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\right_leg.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\sword_dance\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\sword_dance\\alumopper.png",
+                "assets\\animated_java\\textures\\item\\sword_dance\\moonveil_slash.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

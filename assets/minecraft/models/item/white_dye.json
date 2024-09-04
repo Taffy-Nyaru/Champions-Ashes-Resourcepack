@@ -5727,6 +5727,84 @@
 				"custom_model_data": 954
 			},
 			"model": "animated_java:item/flame_of_lorian/black_knight_greataxe/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 955
+			},
+			"model": "animated_java:item/sword_dance/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 956
+			},
+			"model": "animated_java:item/sword_dance/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 957
+			},
+			"model": "animated_java:item/sword_dance/irithyll_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 958
+			},
+			"model": "animated_java:item/sword_dance/irithyll_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 959
+			},
+			"model": "animated_java:item/sword_dance/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 960
+			},
+			"model": "animated_java:item/sword_dance/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 961
+			},
+			"model": "animated_java:item/sword_dance/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 962
+			},
+			"model": "animated_java:item/sword_dance/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 963
+			},
+			"model": "animated_java:item/sword_dance/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 964
+			},
+			"model": "animated_java:item/sword_dance/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 965
+			},
+			"model": "animated_java:item/sword_dance/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 966
+			},
+			"model": "animated_java:item/sword_dance/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 967
+			},
+			"model": "animated_java:item/sword_dance/left_leg"
 		}
 	],
 	"animated_java": {
@@ -6887,6 +6965,23 @@
 					939,
 					940,
 					941
+				]
+			},
+			"sword_dance": {
+				"used_ids": [
+					955,
+					956,
+					957,
+					958,
+					959,
+					960,
+					961,
+					962,
+					963,
+					964,
+					965,
+					966,
+					967
 				]
 			}
 		}
