@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/favor_incantations/twinaxe_right",
+	"textures": {
+		"9": "animated_java:item/favor_incantations/blackhole0"
+	}
+}

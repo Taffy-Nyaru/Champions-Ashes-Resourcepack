@@ -5805,6 +5805,1134 @@
 				"custom_model_data": 967
 			},
 			"model": "animated_java:item/sword_dance/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 968
+			},
+			"model": "animated_java:item/favor_incantations/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 969
+			},
+			"model": "animated_java:item/favor_incantations/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 970
+			},
+			"model": "animated_java:item/favor_incantations/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 971
+			},
+			"model": "animated_java:item/favor_incantations/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 972
+			},
+			"model": "animated_java:item/favor_incantations/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 973
+			},
+			"model": "animated_java:item/favor_incantations/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 974
+			},
+			"model": "animated_java:item/favor_incantations/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 975
+			},
+			"model": "animated_java:item/favor_incantations/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 976
+			},
+			"model": "animated_java:item/favor_incantations/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 977
+			},
+			"model": "animated_java:item/favor_incantations/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 978
+			},
+			"model": "animated_java:item/favor_incantations/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 979
+			},
+			"model": "animated_java:item/favor_incantations/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 980
+			},
+			"model": "animated_java:item/favor_incantations/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 981
+			},
+			"model": "animated_java:item/favor_incantations/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 982
+			},
+			"model": "animated_java:item/favor_incantations/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 983
+			},
+			"model": "animated_java:item/favor_incantations/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 984
+			},
+			"model": "animated_java:item/favor_incantations/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 985
+			},
+			"model": "animated_java:item/favor_incantations/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 986
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 987
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 988
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 989
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 990
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 991
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 992
+			},
+			"model": "animated_java:item/favor_incantations/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 993
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 994
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 995
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 996
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 997
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 998
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 999
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1000
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1001
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1002
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1003
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1004
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1005
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1006
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1007
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1008
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1009
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1010
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1011
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1012
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1013
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1014
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1015
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1016
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1017
+			},
+			"model": "animated_java:item/favor_incantations/blackhole0/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1018
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1019
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1020
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1021
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1022
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1023
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1024
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1025
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1026
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1027
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1028
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1029
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1030
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1031
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1032
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1033
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1034
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1035
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1036
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1037
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1038
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1039
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1040
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1041
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1042
+			},
+			"model": "animated_java:item/favor_incantations/blackhole1/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1043
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1044
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1045
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1046
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1047
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1048
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1049
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1050
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1051
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1052
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1053
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1054
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1055
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1056
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1057
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1058
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1059
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1060
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1061
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1062
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1063
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1064
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1065
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1066
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1067
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear1/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1068
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1069
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1070
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1071
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1072
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1073
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1074
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1075
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1076
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1077
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1078
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1079
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1080
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1081
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1082
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1083
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1084
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1085
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1086
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1087
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1088
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1089
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1090
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1091
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1092
+			},
+			"model": "animated_java:item/favor_incantations/lightning_spear2/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1093
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1094
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1095
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1096
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1097
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1098
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1099
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1100
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1101
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1102
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1103
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1104
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1105
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1106
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1107
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1108
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1109
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1110
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1111
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1112
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1113
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1114
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1115
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1116
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1117
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear0/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1118
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/slash_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1119
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/twinaxe_left"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1120
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1121
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1122
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/messermers_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1123
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/slash_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1124
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/twinaxe_right"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1125
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1126
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1127
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1128
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1129
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1130
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1131
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1132
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1133
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1134
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/shockwave"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1135
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/main_lightning_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1136
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1137
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1138
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1139
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1140
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1141
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/lightning_spear5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1142
+			},
+			"model": "animated_java:item/favor_incantations/red_lightning_spear1/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1143
+			},
+			"model": "animated_java:item/dynastic_sickleplay/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1144
+			},
+			"model": "animated_java:item/dynastic_sickleplay/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1145
+			},
+			"model": "animated_java:item/dynastic_sickleplay/lamina_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1146
+			},
+			"model": "animated_java:item/dynastic_sickleplay/obsidian_lamina"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1147
+			},
+			"model": "animated_java:item/dynastic_sickleplay/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1148
+			},
+			"model": "animated_java:item/dynastic_sickleplay/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1149
+			},
+			"model": "animated_java:item/dynastic_sickleplay/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1150
+			},
+			"model": "animated_java:item/dynastic_sickleplay/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1151
+			},
+			"model": "animated_java:item/dynastic_sickleplay/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1152
+			},
+			"model": "animated_java:item/dynastic_sickleplay/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1153
+			},
+			"model": "animated_java:item/dynastic_sickleplay/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1154
+			},
+			"model": "animated_java:item/dynastic_sickleplay/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1155
+			},
+			"model": "animated_java:item/dynastic_sickleplay/left_leg"
 		}
 	],
 	"animated_java": {
@@ -6982,6 +8110,202 @@
 					965,
 					966,
 					967
+				]
+			},
+			"favor_incantations": {
+				"used_ids": [
+					968,
+					969,
+					970,
+					971,
+					972,
+					973,
+					974,
+					975,
+					976,
+					977,
+					978,
+					979,
+					980,
+					981,
+					982,
+					983,
+					984,
+					985,
+					986,
+					987,
+					988,
+					989,
+					990,
+					991,
+					992,
+					993,
+					994,
+					995,
+					996,
+					997,
+					998,
+					999,
+					1000,
+					1001,
+					1002,
+					1003,
+					1004,
+					1005,
+					1006,
+					1007,
+					1008,
+					1009,
+					1010,
+					1011,
+					1012,
+					1013,
+					1014,
+					1015,
+					1016,
+					1017,
+					1018,
+					1019,
+					1020,
+					1021,
+					1022,
+					1023,
+					1024,
+					1025,
+					1026,
+					1027,
+					1028,
+					1029,
+					1030,
+					1031,
+					1032,
+					1033,
+					1034,
+					1035,
+					1036,
+					1037,
+					1038,
+					1039,
+					1040,
+					1041,
+					1042,
+					1043,
+					1044,
+					1045,
+					1046,
+					1047,
+					1048,
+					1049,
+					1050,
+					1051,
+					1052,
+					1053,
+					1054,
+					1055,
+					1056,
+					1057,
+					1058,
+					1059,
+					1060,
+					1061,
+					1062,
+					1063,
+					1064,
+					1065,
+					1066,
+					1067,
+					1068,
+					1069,
+					1070,
+					1071,
+					1072,
+					1073,
+					1074,
+					1075,
+					1076,
+					1077,
+					1078,
+					1079,
+					1080,
+					1081,
+					1082,
+					1083,
+					1084,
+					1085,
+					1086,
+					1087,
+					1088,
+					1089,
+					1090,
+					1091,
+					1092,
+					1093,
+					1094,
+					1095,
+					1096,
+					1097,
+					1098,
+					1099,
+					1100,
+					1101,
+					1102,
+					1103,
+					1104,
+					1105,
+					1106,
+					1107,
+					1108,
+					1109,
+					1110,
+					1111,
+					1112,
+					1113,
+					1114,
+					1115,
+					1116,
+					1117,
+					1118,
+					1119,
+					1120,
+					1121,
+					1122,
+					1123,
+					1124,
+					1125,
+					1126,
+					1127,
+					1128,
+					1129,
+					1130,
+					1131,
+					1132,
+					1133,
+					1134,
+					1135,
+					1136,
+					1137,
+					1138,
+					1139,
+					1140,
+					1141,
+					1142
+				]
+			},
+			"dynastic_sickleplay": {
+				"used_ids": [
+					1143,
+					1144,
+					1145,
+					1146,
+					1147,
+					1148,
+					1149,
+					1150,
+					1151,
+					1152,
+					1153,
+					1154,
+					1155
 				]
 			}
 		}

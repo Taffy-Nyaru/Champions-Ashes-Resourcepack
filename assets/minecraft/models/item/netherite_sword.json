@@ -55,6 +55,10 @@
       {
         "model": "championsashes:item/fume_ultra_greatsword",
         "predicate": { "custom_model_data": 1390103 }
+      },
+      {
+        "model": "championsashes:item/obsidian_lamina",
+        "predicate": { "custom_model_data": 1390105 }
       }
     ]
   }

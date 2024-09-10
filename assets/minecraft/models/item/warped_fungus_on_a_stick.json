@@ -127,6 +127,10 @@
     {
       "model": "championsashes:item/meteorite_staff_ignite",
       "predicate": { "custom_model_data": 1390098 }
+    },
+    {
+      "model": "championsashes:item/ring_of_favor",
+      "predicate": { "custom_model_data": 1390104 }
     }
   ]
 }

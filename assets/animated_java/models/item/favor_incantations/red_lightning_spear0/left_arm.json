@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/favor_incantations/left_arm",
+	"textures": {
+		"4": "animated_java:item/favor_incantations/red_lightning_spear0",
+		"7": "animated_java:item/favor_incantations/red_lightning_spear1"
+	}
+}

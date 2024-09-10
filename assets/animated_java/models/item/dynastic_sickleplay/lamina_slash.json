@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"1": "animated_java:item/dynastic_sickleplay/lamina_slash"
+	},
+	"elements": [
+		{
+			"from": [
+				8,
+				-4,
+				4.705882352941177
+			],
+			"to": [
+				8,
+				20,
+				11.294117647058822
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"rotation": 270,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
