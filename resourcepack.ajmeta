@@ -1452,6 +1452,59 @@
                 "assets\\animated_java\\textures\\item\\dynastic_sickleplay\\obsidian_lamina.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "dfc244ec-a529-6529-bfb7-7c7478c95092": {
+            "project_name": "rakshasa_great_katana",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\right_arm.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\slash.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone0.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone1.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone2.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone3.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone7.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone10.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone4.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone11.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone5.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone8.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone9.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\bone6.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\rakshasa_great_katana.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\left_arm.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\head.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\body_top.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\body.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\right_leg.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\rakshasa_great_katana\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\rakshasa_great_katana\\rakshasa_great_katana.png",
+                "assets\\animated_java\\textures\\item\\rakshasa_great_katana\\alumopper_128x.png",
+                "assets\\animated_java\\textures\\item\\rakshasa_great_katana\\rakshasa_slash.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "e763cf89-98ba-3c65-6c92-be825176aa08": {
+            "project_name": "murky_hand_scythe",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\right_arm.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\the_murky_hand_scythe.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\left_arm.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\head.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\body_top.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\body.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\right_leg.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\murky_hand_scythe\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\murky_hand_scythe\\alumopper_128x.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

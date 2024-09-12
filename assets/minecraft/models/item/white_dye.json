@@ -6933,6 +6933,228 @@
 				"custom_model_data": 1155
 			},
 			"model": "animated_java:item/dynastic_sickleplay/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1156
+			},
+			"model": "animated_java:item/rakshasa_great_katana/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1157
+			},
+			"model": "animated_java:item/rakshasa_great_katana/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1158
+			},
+			"model": "animated_java:item/rakshasa_great_katana/slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1159
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1160
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1161
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1162
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1163
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1164
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1165
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1166
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1167
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1168
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1169
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1170
+			},
+			"model": "animated_java:item/rakshasa_great_katana/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1171
+			},
+			"model": "animated_java:item/rakshasa_great_katana/rakshasa_great_katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1172
+			},
+			"model": "animated_java:item/rakshasa_great_katana/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1173
+			},
+			"model": "animated_java:item/rakshasa_great_katana/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1174
+			},
+			"model": "animated_java:item/rakshasa_great_katana/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1175
+			},
+			"model": "animated_java:item/rakshasa_great_katana/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1176
+			},
+			"model": "animated_java:item/rakshasa_great_katana/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1177
+			},
+			"model": "animated_java:item/rakshasa_great_katana/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1178
+			},
+			"model": "animated_java:item/rakshasa_great_katana/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1179
+			},
+			"model": "animated_java:item/rakshasa_great_katana/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1180
+			},
+			"model": "animated_java:item/rakshasa_great_katana/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1181
+			},
+			"model": "animated_java:item/murky_hand_scythe/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1182
+			},
+			"model": "animated_java:item/murky_hand_scythe/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1183
+			},
+			"model": "animated_java:item/murky_hand_scythe/the_murky_hand_scythe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1184
+			},
+			"model": "animated_java:item/murky_hand_scythe/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1185
+			},
+			"model": "animated_java:item/murky_hand_scythe/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1186
+			},
+			"model": "animated_java:item/murky_hand_scythe/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1187
+			},
+			"model": "animated_java:item/murky_hand_scythe/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1188
+			},
+			"model": "animated_java:item/murky_hand_scythe/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1189
+			},
+			"model": "animated_java:item/murky_hand_scythe/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1190
+			},
+			"model": "animated_java:item/murky_hand_scythe/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1191
+			},
+			"model": "animated_java:item/murky_hand_scythe/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1192
+			},
+			"model": "animated_java:item/murky_hand_scythe/left_leg"
 		}
 	],
 	"animated_java": {
@@ -8306,6 +8528,51 @@
 					1153,
 					1154,
 					1155
+				]
+			},
+			"rakshasa_great_katana": {
+				"used_ids": [
+					1156,
+					1157,
+					1158,
+					1159,
+					1160,
+					1161,
+					1162,
+					1163,
+					1164,
+					1165,
+					1166,
+					1167,
+					1168,
+					1169,
+					1170,
+					1171,
+					1172,
+					1173,
+					1174,
+					1175,
+					1176,
+					1177,
+					1178,
+					1179,
+					1180
+				]
+			},
+			"murky_hand_scythe": {
+				"used_ids": [
+					1181,
+					1182,
+					1183,
+					1184,
+					1185,
+					1186,
+					1187,
+					1188,
+					1189,
+					1190,
+					1191,
+					1192
 				]
 			}
 		}

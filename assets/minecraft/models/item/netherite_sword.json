@@ -59,6 +59,10 @@
       {
         "model": "championsashes:item/obsidian_lamina",
         "predicate": { "custom_model_data": 1390105 }
+      },
+      {
+        "model": "championsashes:item/rakshasa_great_katana",
+        "predicate": { "custom_model_data": 1390106 }
       }
     ]
   }
