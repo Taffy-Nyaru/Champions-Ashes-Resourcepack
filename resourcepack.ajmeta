@@ -1616,6 +1616,34 @@
                 "assets\\animated_java\\textures\\item\\bullet_generator\\blackhole0.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "870bcaae-290a-9821-79ee-a46e595c241e": {
+            "project_name": "chainsaw",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\chainsaw\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\right_arm.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\bone0.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\bone1.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\bone2.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\bone3.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\bone4.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\flail_body.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\flail.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\serpent_hunter.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\left_arm.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\head.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\body_top.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\body.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\right_leg.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\chainsaw\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\chainsaw\\taffy.png",
+                "assets\\animated_java\\textures\\item\\chainsaw\\flail.png",
+                "assets\\animated_java\\textures\\item\\chainsaw\\serpent_hunter.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

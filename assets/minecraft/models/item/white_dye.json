@@ -7653,6 +7653,120 @@
 				"custom_model_data": 1275
 			},
 			"model": "animated_java:item/bullet_generator/blackhole1/drakeblood_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1276
+			},
+			"model": "animated_java:item/chainsaw/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1277
+			},
+			"model": "animated_java:item/chainsaw/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1278
+			},
+			"model": "animated_java:item/chainsaw/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1279
+			},
+			"model": "animated_java:item/chainsaw/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1280
+			},
+			"model": "animated_java:item/chainsaw/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1281
+			},
+			"model": "animated_java:item/chainsaw/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1282
+			},
+			"model": "animated_java:item/chainsaw/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1283
+			},
+			"model": "animated_java:item/chainsaw/flail_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1284
+			},
+			"model": "animated_java:item/chainsaw/flail"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1285
+			},
+			"model": "animated_java:item/chainsaw/serpent_hunter"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1286
+			},
+			"model": "animated_java:item/chainsaw/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1287
+			},
+			"model": "animated_java:item/chainsaw/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1288
+			},
+			"model": "animated_java:item/chainsaw/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1289
+			},
+			"model": "animated_java:item/chainsaw/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1290
+			},
+			"model": "animated_java:item/chainsaw/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1291
+			},
+			"model": "animated_java:item/chainsaw/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1292
+			},
+			"model": "animated_java:item/chainsaw/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1293
+			},
+			"model": "animated_java:item/chainsaw/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1294
+			},
+			"model": "animated_java:item/chainsaw/left_leg"
 		}
 	],
 	"animated_java": {
@@ -9174,6 +9288,29 @@
 					1273,
 					1274,
 					1275
+				]
+			},
+			"chainsaw": {
+				"used_ids": [
+					1276,
+					1277,
+					1278,
+					1279,
+					1280,
+					1281,
+					1282,
+					1283,
+					1284,
+					1285,
+					1286,
+					1287,
+					1288,
+					1289,
+					1290,
+					1291,
+					1292,
+					1293,
+					1294
 				]
 			}
 		}
