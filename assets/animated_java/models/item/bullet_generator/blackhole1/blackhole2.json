@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/bullet_generator/blackhole2",
+	"textures": {
+		"8": "animated_java:item/bullet_generator/blackhole1"
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"4": "animated_java:item/bullet_generator/irithyll_straight_sword"
+	},
+	"elements": [
+		{
+			"from": [
+				5,
+				-6.323552499999998,
+				-3.5245225000000016
+			],
+			"to": [
+				5,
+				17.676447500000002,
+				20.475477499999997
+			],
+			"rotation": {
+				"angle": -22.5,
+				"axis": "x",
+				"origin": [
+					5,
+					5.6764475,
+					8.4754775
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#4"
+				},
+				"east": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"rotation": 90,
+					"texture": "#4"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#4"
+				},
+				"west": {
+					"uv": [
+						16,
+						16,
+						0,
+						0
+					],
+					"rotation": 270,
+					"texture": "#4"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#4"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#4"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

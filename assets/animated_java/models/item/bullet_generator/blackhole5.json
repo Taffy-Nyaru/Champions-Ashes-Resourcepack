@@ -1,0 +1,98 @@
+{
+	"textures": {
+		"8": "animated_java:item/bullet_generator/blackhole0"
+	},
+	"elements": [
+		{
+			"from": [
+				-4.75,
+				-0.24999999999999645,
+				0.5
+			],
+			"to": [
+				19.25,
+				23.75,
+				0.5
+			],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "x",
+				"origin": [
+					7.25,
+					11.75,
+					0.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						16,
+						0,
+						0
+					],
+					"rotation": 270,
+					"texture": "#8"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#8"
+				},
+				"south": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"rotation": 90,
+					"texture": "#8"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#8"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 90,
+					"texture": "#8"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 90,
+					"texture": "#8"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

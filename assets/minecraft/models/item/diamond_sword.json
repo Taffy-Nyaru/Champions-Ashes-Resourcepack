@@ -27,6 +27,10 @@
       {
         "model": "championsashes:item/darksword22",
         "predicate": { "custom_model_data": 1390099 }
+      },
+      {
+        "model": "championsashes:item/carian_knights_sword",
+        "predicate": { "custom_model_data": 1390107 }
       }
     ]
   }

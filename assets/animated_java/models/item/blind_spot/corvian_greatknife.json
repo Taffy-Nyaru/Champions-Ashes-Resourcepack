@@ -1,0 +1,97 @@
+{
+	"textures": {
+		"1": "animated_java:item/blind_spot/corvian_greatknife"
+	},
+	"elements": [
+		{
+			"from": [
+				9,
+				-2.928930000000001,
+				-7.384779999999999
+			],
+			"to": [
+				9,
+				13.071069999999999,
+				8.61522
+			],
+			"rotation": {
+				"angle": 22.5,
+				"axis": "x",
+				"origin": [
+					9,
+					5.071070000000001,
+					0.6152200000000008
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						8,
+						8
+					],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"rotation": 90,
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 180,
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

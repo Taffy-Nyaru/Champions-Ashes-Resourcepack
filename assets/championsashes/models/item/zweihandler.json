@@ -6,8 +6,8 @@
 	},
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [30, 65, 0],
-			"translation": [4, 12, 1.25],
+			"rotation": [46, 81, 0],
+			"translation": [-1.25, 13.75, 3.25],
 			"scale": [2, 2, 1]
 		},
 		"thirdperson_lefthand": {

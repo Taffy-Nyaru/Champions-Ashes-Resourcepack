@@ -7155,6 +7155,504 @@
 				"custom_model_data": 1192
 			},
 			"model": "animated_java:item/murky_hand_scythe/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1193
+			},
+			"model": "animated_java:item/giant_hunt/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1194
+			},
+			"model": "animated_java:item/giant_hunt/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1195
+			},
+			"model": "animated_java:item/giant_hunt/vfx0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1196
+			},
+			"model": "animated_java:item/giant_hunt/vfx1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1197
+			},
+			"model": "animated_java:item/giant_hunt/zweihander"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1198
+			},
+			"model": "animated_java:item/giant_hunt/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1199
+			},
+			"model": "animated_java:item/giant_hunt/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1200
+			},
+			"model": "animated_java:item/giant_hunt/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1201
+			},
+			"model": "animated_java:item/giant_hunt/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1202
+			},
+			"model": "animated_java:item/giant_hunt/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1203
+			},
+			"model": "animated_java:item/giant_hunt/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1204
+			},
+			"model": "animated_java:item/giant_hunt/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1205
+			},
+			"model": "animated_java:item/giant_hunt/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1206
+			},
+			"model": "animated_java:item/giant_hunt/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1207
+			},
+			"model": "animated_java:item/blind_spot/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1208
+			},
+			"model": "animated_java:item/blind_spot/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1209
+			},
+			"model": "animated_java:item/blind_spot/steel_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1210
+			},
+			"model": "animated_java:item/blind_spot/corvian_greatknife"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1211
+			},
+			"model": "animated_java:item/blind_spot/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1212
+			},
+			"model": "animated_java:item/blind_spot/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1213
+			},
+			"model": "animated_java:item/blind_spot/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1214
+			},
+			"model": "animated_java:item/blind_spot/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1215
+			},
+			"model": "animated_java:item/blind_spot/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1216
+			},
+			"model": "animated_java:item/blind_spot/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1217
+			},
+			"model": "animated_java:item/blind_spot/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1218
+			},
+			"model": "animated_java:item/blind_spot/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1219
+			},
+			"model": "animated_java:item/blind_spot/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1220
+			},
+			"model": "animated_java:item/impaler_excalibur/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1221
+			},
+			"model": "animated_java:item/impaler_excalibur/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1222
+			},
+			"model": "animated_java:item/impaler_excalibur/slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1223
+			},
+			"model": "animated_java:item/impaler_excalibur/carian_grandeur"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1224
+			},
+			"model": "animated_java:item/impaler_excalibur/carian_knights_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1225
+			},
+			"model": "animated_java:item/impaler_excalibur/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1226
+			},
+			"model": "animated_java:item/impaler_excalibur/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1227
+			},
+			"model": "animated_java:item/impaler_excalibur/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1228
+			},
+			"model": "animated_java:item/impaler_excalibur/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1229
+			},
+			"model": "animated_java:item/impaler_excalibur/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1230
+			},
+			"model": "animated_java:item/impaler_excalibur/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1231
+			},
+			"model": "animated_java:item/impaler_excalibur/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1232
+			},
+			"model": "animated_java:item/impaler_excalibur/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1233
+			},
+			"model": "animated_java:item/impaler_excalibur/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1234
+			},
+			"model": "animated_java:item/carian_grandeur/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1235
+			},
+			"model": "animated_java:item/carian_grandeur/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1236
+			},
+			"model": "animated_java:item/carian_grandeur/slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1237
+			},
+			"model": "animated_java:item/carian_grandeur/carian_grandeur"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1238
+			},
+			"model": "animated_java:item/carian_grandeur/carian_knights_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1239
+			},
+			"model": "animated_java:item/carian_grandeur/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1240
+			},
+			"model": "animated_java:item/carian_grandeur/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1241
+			},
+			"model": "animated_java:item/carian_grandeur/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1242
+			},
+			"model": "animated_java:item/carian_grandeur/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1243
+			},
+			"model": "animated_java:item/carian_grandeur/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1244
+			},
+			"model": "animated_java:item/carian_grandeur/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1245
+			},
+			"model": "animated_java:item/carian_grandeur/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1246
+			},
+			"model": "animated_java:item/carian_grandeur/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1247
+			},
+			"model": "animated_java:item/carian_grandeur/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1248
+			},
+			"model": "animated_java:item/bullet_generator/blackhole0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1249
+			},
+			"model": "animated_java:item/bullet_generator/carian_grandeur"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1250
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1251
+			},
+			"model": "animated_java:item/bullet_generator/moonlight_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1252
+			},
+			"model": "animated_java:item/bullet_generator/blackhole2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1253
+			},
+			"model": "animated_java:item/bullet_generator/fume_ultra_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1254
+			},
+			"model": "animated_java:item/bullet_generator/blackhole3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1255
+			},
+			"model": "animated_java:item/bullet_generator/aquamarine_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1256
+			},
+			"model": "animated_java:item/bullet_generator/blackhole4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1257
+			},
+			"model": "animated_java:item/bullet_generator/zweihander"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1258
+			},
+			"model": "animated_java:item/bullet_generator/blackhole5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1259
+			},
+			"model": "animated_java:item/bullet_generator/irithyll_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1260
+			},
+			"model": "animated_java:item/bullet_generator/blackhole6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1261
+			},
+			"model": "animated_java:item/bullet_generator/drakeblood_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1262
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1263
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/carian_grandeur"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1264
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1265
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/moonlight_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1266
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1267
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/fume_ultra_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1268
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1269
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/aquamarine_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1270
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1271
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/zweihander"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1272
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1273
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/irithyll_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1274
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/blackhole6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1275
+			},
+			"model": "animated_java:item/bullet_generator/blackhole1/drakeblood_greatsword"
 		}
 	],
 	"animated_java": {
@@ -8573,6 +9071,109 @@
 					1190,
 					1191,
 					1192
+				]
+			},
+			"giant_hunt": {
+				"used_ids": [
+					1193,
+					1194,
+					1195,
+					1196,
+					1197,
+					1198,
+					1199,
+					1200,
+					1201,
+					1202,
+					1203,
+					1204,
+					1205,
+					1206
+				]
+			},
+			"blind_spot": {
+				"used_ids": [
+					1207,
+					1208,
+					1209,
+					1210,
+					1211,
+					1212,
+					1213,
+					1214,
+					1215,
+					1216,
+					1217,
+					1218,
+					1219
+				]
+			},
+			"impaler_excalibur": {
+				"used_ids": [
+					1220,
+					1221,
+					1222,
+					1223,
+					1224,
+					1225,
+					1226,
+					1227,
+					1228,
+					1229,
+					1230,
+					1231,
+					1232,
+					1233
+				]
+			},
+			"carian_grandeur": {
+				"used_ids": [
+					1234,
+					1235,
+					1236,
+					1237,
+					1238,
+					1239,
+					1240,
+					1241,
+					1242,
+					1243,
+					1244,
+					1245,
+					1246,
+					1247
+				]
+			},
+			"bullet_generator": {
+				"used_ids": [
+					1248,
+					1249,
+					1250,
+					1251,
+					1252,
+					1253,
+					1254,
+					1255,
+					1256,
+					1257,
+					1258,
+					1259,
+					1260,
+					1261,
+					1262,
+					1263,
+					1264,
+					1265,
+					1266,
+					1267,
+					1268,
+					1269,
+					1270,
+					1271,
+					1272,
+					1273,
+					1274,
+					1275
 				]
 			}
 		}
