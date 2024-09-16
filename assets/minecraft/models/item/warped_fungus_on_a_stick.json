@@ -131,6 +131,10 @@
     {
       "model": "championsashes:item/ring_of_favor",
       "predicate": { "custom_model_data": 1390104 }
+    },
+    {
+      "model": "championsashes:item/sun_princess_ring",
+      "predicate": { "custom_model_data": 1390108 }
     }
   ]
 }

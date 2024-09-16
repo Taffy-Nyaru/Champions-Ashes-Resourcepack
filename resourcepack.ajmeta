@@ -1644,6 +1644,46 @@
                 "assets\\animated_java\\textures\\item\\chainsaw\\serpent_hunter.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "161395e7-b26b-a3e9-0e0e-65462e43641c": {
+            "project_name": "splitleaf_infinite",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\right_arm.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\splitleaf_greatsword.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\left_arm.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\head.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\body_top.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\body.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\right_leg.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\splitleaf_infinite\\left_leg.json",
+                "assets\\animated_java\\textures\\item\\splitleaf_infinite\\splitleaf.png",
+                "assets\\animated_java\\textures\\item\\splitleaf_infinite\\alumopper_128x.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
+        },
+        "f2dc8a5d-2cc5-1520-6294-2bd96653516c": {
+            "project_name": "write",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\write\\n0.json",
+                "assets\\animated_java\\models\\item\\write\\i.json",
+                "assets\\animated_java\\models\\item\\write\\c.json",
+                "assets\\animated_java\\models\\item\\write\\n.json",
+                "assets\\animated_java\\models\\item\\write\\e.json",
+                "assets\\animated_java\\models\\item\\write\\p.json",
+                "assets\\animated_java\\models\\item\\write\\1\\n0.json",
+                "assets\\animated_java\\models\\item\\write\\1\\i.json",
+                "assets\\animated_java\\models\\item\\write\\1\\c.json",
+                "assets\\animated_java\\models\\item\\write\\1\\n.json",
+                "assets\\animated_java\\models\\item\\write\\1\\e.json",
+                "assets\\animated_java\\models\\item\\write\\1\\p.json",
+                "assets\\animated_java\\textures\\item\\write\\gravity_core1.png",
+                "assets\\animated_java\\textures\\item\\write\\gravity_core0.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
