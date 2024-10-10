@@ -1684,6 +1684,20 @@
                 "assets\\animated_java\\textures\\item\\write\\gravity_core0.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "d53ab805-bc99-3b2d-5bcd-80deab3d746d": {
+            "project_name": "f8fq",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq0.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq1.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq2.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq3.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq4.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq5.json",
+                "assets\\animated_java\\models\\item\\f8fq\\f8fq6.json",
+                "assets\\animated_java\\textures\\item\\f8fq\\f8fq.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

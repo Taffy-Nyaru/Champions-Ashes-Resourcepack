@@ -7911,6 +7911,48 @@
 				"custom_model_data": 1318
 			},
 			"model": "animated_java:item/write/1/p"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1319
+			},
+			"model": "animated_java:item/f8fq/f8fq0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1320
+			},
+			"model": "animated_java:item/f8fq/f8fq1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1321
+			},
+			"model": "animated_java:item/f8fq/f8fq2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1322
+			},
+			"model": "animated_java:item/f8fq/f8fq3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1323
+			},
+			"model": "animated_java:item/f8fq/f8fq4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1324
+			},
+			"model": "animated_java:item/f8fq/f8fq5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1325
+			},
+			"model": "animated_java:item/f8fq/f8fq6"
 		}
 	],
 	"animated_java": {
@@ -9487,6 +9529,17 @@
 					1316,
 					1317,
 					1318
+				]
+			},
+			"f8fq": {
+				"used_ids": [
+					1319,
+					1320,
+					1321,
+					1322,
+					1323,
+					1324,
+					1325
 				]
 			}
 		}
