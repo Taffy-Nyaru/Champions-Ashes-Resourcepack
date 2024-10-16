@@ -7953,6 +7953,90 @@
 				"custom_model_data": 1325
 			},
 			"model": "animated_java:item/f8fq/f8fq6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1326
+			},
+			"model": "animated_java:item/destined_death/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1327
+			},
+			"model": "animated_java:item/destined_death/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1328
+			},
+			"model": "animated_java:item/destined_death/destined_death"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1329
+			},
+			"model": "animated_java:item/destined_death/black_blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1330
+			},
+			"model": "animated_java:item/destined_death/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1331
+			},
+			"model": "animated_java:item/destined_death/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1332
+			},
+			"model": "animated_java:item/destined_death/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1333
+			},
+			"model": "animated_java:item/destined_death/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1334
+			},
+			"model": "animated_java:item/destined_death/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1335
+			},
+			"model": "animated_java:item/destined_death/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1336
+			},
+			"model": "animated_java:item/destined_death/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1337
+			},
+			"model": "animated_java:item/destined_death/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1338
+			},
+			"model": "animated_java:item/destined_death/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1339
+			},
+			"model": "animated_java:item/destined_death/destined_blade"
 		}
 	],
 	"animated_java": {
@@ -9540,6 +9624,24 @@
 					1323,
 					1324,
 					1325
+				]
+			},
+			"destined_death": {
+				"used_ids": [
+					1326,
+					1327,
+					1328,
+					1329,
+					1330,
+					1331,
+					1332,
+					1333,
+					1334,
+					1335,
+					1336,
+					1337,
+					1338,
+					1339
 				]
 			}
 		}

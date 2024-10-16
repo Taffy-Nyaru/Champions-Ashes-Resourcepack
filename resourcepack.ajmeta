@@ -1698,6 +1698,30 @@
                 "assets\\animated_java\\textures\\item\\f8fq\\f8fq.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "bde63740-e2cf-bbda-6e15-bf97d80a7179": {
+            "project_name": "destined_death",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\destined_death\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\destined_death\\right_arm.json",
+                "assets\\animated_java\\models\\item\\destined_death\\destined_death.json",
+                "assets\\animated_java\\models\\item\\destined_death\\black_blade.json",
+                "assets\\animated_java\\models\\item\\destined_death\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\destined_death\\left_arm.json",
+                "assets\\animated_java\\models\\item\\destined_death\\head.json",
+                "assets\\animated_java\\models\\item\\destined_death\\body_top.json",
+                "assets\\animated_java\\models\\item\\destined_death\\body.json",
+                "assets\\animated_java\\models\\item\\destined_death\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\destined_death\\right_leg.json",
+                "assets\\animated_java\\models\\item\\destined_death\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\destined_death\\left_leg.json",
+                "assets\\animated_java\\models\\item\\destined_death\\destined_blade.json",
+                "assets\\animated_java\\textures\\item\\destined_death\\black_blade.png",
+                "assets\\animated_java\\textures\\item\\destined_death\\alumopper.png",
+                "assets\\animated_java\\textures\\item\\destined_death\\destined_death.png",
+                "assets\\animated_java\\textures\\item\\destined_death\\destined_blade.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }
