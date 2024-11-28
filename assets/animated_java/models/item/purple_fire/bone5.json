@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/purple_fire/purple_fire"
+	},
+	"elements": [
+		{
+			"from": [
+				4,
+				6,
+				4
+			],
+			"to": [
+				12,
+				9,
+				12
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						2,
+						0,
+						4,
+						0.75
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						2,
+						0.75,
+						4,
+						1.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						2,
+						1.5,
+						4,
+						2.25
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						2,
+						2.25,
+						4,
+						3
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						2,
+						2,
+						0,
+						0
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						2,
+						2,
+						0,
+						4
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
