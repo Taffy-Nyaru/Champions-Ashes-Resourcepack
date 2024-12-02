@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/gravity_impaler/edge1",
+	"textures": {
+		"0": "animated_java:item/gravity_impaler/faded",
+		"1": "animated_java:item/gravity_impaler/faded",
+		"9": "animated_java:item/gravity_impaler/faded",
+		"13": "animated_java:item/gravity_impaler/faded"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/gravity_impaler/gravity_shockwave"
+	},
+	"elements": [
+		{
+			"from": [
+				8,
+				-0.5,
+				3
+			],
+			"to": [
+				8,
+				16.499999999999996,
+				13
+			],
+			"rotation": {
+				"angle": -45,
+				"axis": "z",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.25
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						4,
+						3.5,
+						9,
+						16
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.25
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						9,
+						3.75,
+						4,
+						16
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						0,
+						10.75,
+						0,
+						0
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						10.75
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

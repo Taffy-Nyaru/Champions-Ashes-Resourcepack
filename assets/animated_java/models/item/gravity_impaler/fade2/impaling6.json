@@ -1,0 +1,22 @@
+{
+	"parent": "animated_java:item/gravity_impaler/impaling6",
+	"textures": {
+		"0": "animated_java:item/gravity_impaler/gravity_shockwave_fade2",
+		"1": "animated_java:item/gravity_impaler/outside_gravity_impaler_fade2",
+		"2": "animated_java:item/gravity_impaler/gravity_shockwave_fade2",
+		"3": "animated_java:item/gravity_impaler/gravity_shockwave_fade1",
+		"4": "animated_java:item/gravity_impaler/gravity_shockwave_fade0",
+		"5": "animated_java:item/gravity_impaler/faded",
+		"6": "animated_java:item/gravity_impaler/outside_gravity_impaler_fade0",
+		"7": "animated_java:item/gravity_impaler/outside_gravity_impaler_fade1",
+		"8": "animated_java:item/gravity_impaler/outside_gravity_impaler_fade2",
+		"9": "animated_java:item/gravity_impaler/gravity_impaling_faded2",
+		"10": "animated_java:item/gravity_impaler/gravity_impaling_faded0",
+		"11": "animated_java:item/gravity_impaler/gravity_impaling_faded1",
+		"12": "animated_java:item/gravity_impaler/gravity_impaling_faded2",
+		"13": "animated_java:item/gravity_impaler/inner_gravity_impaler_fade2",
+		"14": "animated_java:item/gravity_impaler/inner_gravity_impaler_fade0",
+		"15": "animated_java:item/gravity_impaler/inner_gravity_impaler_fade1",
+		"16": "animated_java:item/gravity_impaler/inner_gravity_impaler_fade2"
+	}
+}

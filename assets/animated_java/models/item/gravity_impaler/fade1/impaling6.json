@@ -1,0 +1,9 @@
+{
+	"parent": "animated_java:item/gravity_impaler/impaling6",
+	"textures": {
+		"0": "animated_java:item/gravity_impaler/gravity_shockwave_fade1",
+		"1": "animated_java:item/gravity_impaler/outside_gravity_impaler_fade1",
+		"9": "animated_java:item/gravity_impaler/gravity_impaling_faded1",
+		"13": "animated_java:item/gravity_impaler/inner_gravity_impaler_fade1"
+	}
+}

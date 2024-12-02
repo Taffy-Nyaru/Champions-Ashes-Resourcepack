@@ -8595,6 +8595,576 @@
 				"custom_model_data": 1432
 			},
 			"model": "animated_java:item/purple_fire/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1433
+			},
+			"model": "animated_java:item/gravity_impaler/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1434
+			},
+			"model": "animated_java:item/gravity_impaler/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1435
+			},
+			"model": "animated_java:item/gravity_impaler/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1436
+			},
+			"model": "animated_java:item/gravity_impaler/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1437
+			},
+			"model": "animated_java:item/gravity_impaler/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1438
+			},
+			"model": "animated_java:item/gravity_impaler/gravity_imapler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1439
+			},
+			"model": "animated_java:item/gravity_impaler/impaling0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1440
+			},
+			"model": "animated_java:item/gravity_impaler/impaling1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1441
+			},
+			"model": "animated_java:item/gravity_impaler/impaling2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1442
+			},
+			"model": "animated_java:item/gravity_impaler/impaling3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1443
+			},
+			"model": "animated_java:item/gravity_impaler/impaling4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1444
+			},
+			"model": "animated_java:item/gravity_impaler/impaling5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1445
+			},
+			"model": "animated_java:item/gravity_impaler/impaling6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1446
+			},
+			"model": "animated_java:item/gravity_impaler/impaling7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1447
+			},
+			"model": "animated_java:item/gravity_impaler/impaling8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1448
+			},
+			"model": "animated_java:item/gravity_impaler/impaling9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1449
+			},
+			"model": "animated_java:item/gravity_impaler/impaling10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1450
+			},
+			"model": "animated_java:item/gravity_impaler/impaling11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1451
+			},
+			"model": "animated_java:item/gravity_impaler/impaling12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1452
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1453
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1454
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1455
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1456
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1457
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/gravity_imapler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1458
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1459
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1460
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1461
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1462
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1463
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1464
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1465
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1466
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1467
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1468
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1469
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1470
+			},
+			"model": "animated_java:item/gravity_impaler/fade0/impaling12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1471
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1472
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1473
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1474
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1475
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1476
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/gravity_imapler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1477
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1478
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1479
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1480
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1481
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1482
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1483
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1484
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1485
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1486
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1487
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1488
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1489
+			},
+			"model": "animated_java:item/gravity_impaler/fade1/impaling12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1490
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1491
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1492
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1493
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1494
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1495
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/gravity_imapler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1496
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1497
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1498
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1499
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1500
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1501
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1502
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1503
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1504
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1505
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1506
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1507
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1508
+			},
+			"model": "animated_java:item/gravity_impaler/fade2/impaling12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1509
+			},
+			"model": "animated_java:item/gravity_impaler/faded/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1510
+			},
+			"model": "animated_java:item/gravity_impaler/faded/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1511
+			},
+			"model": "animated_java:item/gravity_impaler/faded/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1512
+			},
+			"model": "animated_java:item/gravity_impaler/faded/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1513
+			},
+			"model": "animated_java:item/gravity_impaler/faded/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1514
+			},
+			"model": "animated_java:item/gravity_impaler/faded/gravity_imapler"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1515
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1516
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1517
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1518
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1519
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1520
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1521
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1522
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1523
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1524
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1525
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1526
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1527
+			},
+			"model": "animated_java:item/gravity_impaler/faded/impaling12"
 		}
 	],
 	"animated_java": {
@@ -10309,6 +10879,105 @@
 					1430,
 					1431,
 					1432
+				]
+			},
+			"gravity_impaler": {
+				"used_ids": [
+					1433,
+					1434,
+					1435,
+					1436,
+					1437,
+					1438,
+					1439,
+					1440,
+					1441,
+					1442,
+					1443,
+					1444,
+					1445,
+					1446,
+					1447,
+					1448,
+					1449,
+					1450,
+					1451,
+					1452,
+					1453,
+					1454,
+					1455,
+					1456,
+					1457,
+					1458,
+					1459,
+					1460,
+					1461,
+					1462,
+					1463,
+					1464,
+					1465,
+					1466,
+					1467,
+					1468,
+					1469,
+					1470,
+					1471,
+					1472,
+					1473,
+					1474,
+					1475,
+					1476,
+					1477,
+					1478,
+					1479,
+					1480,
+					1481,
+					1482,
+					1483,
+					1484,
+					1485,
+					1486,
+					1487,
+					1488,
+					1489,
+					1490,
+					1491,
+					1492,
+					1493,
+					1494,
+					1495,
+					1496,
+					1497,
+					1498,
+					1499,
+					1500,
+					1501,
+					1502,
+					1503,
+					1504,
+					1505,
+					1506,
+					1507,
+					1508,
+					1509,
+					1510,
+					1511,
+					1512,
+					1513,
+					1514,
+					1515,
+					1516,
+					1517,
+					1518,
+					1519,
+					1520,
+					1521,
+					1522,
+					1523,
+					1524,
+					1525,
+					1526,
+					1527
 				]
 			}
 		}
