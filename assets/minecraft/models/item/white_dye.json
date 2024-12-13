@@ -9165,6 +9165,594 @@
 				"custom_model_data": 1527
 			},
 			"model": "animated_java:item/gravity_impaler/faded/impaling12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1528
+			},
+			"model": "animated_java:item/void_slash/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1529
+			},
+			"model": "animated_java:item/void_slash/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1530
+			},
+			"model": "animated_java:item/void_slash/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1531
+			},
+			"model": "animated_java:item/void_slash/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1532
+			},
+			"model": "animated_java:item/void_slash/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1533
+			},
+			"model": "animated_java:item/void_slash/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1534
+			},
+			"model": "animated_java:item/void_slash/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1535
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1536
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1537
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1538
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1539
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1540
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1541
+			},
+			"model": "animated_java:item/void_slash/slash0/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1542
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1543
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1544
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1545
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1546
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1547
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1548
+			},
+			"model": "animated_java:item/void_slash/slash1/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1549
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1550
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1551
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1552
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1553
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1554
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1555
+			},
+			"model": "animated_java:item/void_slash/slash2/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1556
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1557
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1558
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1559
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1560
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1561
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1562
+			},
+			"model": "animated_java:item/void_slash/slash3/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1563
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1564
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1565
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1566
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1567
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1568
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1569
+			},
+			"model": "animated_java:item/void_slash/slash4/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1570
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1571
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1572
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1573
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1574
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1575
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1576
+			},
+			"model": "animated_java:item/void_slash/slash5/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1577
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1578
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1579
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1580
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1581
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1582
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1583
+			},
+			"model": "animated_java:item/void_slash/slash6/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1584
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1585
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1586
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1587
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1588
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1589
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1590
+			},
+			"model": "animated_java:item/void_slash/slash7/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1591
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1592
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1593
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1594
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1595
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1596
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1597
+			},
+			"model": "animated_java:item/void_slash/slash8/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1598
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1599
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1600
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1601
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1602
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1603
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1604
+			},
+			"model": "animated_java:item/void_slash/slashing0/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1605
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1606
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1607
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1608
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1609
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1610
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1611
+			},
+			"model": "animated_java:item/void_slash/slashing1/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1612
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1613
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1614
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1615
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1616
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1617
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1618
+			},
+			"model": "animated_java:item/void_slash/slashing2/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1619
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1620
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1621
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1622
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1623
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1624
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1625
+			},
+			"model": "animated_java:item/void_slash/slashing3/small_group10"
 		}
 	],
 	"animated_java": {
@@ -10978,6 +11566,108 @@
 					1525,
 					1526,
 					1527
+				]
+			},
+			"void_slash": {
+				"used_ids": [
+					1528,
+					1529,
+					1530,
+					1531,
+					1532,
+					1533,
+					1534,
+					1535,
+					1536,
+					1537,
+					1538,
+					1539,
+					1540,
+					1541,
+					1542,
+					1543,
+					1544,
+					1545,
+					1546,
+					1547,
+					1548,
+					1549,
+					1550,
+					1551,
+					1552,
+					1553,
+					1554,
+					1555,
+					1556,
+					1557,
+					1558,
+					1559,
+					1560,
+					1561,
+					1562,
+					1563,
+					1564,
+					1565,
+					1566,
+					1567,
+					1568,
+					1569,
+					1570,
+					1571,
+					1572,
+					1573,
+					1574,
+					1575,
+					1576,
+					1577,
+					1578,
+					1579,
+					1580,
+					1581,
+					1582,
+					1583,
+					1584,
+					1585,
+					1586,
+					1587,
+					1588,
+					1589,
+					1590,
+					1591,
+					1592,
+					1593,
+					1594,
+					1595,
+					1596,
+					1597,
+					1598,
+					1599,
+					1600,
+					1601,
+					1602,
+					1603,
+					1604,
+					1605,
+					1606,
+					1607,
+					1608,
+					1609,
+					1610,
+					1611,
+					1612,
+					1613,
+					1614,
+					1615,
+					1616,
+					1617,
+					1618,
+					1619,
+					1620,
+					1621,
+					1622,
+					1623,
+					1624,
+					1625
 				]
 			}
 		}

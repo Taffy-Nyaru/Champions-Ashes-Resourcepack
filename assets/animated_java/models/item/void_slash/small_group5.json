@@ -1,0 +1,98 @@
+{
+	"textures": {
+		"13": "animated_java:item/void_slash/void_slash"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				8,
+				-4
+			],
+			"to": [
+				20,
+				8,
+				20
+			],
+			"rotation": {
+				"angle": 45,
+				"axis": "x",
+				"origin": [
+					8.666666666666666,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 90,
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"rotation": 270,
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"rotation": 180,
+					"texture": "#13"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 270,
+					"texture": "#13"
+				},
+				"down": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"rotation": 270,
+					"texture": "#13"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

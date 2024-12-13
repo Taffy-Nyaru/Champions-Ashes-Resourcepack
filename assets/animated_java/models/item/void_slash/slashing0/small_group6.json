@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/void_slash/small_group6",
+	"textures": {
+		"13": "animated_java:item/void_slash/void_slashing_0"
+	}
+}
