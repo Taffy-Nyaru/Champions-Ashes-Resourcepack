@@ -9753,6 +9753,912 @@
 				"custom_model_data": 1625
 			},
 			"model": "animated_java:item/void_slash/slashing3/small_group10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1626
+			},
+			"model": "animated_java:item/water_vfx/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1627
+			},
+			"model": "animated_java:item/water_vfx/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1628
+			},
+			"model": "animated_java:item/water_vfx/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1629
+			},
+			"model": "animated_java:item/water_vfx/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1630
+			},
+			"model": "animated_java:item/water_vfx/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1631
+			},
+			"model": "animated_java:item/water_vfx/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1632
+			},
+			"model": "animated_java:item/water_vfx/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1633
+			},
+			"model": "animated_java:item/water_vfx/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1634
+			},
+			"model": "animated_java:item/water_vfx/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1635
+			},
+			"model": "animated_java:item/water_vfx/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1636
+			},
+			"model": "animated_java:item/water_vfx/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1637
+			},
+			"model": "animated_java:item/water_vfx/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1638
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1639
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1640
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1641
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1642
+			},
+			"model": "animated_java:item/water_vfx/fade0/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1643
+			},
+			"model": "animated_java:item/water_vfx/fade0/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1644
+			},
+			"model": "animated_java:item/water_vfx/fade0/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1645
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1646
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1647
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1648
+			},
+			"model": "animated_java:item/water_vfx/fade0/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1649
+			},
+			"model": "animated_java:item/water_vfx/fade0/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1650
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1651
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1652
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1653
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1654
+			},
+			"model": "animated_java:item/water_vfx/fade1/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1655
+			},
+			"model": "animated_java:item/water_vfx/fade1/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1656
+			},
+			"model": "animated_java:item/water_vfx/fade1/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1657
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1658
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1659
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1660
+			},
+			"model": "animated_java:item/water_vfx/fade1/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1661
+			},
+			"model": "animated_java:item/water_vfx/fade1/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1662
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1663
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1664
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1665
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1666
+			},
+			"model": "animated_java:item/water_vfx/fade2/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1667
+			},
+			"model": "animated_java:item/water_vfx/fade2/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1668
+			},
+			"model": "animated_java:item/water_vfx/fade2/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1669
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1670
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1671
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1672
+			},
+			"model": "animated_java:item/water_vfx/fade2/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1673
+			},
+			"model": "animated_java:item/water_vfx/fade2/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1674
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1675
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1676
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1677
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1678
+			},
+			"model": "animated_java:item/water_vfx/fade3/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1679
+			},
+			"model": "animated_java:item/water_vfx/fade3/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1680
+			},
+			"model": "animated_java:item/water_vfx/fade3/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1681
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1682
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1683
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1684
+			},
+			"model": "animated_java:item/water_vfx/fade3/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1685
+			},
+			"model": "animated_java:item/water_vfx/fade3/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1686
+			},
+			"model": "animated_java:item/water_vfx/faded/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1687
+			},
+			"model": "animated_java:item/water_vfx/faded/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1688
+			},
+			"model": "animated_java:item/water_vfx/faded/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1689
+			},
+			"model": "animated_java:item/water_vfx/faded/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1690
+			},
+			"model": "animated_java:item/water_vfx/faded/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1691
+			},
+			"model": "animated_java:item/water_vfx/faded/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1692
+			},
+			"model": "animated_java:item/water_vfx/faded/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1693
+			},
+			"model": "animated_java:item/water_vfx/faded/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1694
+			},
+			"model": "animated_java:item/water_vfx/faded/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1695
+			},
+			"model": "animated_java:item/water_vfx/faded/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1696
+			},
+			"model": "animated_java:item/water_vfx/faded/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1697
+			},
+			"model": "animated_java:item/water_vfx/faded/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1698
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1699
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1700
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1701
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1702
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1703
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/water_wall"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1704
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/water_platform"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1705
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1706
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1707
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1708
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/edge8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1709
+			},
+			"model": "animated_java:item/water_vfx/water_wall1/shockwaves2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1710
+			},
+			"model": "animated_java:item/water_explode/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1711
+			},
+			"model": "animated_java:item/water_explode/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1712
+			},
+			"model": "animated_java:item/water_explode/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1713
+			},
+			"model": "animated_java:item/water_explode/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1714
+			},
+			"model": "animated_java:item/water_explode/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1715
+			},
+			"model": "animated_java:item/water_explode/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1716
+			},
+			"model": "animated_java:item/water_explode/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1717
+			},
+			"model": "animated_java:item/water_explode/fade0/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1718
+			},
+			"model": "animated_java:item/water_explode/fade0/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1719
+			},
+			"model": "animated_java:item/water_explode/fade0/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1720
+			},
+			"model": "animated_java:item/water_explode/fade0/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1721
+			},
+			"model": "animated_java:item/water_explode/fade0/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1722
+			},
+			"model": "animated_java:item/water_explode/fade0/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1723
+			},
+			"model": "animated_java:item/water_explode/fade0/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1724
+			},
+			"model": "animated_java:item/water_explode/fade1/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1725
+			},
+			"model": "animated_java:item/water_explode/fade1/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1726
+			},
+			"model": "animated_java:item/water_explode/fade1/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1727
+			},
+			"model": "animated_java:item/water_explode/fade1/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1728
+			},
+			"model": "animated_java:item/water_explode/fade1/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1729
+			},
+			"model": "animated_java:item/water_explode/fade1/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1730
+			},
+			"model": "animated_java:item/water_explode/fade1/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1731
+			},
+			"model": "animated_java:item/water_explode/fade2/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1732
+			},
+			"model": "animated_java:item/water_explode/fade2/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1733
+			},
+			"model": "animated_java:item/water_explode/fade2/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1734
+			},
+			"model": "animated_java:item/water_explode/fade2/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1735
+			},
+			"model": "animated_java:item/water_explode/fade2/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1736
+			},
+			"model": "animated_java:item/water_explode/fade2/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1737
+			},
+			"model": "animated_java:item/water_explode/fade2/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1738
+			},
+			"model": "animated_java:item/water_explode/fade3/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1739
+			},
+			"model": "animated_java:item/water_explode/fade3/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1740
+			},
+			"model": "animated_java:item/water_explode/fade3/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1741
+			},
+			"model": "animated_java:item/water_explode/fade3/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1742
+			},
+			"model": "animated_java:item/water_explode/fade3/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1743
+			},
+			"model": "animated_java:item/water_explode/fade3/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1744
+			},
+			"model": "animated_java:item/water_explode/fade3/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1745
+			},
+			"model": "animated_java:item/water_explode/faded/edge1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1746
+			},
+			"model": "animated_java:item/water_explode/faded/edge2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1747
+			},
+			"model": "animated_java:item/water_explode/faded/edge3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1748
+			},
+			"model": "animated_java:item/water_explode/faded/edge4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1749
+			},
+			"model": "animated_java:item/water_explode/faded/shockwaves"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1750
+			},
+			"model": "animated_java:item/water_explode/faded/water_explode0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1751
+			},
+			"model": "animated_java:item/water_explode/faded/water_explode1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1752
+			},
+			"model": "animated_java:item/steel_anchor/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1753
+			},
+			"model": "animated_java:item/steel_anchor/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1754
+			},
+			"model": "animated_java:item/steel_anchor/anchor"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1755
+			},
+			"model": "animated_java:item/steel_anchor/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1756
+			},
+			"model": "animated_java:item/steel_anchor/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1757
+			},
+			"model": "animated_java:item/steel_anchor/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1758
+			},
+			"model": "animated_java:item/steel_anchor/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1759
+			},
+			"model": "animated_java:item/steel_anchor/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1760
+			},
+			"model": "animated_java:item/steel_anchor/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1761
+			},
+			"model": "animated_java:item/steel_anchor/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1762
+			},
+			"model": "animated_java:item/steel_anchor/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1763
+			},
+			"model": "animated_java:item/steel_anchor/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1764
+			},
+			"model": "animated_java:item/anchor_vfx/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1765
+			},
+			"model": "animated_java:item/anchor_vfx/anchor0/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1766
+			},
+			"model": "animated_java:item/anchor_vfx/anchor1/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1767
+			},
+			"model": "animated_java:item/anchor_vfx/anchor2/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1768
+			},
+			"model": "animated_java:item/anchor_vfx/anchor3/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1769
+			},
+			"model": "animated_java:item/anchor_vfx/anchor4/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1770
+			},
+			"model": "animated_java:item/anchor_vfx/anchor5/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1771
+			},
+			"model": "animated_java:item/anchor_vfx/anchor6/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1772
+			},
+			"model": "animated_java:item/anchor_vfx/anchor7/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1773
+			},
+			"model": "animated_java:item/anchor_vfx/fade0/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1774
+			},
+			"model": "animated_java:item/anchor_vfx/fade1/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1775
+			},
+			"model": "animated_java:item/anchor_vfx/fade2/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1776
+			},
+			"model": "animated_java:item/anchor_vfx/fade3/anchor_vfx"
 		}
 	],
 	"animated_java": {
@@ -11668,6 +12574,173 @@
 					1623,
 					1624,
 					1625
+				]
+			},
+			"water_vfx": {
+				"used_ids": [
+					1626,
+					1627,
+					1628,
+					1629,
+					1630,
+					1631,
+					1632,
+					1633,
+					1634,
+					1635,
+					1636,
+					1637,
+					1638,
+					1639,
+					1640,
+					1641,
+					1642,
+					1643,
+					1644,
+					1645,
+					1646,
+					1647,
+					1648,
+					1649,
+					1650,
+					1651,
+					1652,
+					1653,
+					1654,
+					1655,
+					1656,
+					1657,
+					1658,
+					1659,
+					1660,
+					1661,
+					1662,
+					1663,
+					1664,
+					1665,
+					1666,
+					1667,
+					1668,
+					1669,
+					1670,
+					1671,
+					1672,
+					1673,
+					1674,
+					1675,
+					1676,
+					1677,
+					1678,
+					1679,
+					1680,
+					1681,
+					1682,
+					1683,
+					1684,
+					1685,
+					1686,
+					1687,
+					1688,
+					1689,
+					1690,
+					1691,
+					1692,
+					1693,
+					1694,
+					1695,
+					1696,
+					1697,
+					1698,
+					1699,
+					1700,
+					1701,
+					1702,
+					1703,
+					1704,
+					1705,
+					1706,
+					1707,
+					1708,
+					1709
+				]
+			},
+			"water_explode": {
+				"used_ids": [
+					1710,
+					1711,
+					1712,
+					1713,
+					1714,
+					1715,
+					1716,
+					1717,
+					1718,
+					1719,
+					1720,
+					1721,
+					1722,
+					1723,
+					1724,
+					1725,
+					1726,
+					1727,
+					1728,
+					1729,
+					1730,
+					1731,
+					1732,
+					1733,
+					1734,
+					1735,
+					1736,
+					1737,
+					1738,
+					1739,
+					1740,
+					1741,
+					1742,
+					1743,
+					1744,
+					1745,
+					1746,
+					1747,
+					1748,
+					1749,
+					1750,
+					1751
+				]
+			},
+			"steel_anchor": {
+				"used_ids": [
+					1752,
+					1753,
+					1754,
+					1755,
+					1756,
+					1757,
+					1758,
+					1759,
+					1760,
+					1761,
+					1762,
+					1763
+				]
+			},
+			"anchor_vfx": {
+				"used_ids": [
+					1764,
+					1765,
+					1766,
+					1767,
+					1768,
+					1769,
+					1770,
+					1771,
+					1772,
+					1773,
+					1774,
+					1775,
+					1776
 				]
 			}
 		}

@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/water_vfx/edge3",
+	"textures": {
+		"9": "animated_java:item/water_vfx/water_wall1"
+	}
+}

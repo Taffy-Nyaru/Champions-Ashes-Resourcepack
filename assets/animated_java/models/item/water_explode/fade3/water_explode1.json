@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/water_explode/water_explode1",
+	"textures": {
+		"13": "animated_java:item/water_explode/water_wave_fade3",
+		"14": "animated_java:item/water_explode/inner_water_explode_fade3",
+		"15": "animated_java:item/water_explode/outer_water_explode_fade3"
+	}
+}

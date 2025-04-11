@@ -1,0 +1,95 @@
+{
+	"textures": {
+		"8": "animated_java:item/anchor_vfx/faded"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				8,
+				-3.8829899999999995
+			],
+			"to": [
+				20,
+				8,
+				20.11701
+			],
+			"rotation": {
+				"angle": -45,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8.11701
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#8"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#8"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#8"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#8"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 180,
+					"texture": "#8"
+				},
+				"down": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"rotation": 180,
+					"texture": "#8"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

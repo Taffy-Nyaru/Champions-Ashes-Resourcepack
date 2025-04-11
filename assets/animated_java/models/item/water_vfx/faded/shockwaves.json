@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/water_vfx/shockwaves",
+	"textures": {
+		"3": "animated_java:item/water_vfx/faded",
+		"5": "animated_java:item/water_vfx/faded",
+		"9": "animated_java:item/water_vfx/faded"
+	}
+}

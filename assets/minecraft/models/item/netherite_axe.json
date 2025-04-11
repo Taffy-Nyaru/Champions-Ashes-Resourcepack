@@ -11,6 +11,10 @@
       {
         "model": "championsashes:item/ledo_great_hammer",
         "predicate": { "custom_model_data": 1390077 }
+      },
+      {
+        "model": "championsashes:item/steel_anchor",
+        "predicate": { "custom_model_data": 1390109 }
       }
     ]
   }

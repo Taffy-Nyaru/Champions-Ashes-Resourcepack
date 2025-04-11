@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/water_vfx/edge4",
+	"textures": {
+		"3": "animated_java:item/water_vfx/water_wave_fade1",
+		"5": "animated_java:item/water_vfx/water_platform_fade0",
+		"9": "animated_java:item/water_vfx/water_wall0_fade0"
+	}
+}
