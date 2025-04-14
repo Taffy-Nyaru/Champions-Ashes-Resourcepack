@@ -10659,6 +10659,12 @@
 				"custom_model_data": 1776
 			},
 			"model": "animated_java:item/anchor_vfx/fade3/anchor_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1777
+			},
+			"model": "animated_java:item/steel_anchor/chains"
 		}
 	],
 	"animated_java": {
@@ -12723,7 +12729,8 @@
 					1760,
 					1761,
 					1762,
-					1763
+					1763,
+					1777
 				]
 			},
 			"anchor_vfx": {

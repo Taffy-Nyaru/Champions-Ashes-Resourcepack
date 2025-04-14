@@ -2020,8 +2020,10 @@
                 "assets\\animated_java\\models\\item\\steel_anchor\\right_leg.json",
                 "assets\\animated_java\\models\\item\\steel_anchor\\left_leg2.json",
                 "assets\\animated_java\\models\\item\\steel_anchor\\left_leg.json",
+                "assets\\animated_java\\models\\item\\steel_anchor\\chains.json",
                 "assets\\animated_java\\textures\\item\\steel_anchor\\alumopper.png",
                 "assets\\animated_java\\textures\\item\\steel_anchor\\steel_anchor.png",
+                "assets\\animated_java\\textures\\item\\steel_anchor\\steel_chains.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
         },
