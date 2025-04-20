@@ -1,0 +1,23 @@
+{
+	"parent": "animated_java:item/void_slash/slash6",
+	"textures": {
+		"0": "animated_java:item/void_slash/purple_slash_faded3",
+		"1": "animated_java:item/void_slash/purple_slash_faded3",
+		"2": "animated_java:item/void_slash/purple_slash_faded2",
+		"3": "animated_java:item/void_slash/purple_slash_faded1",
+		"4": "animated_java:item/void_slash/purple_slash0_faded0",
+		"5": "animated_java:item/void_slash/purple_slash12",
+		"6": "animated_java:item/void_slash/purple_slash11",
+		"7": "animated_java:item/void_slash/purple_slash10",
+		"8": "animated_java:item/void_slash/purple_slash9",
+		"9": "animated_java:item/void_slash/purple_slash8",
+		"10": "animated_java:item/void_slash/purple_slash7",
+		"11": "animated_java:item/void_slash/purple_slash6",
+		"12": "animated_java:item/void_slash/purple_slash5",
+		"13": "animated_java:item/void_slash/purple_slash4",
+		"14": "animated_java:item/void_slash/purple_slash3",
+		"15": "animated_java:item/void_slash/purple_slash2",
+		"16": "animated_java:item/void_slash/purple_slash1",
+		"17": "animated_java:item/void_slash/purple_slash0"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"9": "animated_java:item/field_extension/withering_lighting_vfx0"
+	},
+	"elements": [
+		{
+			"from": [
+				8,
+				16.125,
+				9.25
+			],
+			"to": [
+				8,
+				5.875,
+				3.75
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					11,
+					6.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						0,
+						1.25
+					],
+					"texture": "#9"
+				},
+				"east": {
+					"uv": [
+						0,
+						15.875,
+						16,
+						0
+					],
+					"texture": "#9"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						0.0625,
+						-4.625
+					],
+					"texture": "#9"
+				},
+				"west": {
+					"uv": [
+						16,
+						16,
+						0,
+						0
+					],
+					"texture": "#9"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						1.25
+					],
+					"texture": "#9"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						1.25
+					],
+					"texture": "#9"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

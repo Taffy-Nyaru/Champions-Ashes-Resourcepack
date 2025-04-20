@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/field_extension/white_dot0",
+	"textures": {
+		"9": "animated_java:item/field_extension/withering_lighting_vfx6",
+		"14": "animated_java:item/field_extension/light_dots_fade2"
+	}
+}

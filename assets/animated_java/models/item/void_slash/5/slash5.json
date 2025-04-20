@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/void_slash/slash5",
+	"textures": {
+		"0": "animated_java:item/void_slash/purple_slash5",
+		"2": "animated_java:item/void_slash/purple_slash5"
+	}
+}

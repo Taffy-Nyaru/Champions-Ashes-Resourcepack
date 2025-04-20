@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/field_extension/lightning_vfx4",
+	"textures": {
+		"9": "animated_java:item/field_extension/withering_lighting_vfx4",
+		"14": "animated_java:item/field_extension/light_dots_fade0"
+	}
+}
