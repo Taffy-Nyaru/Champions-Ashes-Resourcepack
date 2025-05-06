@@ -12297,6 +12297,48 @@
 				"custom_model_data": 2049
 			},
 			"model": "animated_java:item/gravity_lightning_bolt/new_variant/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2050
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2051
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2052
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2053
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2054
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2055
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2056
+			},
+			"model": "animated_java:item/zamor_ice_storm/new_variant/bone6"
 		}
 	],
 	"animated_java": {
@@ -13948,7 +13990,14 @@
 					1371,
 					1372,
 					1373,
-					1374
+					1374,
+					2050,
+					2051,
+					2052,
+					2053,
+					2054,
+					2055,
+					2056
 				]
 			},
 			"purple_fire": {

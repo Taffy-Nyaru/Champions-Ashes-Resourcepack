@@ -1754,6 +1754,13 @@
                 "assets\\animated_java\\models\\item\\zamor_ice_storm\\bone4.json",
                 "assets\\animated_java\\models\\item\\zamor_ice_storm\\bone5.json",
                 "assets\\animated_java\\models\\item\\zamor_ice_storm\\bone6.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone0.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone1.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone2.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone3.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone4.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone5.json",
+                "assets\\animated_java\\models\\item\\zamor_ice_storm\\new_variant\\bone6.json",
                 "assets\\animated_java\\textures\\item\\zamor_ice_storm\\zamor_ice_storm.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
