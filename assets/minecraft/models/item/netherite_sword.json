@@ -63,6 +63,10 @@
       {
         "model": "championsashes:item/rakshasa_great_katana",
         "predicate": { "custom_model_data": 1390106 }
+      },
+      {
+        "model": "championsashes:item/ancient_meteoric_ore_greatsword",
+        "predicate": { "custom_model_data": 1390110 }
       }
     ]
   }

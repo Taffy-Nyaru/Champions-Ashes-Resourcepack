@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/meteoric_ore_snipe_charge/bone8",
+	"textures": {
+		"1": "animated_java:item/meteoric_ore_snipe_charge/ancient_meteoric_ore_greatsword_charged"
+	}
+}

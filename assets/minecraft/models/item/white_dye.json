@@ -12297,6 +12297,6342 @@
 				"custom_model_data": 2049
 			},
 			"model": "animated_java:item/gravity_lightning_bolt/new_variant/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2050
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2051
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2052
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2053
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2054
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2055
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2056
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2057
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2058
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2059
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2060
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2061
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2062
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2063
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2064
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2065
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2066
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2067
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2068
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2069
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2070
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2071
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2072
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2073
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2074
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2075
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2076
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2077
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2078
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2079
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2080
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2081
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2082
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2083
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2084
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2085
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2086
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2087
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2088
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2089
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2090
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2091
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2092
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2093
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2094
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2095
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2096
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2097
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2098
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2099
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2100
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2101
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2102
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2103
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2104
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2105
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2106
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2107
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2108
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2109
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2110
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2111
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2112
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2113
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2114
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2115
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2116
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2117
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2118
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2119
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2120
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2121
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2122
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2123
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2124
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2125
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2126
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2127
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2128
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2129
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2130
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2131
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2132
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2133
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2134
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2135
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2136
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2137
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2138
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2139
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2140
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2141
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2142
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2143
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2144
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2145
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2146
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2147
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2148
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2149
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2150
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2151
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2152
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2153
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2154
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2155
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2156
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2157
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2158
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2159
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2160
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2161
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2162
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2163
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2164
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2165
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2166
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2167
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2168
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2169
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2170
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2171
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2172
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2173
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2174
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2175
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2176
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2177
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2178
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2179
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2180
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2181
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2182
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2183
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2184
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2185
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2186
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2187
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2188
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2189
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2190
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2191
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2192
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2193
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2194
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2195
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2196
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2197
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2198
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2199
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2200
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2201
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2202
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2203
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2204
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2205
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2206
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2207
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2208
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2209
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2210
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2211
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2212
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2213
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2214
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2215
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2216
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2217
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2218
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2219
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2220
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2221
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2222
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2223
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2224
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2225
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact10/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2226
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2227
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2228
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2229
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2230
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2231
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2232
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2233
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2234
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2235
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2236
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2237
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2238
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2239
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2240
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2241
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2242
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2243
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2244
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2245
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2246
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2247
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2248
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2249
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2250
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2251
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2252
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2253
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2254
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2255
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2256
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2257
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2258
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2259
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2260
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2261
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2262
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2263
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2264
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2265
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2266
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2267
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2268
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2269
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2270
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2271
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2272
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2273
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2274
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2275
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2276
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2277
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2278
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2279
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2280
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2281
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2282
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2283
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2284
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2285
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2286
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2287
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2288
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2289
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2290
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2291
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2292
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2293
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2294
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2295
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2296
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2297
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2298
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2299
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2300
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2301
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2302
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2303
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2304
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2305
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2306
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2307
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2308
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2309
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2310
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2311
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2312
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2313
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact11/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2314
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2315
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2316
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2317
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2318
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2319
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2320
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2321
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2322
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2323
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2324
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2325
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2326
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2327
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2328
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2329
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2330
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2331
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2332
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2333
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2334
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2335
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2336
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2337
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2338
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2339
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2340
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2341
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2342
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2343
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2344
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2345
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2346
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2347
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2348
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2349
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2350
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2351
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2352
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2353
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2354
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2355
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2356
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2357
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2358
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2359
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2360
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2361
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2362
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2363
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2364
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2365
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2366
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2367
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2368
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2369
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2370
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2371
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2372
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2373
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2374
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2375
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2376
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2377
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2378
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2379
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2380
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2381
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2382
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2383
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2384
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2385
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2386
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2387
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2388
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2389
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2390
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2391
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2392
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2393
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2394
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2395
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2396
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2397
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2398
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2399
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2400
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2401
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact12/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2402
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2403
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2404
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2405
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2406
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2407
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2408
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2409
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2410
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2411
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2412
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2413
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2414
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2415
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2416
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2417
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2418
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2419
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2420
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2421
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2422
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2423
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2424
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2425
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2426
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2427
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2428
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2429
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2430
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2431
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2432
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2433
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2434
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2435
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2436
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2437
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2438
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2439
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2440
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2441
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2442
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2443
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2444
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2445
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2446
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2447
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2448
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2449
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2450
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2451
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2452
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2453
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2454
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2455
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2456
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2457
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2458
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2459
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2460
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2461
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2462
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2463
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2464
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2465
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2466
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2467
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2468
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2469
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2470
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2471
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2472
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2473
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2474
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2475
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2476
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2477
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2478
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2479
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2480
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2481
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2482
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2483
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2484
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2485
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2486
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2487
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2488
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2489
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact13/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2490
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2491
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2492
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2493
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2494
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2495
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2496
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2497
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2498
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2499
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2500
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2501
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2502
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2503
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2504
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2505
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2506
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2507
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2508
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2509
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2510
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2511
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2512
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2513
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2514
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2515
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2516
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2517
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2518
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2519
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2520
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2521
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2522
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2523
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2524
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2525
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2526
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2527
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2528
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2529
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2530
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2531
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2532
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2533
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2534
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2535
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2536
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2537
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2538
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2539
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2540
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2541
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2542
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2543
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2544
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2545
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2546
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2547
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2548
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2549
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2550
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2551
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2552
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2553
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2554
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2555
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2556
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2557
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2558
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2559
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2560
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2561
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2562
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2563
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2564
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2565
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2566
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2567
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2568
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2569
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2570
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2571
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2572
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2573
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2574
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2575
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2576
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2577
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact14/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2578
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2579
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2580
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2581
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2582
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2583
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2584
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2585
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2586
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2587
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2588
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2589
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2590
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2591
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2592
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2593
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2594
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2595
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2596
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2597
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2598
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2599
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2600
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2601
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2602
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2603
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2604
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2605
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2606
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2607
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2608
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2609
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2610
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2611
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2612
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2613
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2614
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2615
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2616
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2617
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2618
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2619
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2620
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2621
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2622
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2623
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2624
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2625
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2626
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2627
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2628
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2629
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2630
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2631
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2632
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2633
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2634
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2635
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2636
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2637
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2638
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2639
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2640
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2641
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2642
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2643
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2644
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2645
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2646
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2647
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2648
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2649
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2650
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2651
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2652
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2653
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2654
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2655
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2656
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2657
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2658
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2659
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2660
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2661
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2662
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2663
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2664
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2665
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact5/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2666
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2667
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2668
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2669
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2670
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2671
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2672
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2673
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2674
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2675
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2676
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2677
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2678
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2679
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2680
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2681
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2682
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2683
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2684
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2685
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2686
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2687
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2688
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2689
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2690
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2691
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2692
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2693
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2694
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2695
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2696
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2697
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2698
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2699
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2700
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2701
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2702
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2703
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2704
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2705
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2706
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2707
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2708
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2709
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2710
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2711
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2712
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2713
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2714
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2715
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2716
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2717
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2718
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2719
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2720
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2721
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2722
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2723
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2724
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2725
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2726
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2727
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2728
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2729
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2730
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2731
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2732
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2733
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2734
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2735
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2736
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2737
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2738
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2739
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2740
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2741
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2742
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2743
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2744
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2745
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2746
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2747
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2748
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2749
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2750
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2751
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2752
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2753
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact6/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2754
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2755
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2756
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2757
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2758
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2759
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2760
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2761
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2762
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2763
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2764
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2765
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2766
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2767
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2768
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2769
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2770
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2771
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2772
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2773
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2774
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2775
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2776
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2777
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2778
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2779
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2780
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2781
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2782
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2783
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2784
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2785
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2786
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2787
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2788
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2789
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2790
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2791
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2792
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2793
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2794
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2795
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2796
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2797
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2798
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2799
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2800
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2801
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2802
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2803
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2804
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2805
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2806
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2807
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2808
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2809
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2810
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2811
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2812
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2813
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2814
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2815
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2816
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2817
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2818
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2819
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2820
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2821
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2822
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2823
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2824
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2825
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2826
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2827
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2828
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2829
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2830
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2831
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2832
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2833
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2834
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2835
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2836
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2837
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2838
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2839
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2840
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2841
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact7/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2842
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2843
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2844
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2845
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2846
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2847
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2848
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2849
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2850
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2851
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2852
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2853
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2854
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2855
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2856
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2857
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2858
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2859
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2860
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2861
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2862
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2863
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2864
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2865
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2866
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2867
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2868
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2869
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2870
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2871
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2872
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2873
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2874
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2875
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2876
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2877
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2878
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2879
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2880
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2881
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2882
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2883
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2884
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2885
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2886
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2887
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2888
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2889
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2890
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2891
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2892
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2893
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2894
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2895
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2896
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2897
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2898
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2899
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2900
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2901
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2902
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2903
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2904
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2905
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2906
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2907
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2908
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2909
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2910
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2911
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2912
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2913
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2914
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2915
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2916
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2917
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2918
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2919
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2920
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2921
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2922
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2923
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2924
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2925
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2926
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2927
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2928
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2929
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact8/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2930
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2931
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2932
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2933
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2934
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2935
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2936
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2937
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2938
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2939
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2940
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2941
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2942
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2943
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2944
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2945
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2946
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2947
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2948
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2949
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2950
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2951
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2952
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2953
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2954
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2955
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2956
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2957
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2958
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2959
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2960
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2961
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2962
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2963
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2964
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2965
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2966
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2967
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2968
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2969
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2970
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2971
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2972
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2973
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2974
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2975
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2976
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2977
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2978
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2979
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2980
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2981
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2982
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2983
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2984
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2985
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2986
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2987
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2988
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2989
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2990
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2991
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2992
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2993
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2994
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2995
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2996
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2997
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2998
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2999
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3000
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3001
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3002
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3003
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3004
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3005
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3006
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3007
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3008
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3009
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3010
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3011
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3012
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3013
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3014
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3015
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3016
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3017
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/impact9/bone17"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3018
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/explosion_vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3019
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3020
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3021
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3022
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3023
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3024
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3025
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3026
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3027
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3028
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3029
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3030
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3031
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3032
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone39"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3033
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone40"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3034
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone41"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3035
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone42"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3036
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone43"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3037
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone44"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3038
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone45"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3039
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone46"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3040
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone47"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3041
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone48"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3042
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone49"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3043
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone50"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3044
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone51"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3045
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone52"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3046
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone53"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3047
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone54"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3048
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone56"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3049
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone57"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3050
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone58"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3051
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone59"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3052
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone60"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3053
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone61"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3054
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone62"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3055
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone63"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3056
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone64"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3057
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone65"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3058
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone66"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3059
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone67"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3060
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone68"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3061
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone69"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3062
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone70"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3063
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone71"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3064
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone72"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3065
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone73"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3066
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone74"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3067
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone75"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3068
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone76"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3069
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3070
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3071
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3072
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3073
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3074
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3075
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3076
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3077
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3078
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone10"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3079
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone13"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3080
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone16"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3081
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone15"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3082
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone14"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3083
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone12"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3084
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone11"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3085
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone37"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3086
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone36"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3087
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone35"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3088
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone34"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3089
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone33"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3090
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone32"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3091
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone31"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3092
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone30"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3093
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone29"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3094
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone28"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3095
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone27"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3096
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3097
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone25"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3098
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone24"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3099
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone23"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3100
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone22"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3101
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone21"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3102
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone20"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3103
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone19"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3104
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone18"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3105
+			},
+			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/bone17"
 		}
 	],
 	"animated_java": {
@@ -14664,6 +21000,1066 @@
 					2047,
 					2048,
 					2049
+				]
+			},
+			"meteoric_ore_snipe_charge": {
+				"used_ids": [
+					2050,
+					2051,
+					2052,
+					2053,
+					2054,
+					2055,
+					2056,
+					2057,
+					2058,
+					2059,
+					2060,
+					2061,
+					2062,
+					2063,
+					2064,
+					2065,
+					2066,
+					2067,
+					2068,
+					2069,
+					2070,
+					2071,
+					2072,
+					2073,
+					2074,
+					2075,
+					2076,
+					2077,
+					2078,
+					2079,
+					2080,
+					2081,
+					2082,
+					2083,
+					2084,
+					2085,
+					2086,
+					2087,
+					2088,
+					2089,
+					2090,
+					2091,
+					2092,
+					2093,
+					2094,
+					2095,
+					2096,
+					2097,
+					2098,
+					2099,
+					2100,
+					2101,
+					2102,
+					2103,
+					2104,
+					2105,
+					2106,
+					2107,
+					2108,
+					2109,
+					2110,
+					2111,
+					2112,
+					2113,
+					2114,
+					2115,
+					2116,
+					2117,
+					2118,
+					2119,
+					2120,
+					2121,
+					2122,
+					2123,
+					2124,
+					2125,
+					2126,
+					2127,
+					2128,
+					2129,
+					2130,
+					2131,
+					2132,
+					2133,
+					2134,
+					2135,
+					2136,
+					2137,
+					2138,
+					2139,
+					2140,
+					2141,
+					2142,
+					2143,
+					2144,
+					2145,
+					2146,
+					2147,
+					2148,
+					2149,
+					2150,
+					2151,
+					2152,
+					2153,
+					2154,
+					2155,
+					2156,
+					2157,
+					2158,
+					2159,
+					2160,
+					2161,
+					2162,
+					2163,
+					2164,
+					2165,
+					2166,
+					2167,
+					2168,
+					2169,
+					2170,
+					2171,
+					2172,
+					2173,
+					2174,
+					2175,
+					2176,
+					2177,
+					2178,
+					2179,
+					2180,
+					2181,
+					2182,
+					2183,
+					2184,
+					2185,
+					2186,
+					2187,
+					2188,
+					2189,
+					2190,
+					2191,
+					2192,
+					2193,
+					2194,
+					2195,
+					2196,
+					2197,
+					2198,
+					2199,
+					2200,
+					2201,
+					2202,
+					2203,
+					2204,
+					2205,
+					2206,
+					2207,
+					2208,
+					2209,
+					2210,
+					2211,
+					2212,
+					2213,
+					2214,
+					2215,
+					2216,
+					2217,
+					2218,
+					2219,
+					2220,
+					2221,
+					2222,
+					2223,
+					2224,
+					2225,
+					2226,
+					2227,
+					2228,
+					2229,
+					2230,
+					2231,
+					2232,
+					2233,
+					2234,
+					2235,
+					2236,
+					2237,
+					2238,
+					2239,
+					2240,
+					2241,
+					2242,
+					2243,
+					2244,
+					2245,
+					2246,
+					2247,
+					2248,
+					2249,
+					2250,
+					2251,
+					2252,
+					2253,
+					2254,
+					2255,
+					2256,
+					2257,
+					2258,
+					2259,
+					2260,
+					2261,
+					2262,
+					2263,
+					2264,
+					2265,
+					2266,
+					2267,
+					2268,
+					2269,
+					2270,
+					2271,
+					2272,
+					2273,
+					2274,
+					2275,
+					2276,
+					2277,
+					2278,
+					2279,
+					2280,
+					2281,
+					2282,
+					2283,
+					2284,
+					2285,
+					2286,
+					2287,
+					2288,
+					2289,
+					2290,
+					2291,
+					2292,
+					2293,
+					2294,
+					2295,
+					2296,
+					2297,
+					2298,
+					2299,
+					2300,
+					2301,
+					2302,
+					2303,
+					2304,
+					2305,
+					2306,
+					2307,
+					2308,
+					2309,
+					2310,
+					2311,
+					2312,
+					2313,
+					2314,
+					2315,
+					2316,
+					2317,
+					2318,
+					2319,
+					2320,
+					2321,
+					2322,
+					2323,
+					2324,
+					2325,
+					2326,
+					2327,
+					2328,
+					2329,
+					2330,
+					2331,
+					2332,
+					2333,
+					2334,
+					2335,
+					2336,
+					2337,
+					2338,
+					2339,
+					2340,
+					2341,
+					2342,
+					2343,
+					2344,
+					2345,
+					2346,
+					2347,
+					2348,
+					2349,
+					2350,
+					2351,
+					2352,
+					2353,
+					2354,
+					2355,
+					2356,
+					2357,
+					2358,
+					2359,
+					2360,
+					2361,
+					2362,
+					2363,
+					2364,
+					2365,
+					2366,
+					2367,
+					2368,
+					2369,
+					2370,
+					2371,
+					2372,
+					2373,
+					2374,
+					2375,
+					2376,
+					2377,
+					2378,
+					2379,
+					2380,
+					2381,
+					2382,
+					2383,
+					2384,
+					2385,
+					2386,
+					2387,
+					2388,
+					2389,
+					2390,
+					2391,
+					2392,
+					2393,
+					2394,
+					2395,
+					2396,
+					2397,
+					2398,
+					2399,
+					2400,
+					2401,
+					2402,
+					2403,
+					2404,
+					2405,
+					2406,
+					2407,
+					2408,
+					2409,
+					2410,
+					2411,
+					2412,
+					2413,
+					2414,
+					2415,
+					2416,
+					2417,
+					2418,
+					2419,
+					2420,
+					2421,
+					2422,
+					2423,
+					2424,
+					2425,
+					2426,
+					2427,
+					2428,
+					2429,
+					2430,
+					2431,
+					2432,
+					2433,
+					2434,
+					2435,
+					2436,
+					2437,
+					2438,
+					2439,
+					2440,
+					2441,
+					2442,
+					2443,
+					2444,
+					2445,
+					2446,
+					2447,
+					2448,
+					2449,
+					2450,
+					2451,
+					2452,
+					2453,
+					2454,
+					2455,
+					2456,
+					2457,
+					2458,
+					2459,
+					2460,
+					2461,
+					2462,
+					2463,
+					2464,
+					2465,
+					2466,
+					2467,
+					2468,
+					2469,
+					2470,
+					2471,
+					2472,
+					2473,
+					2474,
+					2475,
+					2476,
+					2477,
+					2478,
+					2479,
+					2480,
+					2481,
+					2482,
+					2483,
+					2484,
+					2485,
+					2486,
+					2487,
+					2488,
+					2489,
+					2490,
+					2491,
+					2492,
+					2493,
+					2494,
+					2495,
+					2496,
+					2497,
+					2498,
+					2499,
+					2500,
+					2501,
+					2502,
+					2503,
+					2504,
+					2505,
+					2506,
+					2507,
+					2508,
+					2509,
+					2510,
+					2511,
+					2512,
+					2513,
+					2514,
+					2515,
+					2516,
+					2517,
+					2518,
+					2519,
+					2520,
+					2521,
+					2522,
+					2523,
+					2524,
+					2525,
+					2526,
+					2527,
+					2528,
+					2529,
+					2530,
+					2531,
+					2532,
+					2533,
+					2534,
+					2535,
+					2536,
+					2537,
+					2538,
+					2539,
+					2540,
+					2541,
+					2542,
+					2543,
+					2544,
+					2545,
+					2546,
+					2547,
+					2548,
+					2549,
+					2550,
+					2551,
+					2552,
+					2553,
+					2554,
+					2555,
+					2556,
+					2557,
+					2558,
+					2559,
+					2560,
+					2561,
+					2562,
+					2563,
+					2564,
+					2565,
+					2566,
+					2567,
+					2568,
+					2569,
+					2570,
+					2571,
+					2572,
+					2573,
+					2574,
+					2575,
+					2576,
+					2577,
+					2578,
+					2579,
+					2580,
+					2581,
+					2582,
+					2583,
+					2584,
+					2585,
+					2586,
+					2587,
+					2588,
+					2589,
+					2590,
+					2591,
+					2592,
+					2593,
+					2594,
+					2595,
+					2596,
+					2597,
+					2598,
+					2599,
+					2600,
+					2601,
+					2602,
+					2603,
+					2604,
+					2605,
+					2606,
+					2607,
+					2608,
+					2609,
+					2610,
+					2611,
+					2612,
+					2613,
+					2614,
+					2615,
+					2616,
+					2617,
+					2618,
+					2619,
+					2620,
+					2621,
+					2622,
+					2623,
+					2624,
+					2625,
+					2626,
+					2627,
+					2628,
+					2629,
+					2630,
+					2631,
+					2632,
+					2633,
+					2634,
+					2635,
+					2636,
+					2637,
+					2638,
+					2639,
+					2640,
+					2641,
+					2642,
+					2643,
+					2644,
+					2645,
+					2646,
+					2647,
+					2648,
+					2649,
+					2650,
+					2651,
+					2652,
+					2653,
+					2654,
+					2655,
+					2656,
+					2657,
+					2658,
+					2659,
+					2660,
+					2661,
+					2662,
+					2663,
+					2664,
+					2665,
+					2666,
+					2667,
+					2668,
+					2669,
+					2670,
+					2671,
+					2672,
+					2673,
+					2674,
+					2675,
+					2676,
+					2677,
+					2678,
+					2679,
+					2680,
+					2681,
+					2682,
+					2683,
+					2684,
+					2685,
+					2686,
+					2687,
+					2688,
+					2689,
+					2690,
+					2691,
+					2692,
+					2693,
+					2694,
+					2695,
+					2696,
+					2697,
+					2698,
+					2699,
+					2700,
+					2701,
+					2702,
+					2703,
+					2704,
+					2705,
+					2706,
+					2707,
+					2708,
+					2709,
+					2710,
+					2711,
+					2712,
+					2713,
+					2714,
+					2715,
+					2716,
+					2717,
+					2718,
+					2719,
+					2720,
+					2721,
+					2722,
+					2723,
+					2724,
+					2725,
+					2726,
+					2727,
+					2728,
+					2729,
+					2730,
+					2731,
+					2732,
+					2733,
+					2734,
+					2735,
+					2736,
+					2737,
+					2738,
+					2739,
+					2740,
+					2741,
+					2742,
+					2743,
+					2744,
+					2745,
+					2746,
+					2747,
+					2748,
+					2749,
+					2750,
+					2751,
+					2752,
+					2753,
+					2754,
+					2755,
+					2756,
+					2757,
+					2758,
+					2759,
+					2760,
+					2761,
+					2762,
+					2763,
+					2764,
+					2765,
+					2766,
+					2767,
+					2768,
+					2769,
+					2770,
+					2771,
+					2772,
+					2773,
+					2774,
+					2775,
+					2776,
+					2777,
+					2778,
+					2779,
+					2780,
+					2781,
+					2782,
+					2783,
+					2784,
+					2785,
+					2786,
+					2787,
+					2788,
+					2789,
+					2790,
+					2791,
+					2792,
+					2793,
+					2794,
+					2795,
+					2796,
+					2797,
+					2798,
+					2799,
+					2800,
+					2801,
+					2802,
+					2803,
+					2804,
+					2805,
+					2806,
+					2807,
+					2808,
+					2809,
+					2810,
+					2811,
+					2812,
+					2813,
+					2814,
+					2815,
+					2816,
+					2817,
+					2818,
+					2819,
+					2820,
+					2821,
+					2822,
+					2823,
+					2824,
+					2825,
+					2826,
+					2827,
+					2828,
+					2829,
+					2830,
+					2831,
+					2832,
+					2833,
+					2834,
+					2835,
+					2836,
+					2837,
+					2838,
+					2839,
+					2840,
+					2841,
+					2842,
+					2843,
+					2844,
+					2845,
+					2846,
+					2847,
+					2848,
+					2849,
+					2850,
+					2851,
+					2852,
+					2853,
+					2854,
+					2855,
+					2856,
+					2857,
+					2858,
+					2859,
+					2860,
+					2861,
+					2862,
+					2863,
+					2864,
+					2865,
+					2866,
+					2867,
+					2868,
+					2869,
+					2870,
+					2871,
+					2872,
+					2873,
+					2874,
+					2875,
+					2876,
+					2877,
+					2878,
+					2879,
+					2880,
+					2881,
+					2882,
+					2883,
+					2884,
+					2885,
+					2886,
+					2887,
+					2888,
+					2889,
+					2890,
+					2891,
+					2892,
+					2893,
+					2894,
+					2895,
+					2896,
+					2897,
+					2898,
+					2899,
+					2900,
+					2901,
+					2902,
+					2903,
+					2904,
+					2905,
+					2906,
+					2907,
+					2908,
+					2909,
+					2910,
+					2911,
+					2912,
+					2913,
+					2914,
+					2915,
+					2916,
+					2917,
+					2918,
+					2919,
+					2920,
+					2921,
+					2922,
+					2923,
+					2924,
+					2925,
+					2926,
+					2927,
+					2928,
+					2929,
+					2930,
+					2931,
+					2932,
+					2933,
+					2934,
+					2935,
+					2936,
+					2937,
+					2938,
+					2939,
+					2940,
+					2941,
+					2942,
+					2943,
+					2944,
+					2945,
+					2946,
+					2947,
+					2948,
+					2949,
+					2950,
+					2951,
+					2952,
+					2953,
+					2954,
+					2955,
+					2956,
+					2957,
+					2958,
+					2959,
+					2960,
+					2961,
+					2962,
+					2963,
+					2964,
+					2965,
+					2966,
+					2967,
+					2968,
+					2969,
+					2970,
+					2971,
+					2972,
+					2973,
+					2974,
+					2975,
+					2976,
+					2977,
+					2978,
+					2979,
+					2980,
+					2981,
+					2982,
+					2983,
+					2984,
+					2985,
+					2986,
+					2987,
+					2988,
+					2989,
+					2990,
+					2991,
+					2992,
+					2993,
+					2994,
+					2995,
+					2996,
+					2997,
+					2998,
+					2999,
+					3000,
+					3001,
+					3002,
+					3003,
+					3004,
+					3005,
+					3006,
+					3007,
+					3008,
+					3009,
+					3010,
+					3011,
+					3012,
+					3013,
+					3014,
+					3015,
+					3016,
+					3017,
+					3018,
+					3019,
+					3020,
+					3021,
+					3022,
+					3023,
+					3024,
+					3025,
+					3026,
+					3027,
+					3028,
+					3029,
+					3030,
+					3031,
+					3032,
+					3033,
+					3034,
+					3035,
+					3036,
+					3037,
+					3038,
+					3039,
+					3040,
+					3041,
+					3042,
+					3043,
+					3044,
+					3045,
+					3046,
+					3047,
+					3048,
+					3049,
+					3050,
+					3051,
+					3052,
+					3053,
+					3054,
+					3055,
+					3056,
+					3057,
+					3058,
+					3059,
+					3060,
+					3061,
+					3062,
+					3063,
+					3064,
+					3065,
+					3066,
+					3067,
+					3068,
+					3069,
+					3070,
+					3071,
+					3072,
+					3073,
+					3074,
+					3075,
+					3076,
+					3077,
+					3078,
+					3079,
+					3080,
+					3081,
+					3082,
+					3083,
+					3084,
+					3085,
+					3086,
+					3087,
+					3088,
+					3089,
+					3090,
+					3091,
+					3092,
+					3093,
+					3094,
+					3095,
+					3096,
+					3097,
+					3098,
+					3099,
+					3100,
+					3101,
+					3102,
+					3103,
+					3104,
+					3105
 				]
 			}
 		}
