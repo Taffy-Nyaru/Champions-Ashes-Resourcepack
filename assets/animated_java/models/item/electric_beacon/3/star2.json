@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/electric_beacon/star2",
+	"textures": {
+		"1": "animated_java:item/electric_beacon/blackhole_vfx_fade1",
+		"6": "animated_java:item/electric_beacon/slash_vfx2",
+		"13": "animated_java:item/electric_beacon/star_fade1"
+	}
+}

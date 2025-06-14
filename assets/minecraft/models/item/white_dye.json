@@ -17145,6 +17145,384 @@
 				"custom_model_data": 2857
 			},
 			"model": "animated_java:item/meteoric_ore_snipe_charge/sword_light/vortex5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2858
+			},
+			"model": "animated_java:item/electric_beacon/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2859
+			},
+			"model": "animated_java:item/electric_beacon/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2860
+			},
+			"model": "animated_java:item/electric_beacon/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2861
+			},
+			"model": "animated_java:item/electric_beacon/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2862
+			},
+			"model": "animated_java:item/electric_beacon/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2863
+			},
+			"model": "animated_java:item/electric_beacon/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2864
+			},
+			"model": "animated_java:item/electric_beacon/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2865
+			},
+			"model": "animated_java:item/electric_beacon/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2866
+			},
+			"model": "animated_java:item/electric_beacon/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2867
+			},
+			"model": "animated_java:item/electric_beacon/1/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2868
+			},
+			"model": "animated_java:item/electric_beacon/1/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2869
+			},
+			"model": "animated_java:item/electric_beacon/1/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2870
+			},
+			"model": "animated_java:item/electric_beacon/1/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2871
+			},
+			"model": "animated_java:item/electric_beacon/1/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2872
+			},
+			"model": "animated_java:item/electric_beacon/1/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2873
+			},
+			"model": "animated_java:item/electric_beacon/1/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2874
+			},
+			"model": "animated_java:item/electric_beacon/1/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2875
+			},
+			"model": "animated_java:item/electric_beacon/1/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2876
+			},
+			"model": "animated_java:item/electric_beacon/2/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2877
+			},
+			"model": "animated_java:item/electric_beacon/2/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2878
+			},
+			"model": "animated_java:item/electric_beacon/2/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2879
+			},
+			"model": "animated_java:item/electric_beacon/2/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2880
+			},
+			"model": "animated_java:item/electric_beacon/2/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2881
+			},
+			"model": "animated_java:item/electric_beacon/2/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2882
+			},
+			"model": "animated_java:item/electric_beacon/2/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2883
+			},
+			"model": "animated_java:item/electric_beacon/2/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2884
+			},
+			"model": "animated_java:item/electric_beacon/2/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2885
+			},
+			"model": "animated_java:item/electric_beacon/3/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2886
+			},
+			"model": "animated_java:item/electric_beacon/3/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2887
+			},
+			"model": "animated_java:item/electric_beacon/3/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2888
+			},
+			"model": "animated_java:item/electric_beacon/3/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2889
+			},
+			"model": "animated_java:item/electric_beacon/3/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2890
+			},
+			"model": "animated_java:item/electric_beacon/3/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2891
+			},
+			"model": "animated_java:item/electric_beacon/3/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2892
+			},
+			"model": "animated_java:item/electric_beacon/3/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2893
+			},
+			"model": "animated_java:item/electric_beacon/3/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2894
+			},
+			"model": "animated_java:item/electric_beacon/4/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2895
+			},
+			"model": "animated_java:item/electric_beacon/4/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2896
+			},
+			"model": "animated_java:item/electric_beacon/4/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2897
+			},
+			"model": "animated_java:item/electric_beacon/4/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2898
+			},
+			"model": "animated_java:item/electric_beacon/4/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2899
+			},
+			"model": "animated_java:item/electric_beacon/4/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2900
+			},
+			"model": "animated_java:item/electric_beacon/4/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2901
+			},
+			"model": "animated_java:item/electric_beacon/4/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2902
+			},
+			"model": "animated_java:item/electric_beacon/4/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2903
+			},
+			"model": "animated_java:item/electric_beacon/5/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2904
+			},
+			"model": "animated_java:item/electric_beacon/5/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2905
+			},
+			"model": "animated_java:item/electric_beacon/5/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2906
+			},
+			"model": "animated_java:item/electric_beacon/5/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2907
+			},
+			"model": "animated_java:item/electric_beacon/5/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2908
+			},
+			"model": "animated_java:item/electric_beacon/5/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2909
+			},
+			"model": "animated_java:item/electric_beacon/5/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2910
+			},
+			"model": "animated_java:item/electric_beacon/5/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2911
+			},
+			"model": "animated_java:item/electric_beacon/5/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2912
+			},
+			"model": "animated_java:item/electric_beacon/6/blackhole_nova"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2913
+			},
+			"model": "animated_java:item/electric_beacon/6/bone0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2914
+			},
+			"model": "animated_java:item/electric_beacon/6/bone1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2915
+			},
+			"model": "animated_java:item/electric_beacon/6/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2916
+			},
+			"model": "animated_java:item/electric_beacon/6/bone3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2917
+			},
+			"model": "animated_java:item/electric_beacon/6/star0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2918
+			},
+			"model": "animated_java:item/electric_beacon/6/star1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2919
+			},
+			"model": "animated_java:item/electric_beacon/6/star2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2920
+			},
+			"model": "animated_java:item/electric_beacon/6/star3"
 		}
 	],
 	"animated_java": {
@@ -20336,6 +20714,73 @@
 					2855,
 					2856,
 					2857
+				]
+			},
+			"electric_beacon": {
+				"used_ids": [
+					2858,
+					2859,
+					2860,
+					2861,
+					2862,
+					2863,
+					2864,
+					2865,
+					2866,
+					2867,
+					2868,
+					2869,
+					2870,
+					2871,
+					2872,
+					2873,
+					2874,
+					2875,
+					2876,
+					2877,
+					2878,
+					2879,
+					2880,
+					2881,
+					2882,
+					2883,
+					2884,
+					2885,
+					2886,
+					2887,
+					2888,
+					2889,
+					2890,
+					2891,
+					2892,
+					2893,
+					2894,
+					2895,
+					2896,
+					2897,
+					2898,
+					2899,
+					2900,
+					2901,
+					2902,
+					2903,
+					2904,
+					2905,
+					2906,
+					2907,
+					2908,
+					2909,
+					2910,
+					2911,
+					2912,
+					2913,
+					2914,
+					2915,
+					2916,
+					2917,
+					2918,
+					2919,
+					2920
 				]
 			}
 		}

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"6": "animated_java:item/electric_beacon/slash_vfx_blank"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				-4,
+				8
+			],
+			"to": [
+				20,
+				20,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#6"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#6"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#6"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#6"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
