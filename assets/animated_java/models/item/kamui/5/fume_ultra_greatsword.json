@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/kamui/fume_ultra_greatsword",
+	"textures": {
+		"10": "animated_java:item/kamui/blackhole_vortex_vfx5"
+	}
+}

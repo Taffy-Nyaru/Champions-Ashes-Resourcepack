@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/kamui/body",
+	"textures": {
+		"10": "animated_java:item/kamui/blackhole_vortex_vfx4"
+	}
+}

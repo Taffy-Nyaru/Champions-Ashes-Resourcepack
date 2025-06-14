@@ -135,6 +135,18 @@
     {
       "model": "championsashes:item/sun_princess_ring",
       "predicate": { "custom_model_data": 1390108 }
+    },
+    {
+      "model": "championsashes:item/solitude_helmet",
+      "predicate": { "custom_model_data": 1390111 }
+    },
+    {
+      "model": "championsashes:item/daedalus_crucible_wing",
+      "predicate": { "custom_model_data": 1390112 }
+    },
+    {
+      "model": "championsashes:item/levitation_gem",
+      "predicate": { "custom_model_data": 1390113 }
     }
   ]
 }

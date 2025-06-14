@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"13": "animated_java:item/blackhole_supernova/star0"
+	},
+	"elements": [
+		{
+			"from": [
+				-1,
+				-1,
+				7.9985
+			],
+			"to": [
+				17,
+				17,
+				8.0015
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"texture": "#13"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#13"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#13"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#13"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#13"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#13"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

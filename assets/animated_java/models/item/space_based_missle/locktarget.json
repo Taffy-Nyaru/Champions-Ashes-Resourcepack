@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"1": "animated_java:item/space_based_missle/space_based_missle0"
+	},
+	"elements": [
+		{
+			"from": [
+				-2.137931034482758,
+				-16,
+				8
+			],
+			"to": [
+				18.137931034482758,
+				8,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					-16,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						16
+					],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

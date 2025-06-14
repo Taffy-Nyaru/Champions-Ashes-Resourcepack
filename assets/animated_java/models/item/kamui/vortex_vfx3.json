@@ -1,0 +1,99 @@
+{
+	"textures": {
+		"10": "animated_java:item/kamui/star0"
+	},
+	"elements": [
+		{
+			"from": [
+				0.6250300000000006,
+				0,
+				8
+			],
+			"to": [
+				15.625029999999999,
+				15,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8.00003,
+					8,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"rotation": 270,
+					"texture": "#10"
+				},
+				"east": {
+					"uv": [
+						0,
+						4,
+						4,
+						4
+					],
+					"rotation": 90,
+					"texture": "#10"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"rotation": 90,
+					"texture": "#10"
+				},
+				"west": {
+					"uv": [
+						0,
+						4,
+						4,
+						4
+					],
+					"rotation": 90,
+					"texture": "#10"
+				},
+				"up": {
+					"uv": [
+						0,
+						0,
+						0,
+						4
+					],
+					"rotation": 90,
+					"texture": "#10"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						0,
+						4
+					],
+					"rotation": 90,
+					"texture": "#10"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

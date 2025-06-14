@@ -1,18 +1,7 @@
 {
 	"parent": "animated_java:item/anchor_vfx/anchor_vfx",
 	"textures": {
-		"0": "animated_java:item/anchor_vfx/anchor_vfx7",
-		"1": "animated_java:item/anchor_vfx/anchor_vfx6",
-		"2": "animated_java:item/anchor_vfx/anchor_vfx5",
-		"3": "animated_java:item/anchor_vfx/anchor_vfx4",
-		"4": "animated_java:item/anchor_vfx/anchor_vfx3",
-		"5": "animated_java:item/anchor_vfx/anchor_vfx2",
-		"6": "animated_java:item/anchor_vfx/anchor_vfx1",
 		"7": "animated_java:item/anchor_vfx/anchor_vfx0_faded1",
-		"8": "animated_java:item/anchor_vfx/anchor_vfx0_faded1",
-		"9": "animated_java:item/anchor_vfx/anchor_vfx0_faded3",
-		"10": "animated_java:item/anchor_vfx/anchor_vfx0_faded2",
-		"11": "animated_java:item/anchor_vfx/anchor_vfx0_faded1",
-		"12": "animated_java:item/anchor_vfx/anchor_vfx0_faded0"
+		"8": "animated_java:item/anchor_vfx/anchor_vfx0_faded1"
 	}
 }

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"14": "animated_java:item/space_based_missle/gravity_vfx4"
+	},
+	"elements": [
+		{
+			"from": [
+				-4.5,
+				8,
+				-3.5
+			],
+			"to": [
+				19.5,
+				8,
+				20.5
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					7.5,
+					8,
+					8.5
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#14"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#14"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#14"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						16,
+						0
+					],
+					"texture": "#14"
+				},
+				"up": {
+					"uv": [
+						0,
+						16,
+						16,
+						0
+					],
+					"texture": "#14"
+				},
+				"down": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#14"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/blackhole_supernova/bone3",
+	"textures": {
+		"19": "animated_java:item/blackhole_supernova/faded",
+		"21": "animated_java:item/blackhole_supernova/blackhole_vortex_vfx1"
+	}
+}

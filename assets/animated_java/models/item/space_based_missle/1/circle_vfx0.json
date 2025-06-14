@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/space_based_missle/circle_vfx0",
+	"textures": {
+		"1": "animated_java:item/space_based_missle/space_based_missle1",
+		"22": "animated_java:item/space_based_missle/lockon_circle"
+	}
+}

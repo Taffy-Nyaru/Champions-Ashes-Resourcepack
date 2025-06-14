@@ -1,6 +1,0 @@
-{
-	"parent": "animated_java:item/meteoric_ore_snipe_charge/bone3",
-	"textures": {
-		"13": "animated_java:item/meteoric_ore_snipe_charge/impact_b_9"
-	}
-}

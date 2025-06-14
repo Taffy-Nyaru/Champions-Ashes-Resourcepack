@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/space_based_missle/splash_vfx",
+	"textures": {
+		"1": "animated_java:item/space_based_missle/space_based_missle3"
+	}
+}

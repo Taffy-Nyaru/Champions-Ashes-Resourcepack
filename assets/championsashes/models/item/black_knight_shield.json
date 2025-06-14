@@ -1,18 +1,33 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"parent": "item/handheld",
 	"textures": {
 		"layer0": "championsashes:item/black_knight_shield"
 	},
+	"elements": [
+		{
+			"from": [7, 7.375, 8.5],
+			"to": [9, 9.5, 12.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.4375, 10.375]},
+			"faces": {
+				"north": {"uv": [2, 4, 4, 6], "texture": "#layer0"},
+				"east": {"uv": [6.11111, 7.11111, 6.44444, 7.33333], "texture": "#layer0"},
+				"south": {"uv": [5.5, 5.38889, 5.61111, 5.61111], "texture": "#layer0"},
+				"west": {"uv": [6, 7, 6.32778, 7.2], "texture": "#layer0"},
+				"up": {"uv": [6.11111, 7, 6.55, 7.11667], "texture": "#layer0"},
+				"down": {"uv": [6.11111, 7, 6.41111, 7.11667], "texture": "#layer0"}
+			}
+		}
+	],
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [66, -90, -22.5],
-			"translation": [2.25, -2.5, 6.25],
+			"translation": [3.75, -2.5, 6.25],
 			"scale": [1, 1.5, 0.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [66, -90, -22.5],
-			"translation": [2.25, -2.5, 6.25],
+			"translation": [3.75, -2.5, 6.25],
 			"scale": [1, 1.5, 0.5]
 		},
 		"firstperson_righthand": {

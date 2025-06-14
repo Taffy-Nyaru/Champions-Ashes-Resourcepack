@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/template_skull",
+  "overrides": [
+    {
+      "model": "championsashes:item/solitude_helmet",
+      "predicate": { "custom_model_data": 1390111 }
+    }
+  ]
+}
