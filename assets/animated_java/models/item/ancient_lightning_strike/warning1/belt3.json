@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/ancient_lightning_strike/belt3",
+	"textures": {
+		"12": "animated_java:item/ancient_lightning_strike/warning1"
+	}
+}

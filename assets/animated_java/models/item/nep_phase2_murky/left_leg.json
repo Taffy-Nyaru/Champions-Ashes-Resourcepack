@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"1": "animated_java:item/nep_phase2_murky/drakeblood_set"
+	},
+	"elements": [
+		{
+			"from": [
+				5.25,
+				1.25,
+				5.75
+			],
+			"to": [
+				9.75,
+				8,
+				10.25
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					7.75,
+					4.625,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				},
+				"east": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				},
+				"south": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				},
+				"west": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				},
+				"up": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				},
+				"down": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#1"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

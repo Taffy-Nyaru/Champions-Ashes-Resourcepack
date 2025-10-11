@@ -3680,121 +3680,121 @@
 			"predicate": {
 				"custom_model_data": 613
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_bolt"
+			"model": "animated_java:item/ancient_lightning_strike/warning_sign"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 614
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt1"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_bolt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 615
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt2"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 616
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt3"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 617
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_orb"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/belt3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 618
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_bolt"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/lightning_orb"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 619
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt1"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt1/warning_sign"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 620
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt2"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_bolt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 621
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt3"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 622
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_orb"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 623
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_bolt"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/belt3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 624
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt1"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/lightning_orb"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 625
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt2"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt2/warning_sign"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 626
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt3"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_bolt"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 627
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_orb"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 628
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_bolt"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 629
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt1"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/belt3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 630
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt2"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/lightning_orb"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 631
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt3"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt3/warning_sign"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 632
 			},
-			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_orb"
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_bolt"
 		},
 		{
 			"predicate": {
@@ -17523,6 +17523,678 @@
 				"custom_model_data": 2920
 			},
 			"model": "animated_java:item/electric_beacon/6/star3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2921
+			},
+			"model": "animated_java:item/nep_void_missle/laser_beam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2922
+			},
+			"model": "animated_java:item/nep_void_missle/halo"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2923
+			},
+			"model": "animated_java:item/nep_void_missle/ancient_meteoric_ore_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2924
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2925
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2926
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2927
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2928
+			},
+			"model": "animated_java:item/ancient_lightning_strike/lightning_bolt4/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2929
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2930
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2931
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2932
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2933
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2934
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2935
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2936
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2937
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2938
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2939
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2940
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_0/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2941
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2942
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2943
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2944
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2945
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2946
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_1/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2947
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2948
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2949
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2950
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2951
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2952
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_2/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2953
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2954
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2955
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2956
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2957
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2958
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning_3/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2959
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2960
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2961
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2962
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2963
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2964
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning0/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2965
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2966
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2967
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2968
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2969
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2970
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning1/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2971
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2972
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/belt1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2973
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/belt2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2974
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/belt3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2975
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/lightning_orb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2976
+			},
+			"model": "animated_java:item/ancient_lightning_strike/warning2/warning_sign"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2977
+			},
+			"model": "animated_java:item/nep_moonlight_slash/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2978
+			},
+			"model": "animated_java:item/nep_moonlight_slash/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2979
+			},
+			"model": "animated_java:item/nep_moonlight_slash/moonlight_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2980
+			},
+			"model": "animated_java:item/nep_moonlight_slash/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2981
+			},
+			"model": "animated_java:item/nep_moonlight_slash/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2982
+			},
+			"model": "animated_java:item/nep_moonlight_slash/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2983
+			},
+			"model": "animated_java:item/nep_moonlight_slash/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2984
+			},
+			"model": "animated_java:item/nep_moonlight_slash/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2985
+			},
+			"model": "animated_java:item/nep_moonlight_slash/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2986
+			},
+			"model": "animated_java:item/nep_moonlight_slash/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2987
+			},
+			"model": "animated_java:item/nep_moonlight_slash/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2988
+			},
+			"model": "animated_java:item/nep_moonlight_slash/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2989
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/black_knight_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2990
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2991
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2992
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/flame_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2993
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/sword_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2994
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ringed_knight_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2995
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2996
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2997
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2998
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2999
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3000
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3001
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3002
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3003
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3004
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/flame_blast"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3005
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/black_knight_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3006
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3007
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3008
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/flame_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3009
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/sword_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3010
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/ringed_knight_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3011
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3012
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3013
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3014
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3015
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3016
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3017
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3018
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3019
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3020
+			},
+			"model": "animated_java:item/nep_ringed_knight_straight_sword/ignite/flame_blast"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3021
+			},
+			"model": "animated_java:item/nep_phase2_murky/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3022
+			},
+			"model": "animated_java:item/nep_phase2_murky/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3023
+			},
+			"model": "animated_java:item/nep_phase2_murky/murky"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3024
+			},
+			"model": "animated_java:item/nep_phase2_murky/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3025
+			},
+			"model": "animated_java:item/nep_phase2_murky/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3026
+			},
+			"model": "animated_java:item/nep_phase2_murky/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3027
+			},
+			"model": "animated_java:item/nep_phase2_murky/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3028
+			},
+			"model": "animated_java:item/nep_phase2_murky/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3029
+			},
+			"model": "animated_java:item/nep_phase2_murky/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3030
+			},
+			"model": "animated_java:item/nep_phase2_murky/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3031
+			},
+			"model": "animated_java:item/nep_phase2_murky/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3032
+			},
+			"model": "animated_java:item/nep_phase2_murky/left_leg"
 		}
 	],
 	"animated_java": {
@@ -18325,7 +18997,60 @@
 					629,
 					630,
 					631,
-					632
+					632,
+					2924,
+					2925,
+					2926,
+					2927,
+					2928,
+					2929,
+					2930,
+					2931,
+					2932,
+					2933,
+					2934,
+					2935,
+					2936,
+					2937,
+					2938,
+					2939,
+					2940,
+					2941,
+					2942,
+					2943,
+					2944,
+					2945,
+					2946,
+					2947,
+					2948,
+					2949,
+					2950,
+					2951,
+					2952,
+					2953,
+					2954,
+					2955,
+					2956,
+					2957,
+					2958,
+					2959,
+					2960,
+					2961,
+					2962,
+					2963,
+					2964,
+					2965,
+					2966,
+					2967,
+					2968,
+					2969,
+					2970,
+					2971,
+					2972,
+					2973,
+					2974,
+					2975,
+					2976
 				]
 			},
 			"starscaller": {
@@ -20781,6 +21506,81 @@
 					2918,
 					2919,
 					2920
+				]
+			},
+			"nep_void_missle": {
+				"used_ids": [
+					2921,
+					2922,
+					2923
+				]
+			},
+			"nep_moonlight_slash": {
+				"used_ids": [
+					2977,
+					2978,
+					2979,
+					2980,
+					2981,
+					2982,
+					2983,
+					2984,
+					2985,
+					2986,
+					2987,
+					2988
+				]
+			},
+			"nep_ringed_knight_straight_sword": {
+				"used_ids": [
+					2989,
+					2990,
+					2991,
+					2992,
+					2993,
+					2994,
+					2995,
+					2996,
+					2997,
+					2998,
+					2999,
+					3000,
+					3001,
+					3002,
+					3003,
+					3004,
+					3005,
+					3006,
+					3007,
+					3008,
+					3009,
+					3010,
+					3011,
+					3012,
+					3013,
+					3014,
+					3015,
+					3016,
+					3017,
+					3018,
+					3019,
+					3020
+				]
+			},
+			"nep_phase2_murky": {
+				"used_ids": [
+					3021,
+					3022,
+					3023,
+					3024,
+					3025,
+					3026,
+					3027,
+					3028,
+					3029,
+					3030,
+					3031,
+					3032
 				]
 			}
 		}

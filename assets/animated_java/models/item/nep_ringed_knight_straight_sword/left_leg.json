@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/nep_ringed_knight_straight_sword/drakeblood_set"
+	},
+	"elements": [
+		{
+			"from": [
+				5.25,
+				1.25,
+				5.75
+			],
+			"to": [
+				9.75,
+				8,
+				10.25
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					7.75,
+					4.625,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						3,
+						9.5,
+						4,
+						11
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

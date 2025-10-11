@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"12": "animated_java:item/ancient_lightning_strike/warning3"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				8.1875,
+				-4
+			],
+			"to": [
+				20,
+				8.1875,
+				20
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					8.1875,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						8,
+						0
+					],
+					"texture": "#12"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						8,
+						0
+					],
+					"texture": "#12"
+				},
+				"south": {
+					"uv": [
+						0,
+						0,
+						8,
+						0
+					],
+					"texture": "#12"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						8,
+						0
+					],
+					"texture": "#12"
+				},
+				"up": {
+					"uv": [
+						8,
+						8,
+						0,
+						0
+					],
+					"texture": "#12"
+				},
+				"down": {
+					"uv": [
+						8,
+						8,
+						0,
+						16
+					],
+					"texture": "#12"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

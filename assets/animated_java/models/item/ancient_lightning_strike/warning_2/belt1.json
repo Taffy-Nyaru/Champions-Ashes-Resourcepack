@@ -1,0 +1,22 @@
+{
+	"parent": "animated_java:item/ancient_lightning_strike/belt1",
+	"textures": {
+		"0": "animated_java:item/ancient_lightning_strike/naked_lightning_bolt0",
+		"1": "animated_java:item/ancient_lightning_strike/naked_lightning_bolt1",
+		"2": "animated_java:item/ancient_lightning_strike/naked_lightning_bolt2",
+		"3": "animated_java:item/ancient_lightning_strike/naked_lightning_bolt3",
+		"4": "animated_java:item/ancient_lightning_strike/naked_lightning_bolt4",
+		"5": "animated_java:item/ancient_lightning_strike/lightning_orb",
+		"6": "animated_java:item/ancient_lightning_strike/lightning_orb_core",
+		"7": "animated_java:item/ancient_lightning_strike/lightning_orb_outer",
+		"8": "animated_java:item/ancient_lightning_strike/warning",
+		"9": "animated_java:item/ancient_lightning_strike/warning0",
+		"10": "animated_java:item/ancient_lightning_strike/warning1",
+		"11": "animated_java:item/ancient_lightning_strike/warning2",
+		"12": "animated_java:item/ancient_lightning_strike/warning_2",
+		"13": "animated_java:item/ancient_lightning_strike/warning_0",
+		"14": "animated_java:item/ancient_lightning_strike/warning_1",
+		"15": "animated_java:item/ancient_lightning_strike/warning_2",
+		"16": "animated_java:item/ancient_lightning_strike/warning_3"
+	}
+}
