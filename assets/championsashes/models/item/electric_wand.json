@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
@@ -6,6 +7,34 @@
 		"particle": "championsashes:item/electric_wand"
 	},
 	"elements": [
+		{
+			"name": "Wand",
+			"from": [8.21375, -14.79849, 7.60221],
+			"to": [8.27625, 1.98276, 7.66471],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.11793, 1.24452, 7.89513]},
+			"faces": {
+				"north": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"},
+				"east": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"},
+				"south": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"},
+				"west": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"},
+				"up": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"},
+				"down": {"uv": [3.5, 8.5, 4, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "Wand",
+			"from": [7.77625, -14.79849, 8.22721],
+			"to": [7.83875, 1.98276, 8.28971],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.11793, 1.24452, 7.89513]},
+			"faces": {
+				"north": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"},
+				"east": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"},
+				"south": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"},
+				"west": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"},
+				"up": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"},
+				"down": {"uv": [4, 7.5, 4.5, 8], "texture": "#0"}
+			}
+		},
 		{
 			"name": "Wand",
 			"from": [7.52625, -14.79849, 7.41471],
@@ -1232,7 +1261,7 @@
 			"translation": [0, 22.5, 0]
 		},
 		"gui": {
-			"rotation": [0, 180, 45],
+			"rotation": [0, -180, 45],
 			"translation": [3.75, 3.75, 0],
 			"scale": [0.7, 0.7, 0.7]
 		},
@@ -1334,12 +1363,14 @@
 				81,
 				82,
 				83,
+				84,
+				85,
 				{
 					"name": "ysmGlowCrystalBall",
 					"origin": [-0.53125, 0.3125, 0.65625],
 					"color": 8,
 					"nbt": "{}",
-					"children": [84, 85]
+					"children": [86, 87]
 				}
 			]
 		}

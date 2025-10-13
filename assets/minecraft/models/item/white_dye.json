@@ -9218,541 +9218,541 @@
 			"predicate": {
 				"custom_model_data": 1536
 			},
-			"model": "animated_java:item/void_slash/0/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1537
 			},
-			"model": "animated_java:item/void_slash/0/slash1"
+			"model": "animated_java:item/void_slash/0/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1538
 			},
-			"model": "animated_java:item/void_slash/0/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/0/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1539
 			},
-			"model": "animated_java:item/void_slash/0/slash3"
+			"model": "animated_java:item/void_slash/0/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1540
 			},
-			"model": "animated_java:item/void_slash/0/slash4"
+			"model": "animated_java:item/void_slash/0/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1541
 			},
-			"model": "animated_java:item/void_slash/0/slash5"
+			"model": "animated_java:item/void_slash/0/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1542
 			},
-			"model": "animated_java:item/void_slash/0/slash6"
+			"model": "animated_java:item/void_slash/0/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1543
 			},
-			"model": "animated_java:item/void_slash/0/slash7"
+			"model": "animated_java:item/void_slash/0/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1544
 			},
-			"model": "animated_java:item/void_slash/1/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/0/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1545
 			},
-			"model": "animated_java:item/void_slash/1/slash1"
+			"model": "animated_java:item/void_slash/0/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1546
 			},
-			"model": "animated_java:item/void_slash/1/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/1/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1547
 			},
-			"model": "animated_java:item/void_slash/1/slash3"
+			"model": "animated_java:item/void_slash/1/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1548
 			},
-			"model": "animated_java:item/void_slash/1/slash4"
+			"model": "animated_java:item/void_slash/1/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1549
 			},
-			"model": "animated_java:item/void_slash/1/slash5"
+			"model": "animated_java:item/void_slash/1/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1550
 			},
-			"model": "animated_java:item/void_slash/1/slash6"
+			"model": "animated_java:item/void_slash/1/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1551
 			},
-			"model": "animated_java:item/void_slash/1/slash7"
+			"model": "animated_java:item/void_slash/1/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1552
 			},
-			"model": "animated_java:item/void_slash/2/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/1/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1553
 			},
-			"model": "animated_java:item/void_slash/2/slash1"
+			"model": "animated_java:item/void_slash/1/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1554
 			},
-			"model": "animated_java:item/void_slash/2/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/1/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1555
 			},
-			"model": "animated_java:item/void_slash/2/slash3"
+			"model": "animated_java:item/void_slash/2/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1556
 			},
-			"model": "animated_java:item/void_slash/2/slash4"
+			"model": "animated_java:item/void_slash/2/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1557
 			},
-			"model": "animated_java:item/void_slash/2/slash5"
+			"model": "animated_java:item/void_slash/2/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1558
 			},
-			"model": "animated_java:item/void_slash/2/slash6"
+			"model": "animated_java:item/void_slash/2/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1559
 			},
-			"model": "animated_java:item/void_slash/2/slash7"
+			"model": "animated_java:item/void_slash/2/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1560
 			},
-			"model": "animated_java:item/void_slash/3/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/2/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1561
 			},
-			"model": "animated_java:item/void_slash/3/slash1"
+			"model": "animated_java:item/void_slash/2/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1562
 			},
-			"model": "animated_java:item/void_slash/3/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/2/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1563
 			},
-			"model": "animated_java:item/void_slash/3/slash3"
+			"model": "animated_java:item/void_slash/2/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1564
 			},
-			"model": "animated_java:item/void_slash/3/slash4"
+			"model": "animated_java:item/void_slash/3/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1565
 			},
-			"model": "animated_java:item/void_slash/3/slash5"
+			"model": "animated_java:item/void_slash/3/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1566
 			},
-			"model": "animated_java:item/void_slash/3/slash6"
+			"model": "animated_java:item/void_slash/3/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1567
 			},
-			"model": "animated_java:item/void_slash/3/slash7"
+			"model": "animated_java:item/void_slash/3/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1568
 			},
-			"model": "animated_java:item/void_slash/4/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/3/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1569
 			},
-			"model": "animated_java:item/void_slash/4/slash1"
+			"model": "animated_java:item/void_slash/3/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1570
 			},
-			"model": "animated_java:item/void_slash/4/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/3/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1571
 			},
-			"model": "animated_java:item/void_slash/4/slash3"
+			"model": "animated_java:item/void_slash/3/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1572
 			},
-			"model": "animated_java:item/void_slash/4/slash4"
+			"model": "animated_java:item/void_slash/3/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1573
 			},
-			"model": "animated_java:item/void_slash/4/slash5"
+			"model": "animated_java:item/void_slash/4/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1574
 			},
-			"model": "animated_java:item/void_slash/4/slash6"
+			"model": "animated_java:item/void_slash/4/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1575
 			},
-			"model": "animated_java:item/void_slash/4/slash7"
+			"model": "animated_java:item/void_slash/4/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1576
 			},
-			"model": "animated_java:item/void_slash/5/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/4/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1577
 			},
-			"model": "animated_java:item/void_slash/5/slash1"
+			"model": "animated_java:item/void_slash/4/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1578
 			},
-			"model": "animated_java:item/void_slash/5/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/4/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1579
 			},
-			"model": "animated_java:item/void_slash/5/slash3"
+			"model": "animated_java:item/void_slash/4/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1580
 			},
-			"model": "animated_java:item/void_slash/5/slash4"
+			"model": "animated_java:item/void_slash/4/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1581
 			},
-			"model": "animated_java:item/void_slash/5/slash5"
+			"model": "animated_java:item/void_slash/4/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1582
 			},
-			"model": "animated_java:item/void_slash/5/slash6"
+			"model": "animated_java:item/void_slash/5/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1583
 			},
-			"model": "animated_java:item/void_slash/5/slash7"
+			"model": "animated_java:item/void_slash/5/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1584
 			},
-			"model": "animated_java:item/void_slash/6/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/5/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1585
 			},
-			"model": "animated_java:item/void_slash/6/slash1"
+			"model": "animated_java:item/void_slash/5/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1586
 			},
-			"model": "animated_java:item/void_slash/6/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/5/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1587
 			},
-			"model": "animated_java:item/void_slash/6/slash3"
+			"model": "animated_java:item/void_slash/5/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1588
 			},
-			"model": "animated_java:item/void_slash/6/slash4"
+			"model": "animated_java:item/void_slash/5/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1589
 			},
-			"model": "animated_java:item/void_slash/6/slash5"
+			"model": "animated_java:item/void_slash/5/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1590
 			},
-			"model": "animated_java:item/void_slash/6/slash6"
+			"model": "animated_java:item/void_slash/5/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1591
 			},
-			"model": "animated_java:item/void_slash/6/slash7"
+			"model": "animated_java:item/void_slash/6/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1592
 			},
-			"model": "animated_java:item/void_slash/7/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/6/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1593
 			},
-			"model": "animated_java:item/void_slash/7/slash1"
+			"model": "animated_java:item/void_slash/6/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1594
 			},
-			"model": "animated_java:item/void_slash/7/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/6/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1595
 			},
-			"model": "animated_java:item/void_slash/7/slash3"
+			"model": "animated_java:item/void_slash/6/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1596
 			},
-			"model": "animated_java:item/void_slash/7/slash4"
+			"model": "animated_java:item/void_slash/6/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1597
 			},
-			"model": "animated_java:item/void_slash/7/slash5"
+			"model": "animated_java:item/void_slash/6/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1598
 			},
-			"model": "animated_java:item/void_slash/7/slash6"
+			"model": "animated_java:item/void_slash/6/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1599
 			},
-			"model": "animated_java:item/void_slash/7/slash7"
+			"model": "animated_java:item/void_slash/6/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1600
 			},
-			"model": "animated_java:item/void_slash/8/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/7/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1601
 			},
-			"model": "animated_java:item/void_slash/8/slash1"
+			"model": "animated_java:item/void_slash/7/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1602
 			},
-			"model": "animated_java:item/void_slash/8/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/7/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1603
 			},
-			"model": "animated_java:item/void_slash/8/slash3"
+			"model": "animated_java:item/void_slash/7/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1604
 			},
-			"model": "animated_java:item/void_slash/8/slash4"
+			"model": "animated_java:item/void_slash/7/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1605
 			},
-			"model": "animated_java:item/void_slash/8/slash5"
+			"model": "animated_java:item/void_slash/7/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1606
 			},
-			"model": "animated_java:item/void_slash/8/slash6"
+			"model": "animated_java:item/void_slash/7/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1607
 			},
-			"model": "animated_java:item/void_slash/8/slash7"
+			"model": "animated_java:item/void_slash/7/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1608
 			},
-			"model": "animated_java:item/void_slash/9/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/7/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1609
 			},
-			"model": "animated_java:item/void_slash/9/slash1"
+			"model": "animated_java:item/void_slash/8/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1610
 			},
-			"model": "animated_java:item/void_slash/9/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/8/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1611
 			},
-			"model": "animated_java:item/void_slash/9/slash3"
+			"model": "animated_java:item/void_slash/8/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1612
 			},
-			"model": "animated_java:item/void_slash/9/slash4"
+			"model": "animated_java:item/void_slash/8/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1613
 			},
-			"model": "animated_java:item/void_slash/9/slash5"
+			"model": "animated_java:item/void_slash/8/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1614
 			},
-			"model": "animated_java:item/void_slash/9/slash6"
+			"model": "animated_java:item/void_slash/8/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1615
 			},
-			"model": "animated_java:item/void_slash/9/slash7"
+			"model": "animated_java:item/void_slash/8/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1616
 			},
-			"model": "animated_java:item/void_slash/10/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/8/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1617
 			},
-			"model": "animated_java:item/void_slash/10/slash1"
+			"model": "animated_java:item/void_slash/8/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1618
 			},
-			"model": "animated_java:item/void_slash/10/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/9/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1619
 			},
-			"model": "animated_java:item/void_slash/10/slash3"
+			"model": "animated_java:item/void_slash/9/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1620
 			},
-			"model": "animated_java:item/void_slash/10/slash4"
+			"model": "animated_java:item/void_slash/9/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1621
 			},
-			"model": "animated_java:item/void_slash/10/slash5"
+			"model": "animated_java:item/void_slash/9/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1622
 			},
-			"model": "animated_java:item/void_slash/10/slash6"
+			"model": "animated_java:item/void_slash/9/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1623
 			},
-			"model": "animated_java:item/void_slash/10/slash7"
+			"model": "animated_java:item/void_slash/9/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1624
 			},
-			"model": "animated_java:item/void_slash/11/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/9/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1625
 			},
-			"model": "animated_java:item/void_slash/11/slash1"
+			"model": "animated_java:item/void_slash/9/slash7"
 		},
 		{
 			"predicate": {
@@ -10670,277 +10670,277 @@
 			"predicate": {
 				"custom_model_data": 1778
 			},
-			"model": "animated_java:item/void_slash/11/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/9/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1779
 			},
-			"model": "animated_java:item/void_slash/11/slash3"
+			"model": "animated_java:item/void_slash/10/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1780
 			},
-			"model": "animated_java:item/void_slash/11/slash4"
+			"model": "animated_java:item/void_slash/10/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1781
 			},
-			"model": "animated_java:item/void_slash/11/slash5"
+			"model": "animated_java:item/void_slash/10/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1782
 			},
-			"model": "animated_java:item/void_slash/11/slash6"
+			"model": "animated_java:item/void_slash/10/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1783
 			},
-			"model": "animated_java:item/void_slash/11/slash7"
+			"model": "animated_java:item/void_slash/10/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1784
 			},
-			"model": "animated_java:item/void_slash/12/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/10/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1785
 			},
-			"model": "animated_java:item/void_slash/12/slash1"
+			"model": "animated_java:item/void_slash/10/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1786
 			},
-			"model": "animated_java:item/void_slash/12/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/10/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1787
 			},
-			"model": "animated_java:item/void_slash/12/slash3"
+			"model": "animated_java:item/void_slash/10/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1788
 			},
-			"model": "animated_java:item/void_slash/12/slash4"
+			"model": "animated_java:item/void_slash/11/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1789
 			},
-			"model": "animated_java:item/void_slash/12/slash5"
+			"model": "animated_java:item/void_slash/11/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1790
 			},
-			"model": "animated_java:item/void_slash/12/slash6"
+			"model": "animated_java:item/void_slash/11/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1791
 			},
-			"model": "animated_java:item/void_slash/12/slash7"
+			"model": "animated_java:item/void_slash/11/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1792
 			},
-			"model": "animated_java:item/void_slash/faded0/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/11/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1793
 			},
-			"model": "animated_java:item/void_slash/faded0/slash1"
+			"model": "animated_java:item/void_slash/11/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1794
 			},
-			"model": "animated_java:item/void_slash/faded0/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/11/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1795
 			},
-			"model": "animated_java:item/void_slash/faded0/slash3"
+			"model": "animated_java:item/void_slash/11/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1796
 			},
-			"model": "animated_java:item/void_slash/faded0/slash4"
+			"model": "animated_java:item/void_slash/11/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1797
 			},
-			"model": "animated_java:item/void_slash/faded0/slash5"
+			"model": "animated_java:item/void_slash/12/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1798
 			},
-			"model": "animated_java:item/void_slash/faded0/slash6"
+			"model": "animated_java:item/void_slash/12/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1799
 			},
-			"model": "animated_java:item/void_slash/faded0/slash7"
+			"model": "animated_java:item/void_slash/12/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1800
 			},
-			"model": "animated_java:item/void_slash/faded1/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/12/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1801
 			},
-			"model": "animated_java:item/void_slash/faded1/slash1"
+			"model": "animated_java:item/void_slash/12/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1802
 			},
-			"model": "animated_java:item/void_slash/faded1/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/12/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1803
 			},
-			"model": "animated_java:item/void_slash/faded1/slash3"
+			"model": "animated_java:item/void_slash/12/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1804
 			},
-			"model": "animated_java:item/void_slash/faded1/slash4"
+			"model": "animated_java:item/void_slash/12/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1805
 			},
-			"model": "animated_java:item/void_slash/faded1/slash5"
+			"model": "animated_java:item/void_slash/12/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1806
 			},
-			"model": "animated_java:item/void_slash/faded1/slash6"
+			"model": "animated_java:item/void_slash/faded0/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1807
 			},
-			"model": "animated_java:item/void_slash/faded1/slash7"
+			"model": "animated_java:item/void_slash/faded0/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1808
 			},
-			"model": "animated_java:item/void_slash/faded2/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/faded0/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1809
 			},
-			"model": "animated_java:item/void_slash/faded2/slash1"
+			"model": "animated_java:item/void_slash/faded0/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1810
 			},
-			"model": "animated_java:item/void_slash/faded2/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/faded0/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1811
 			},
-			"model": "animated_java:item/void_slash/faded2/slash3"
+			"model": "animated_java:item/void_slash/faded0/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1812
 			},
-			"model": "animated_java:item/void_slash/faded2/slash4"
+			"model": "animated_java:item/void_slash/faded0/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1813
 			},
-			"model": "animated_java:item/void_slash/faded2/slash5"
+			"model": "animated_java:item/void_slash/faded0/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1814
 			},
-			"model": "animated_java:item/void_slash/faded2/slash6"
+			"model": "animated_java:item/void_slash/faded0/cheat_engine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1815
 			},
-			"model": "animated_java:item/void_slash/faded2/slash7"
+			"model": "animated_java:item/void_slash/faded1/void_dimension_slash0"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1816
 			},
-			"model": "animated_java:item/void_slash/faded3/void_dimension_slash0"
+			"model": "animated_java:item/void_slash/faded1/slash1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1817
 			},
-			"model": "animated_java:item/void_slash/faded3/slash1"
+			"model": "animated_java:item/void_slash/faded1/void_dimension_slash2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1818
 			},
-			"model": "animated_java:item/void_slash/faded3/void_dimension_slash2"
+			"model": "animated_java:item/void_slash/faded1/slash3"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1819
 			},
-			"model": "animated_java:item/void_slash/faded3/slash3"
+			"model": "animated_java:item/void_slash/faded1/slash4"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1820
 			},
-			"model": "animated_java:item/void_slash/faded3/slash4"
+			"model": "animated_java:item/void_slash/faded1/slash5"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1821
 			},
-			"model": "animated_java:item/void_slash/faded3/slash5"
+			"model": "animated_java:item/void_slash/faded1/slash6"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1822
 			},
-			"model": "animated_java:item/void_slash/faded3/slash6"
+			"model": "animated_java:item/void_slash/faded1/slash7"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 1823
 			},
-			"model": "animated_java:item/void_slash/faded3/slash7"
+			"model": "animated_java:item/void_slash/faded1/cheat_engine"
 		},
 		{
 			"predicate": {
@@ -18195,6 +18195,300 @@
 				"custom_model_data": 3032
 			},
 			"model": "animated_java:item/nep_phase2_murky/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3033
+			},
+			"model": "animated_java:item/void_slash/faded2/void_dimension_slash0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3034
+			},
+			"model": "animated_java:item/void_slash/faded2/slash1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3035
+			},
+			"model": "animated_java:item/void_slash/faded2/void_dimension_slash2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3036
+			},
+			"model": "animated_java:item/void_slash/faded2/slash3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3037
+			},
+			"model": "animated_java:item/void_slash/faded2/slash4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3038
+			},
+			"model": "animated_java:item/void_slash/faded2/slash5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3039
+			},
+			"model": "animated_java:item/void_slash/faded2/slash6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3040
+			},
+			"model": "animated_java:item/void_slash/faded2/slash7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3041
+			},
+			"model": "animated_java:item/void_slash/faded2/cheat_engine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3042
+			},
+			"model": "animated_java:item/void_slash/faded3/void_dimension_slash0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3043
+			},
+			"model": "animated_java:item/void_slash/faded3/slash1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3044
+			},
+			"model": "animated_java:item/void_slash/faded3/void_dimension_slash2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3045
+			},
+			"model": "animated_java:item/void_slash/faded3/slash3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3046
+			},
+			"model": "animated_java:item/void_slash/faded3/slash4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3047
+			},
+			"model": "animated_java:item/void_slash/faded3/slash5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3048
+			},
+			"model": "animated_java:item/void_slash/faded3/slash6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3049
+			},
+			"model": "animated_java:item/void_slash/faded3/slash7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3050
+			},
+			"model": "animated_java:item/void_slash/faded3/cheat_engine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3051
+			},
+			"model": "animated_java:item/nep_phase3_teleport/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3052
+			},
+			"model": "animated_java:item/nep_phase3_teleport/blackhole0/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3053
+			},
+			"model": "animated_java:item/nep_phase3_teleport/blackhole1/black_hole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3054
+			},
+			"model": "animated_java:item/nep_rkss_cancel/black_knight_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3055
+			},
+			"model": "animated_java:item/nep_rkss_cancel/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3056
+			},
+			"model": "animated_java:item/nep_rkss_cancel/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3057
+			},
+			"model": "animated_java:item/nep_rkss_cancel/sword_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3058
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ringed_knight_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3059
+			},
+			"model": "animated_java:item/nep_rkss_cancel/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3060
+			},
+			"model": "animated_java:item/nep_rkss_cancel/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3061
+			},
+			"model": "animated_java:item/nep_rkss_cancel/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3062
+			},
+			"model": "animated_java:item/nep_rkss_cancel/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3063
+			},
+			"model": "animated_java:item/nep_rkss_cancel/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3064
+			},
+			"model": "animated_java:item/nep_rkss_cancel/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3065
+			},
+			"model": "animated_java:item/nep_rkss_cancel/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3066
+			},
+			"model": "animated_java:item/nep_rkss_cancel/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3067
+			},
+			"model": "animated_java:item/nep_rkss_cancel/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3068
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/black_knight_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3069
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3070
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3071
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/sword_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3072
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/ringed_knight_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3073
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3074
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3075
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3076
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3077
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3078
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3079
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3080
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3081
+			},
+			"model": "animated_java:item/nep_rkss_cancel/ignite/left_leg"
 		}
 	],
 	"animated_java": {
@@ -20215,7 +20509,25 @@
 					1820,
 					1821,
 					1822,
-					1823
+					1823,
+					3033,
+					3034,
+					3035,
+					3036,
+					3037,
+					3038,
+					3039,
+					3040,
+					3041,
+					3042,
+					3043,
+					3044,
+					3045,
+					3046,
+					3047,
+					3048,
+					3049,
+					3050
 				]
 			},
 			"water_vfx": {
@@ -21581,6 +21893,45 @@
 					3030,
 					3031,
 					3032
+				]
+			},
+			"nep_phase3_teleport": {
+				"used_ids": [
+					3051,
+					3052,
+					3053
+				]
+			},
+			"nep_rkss_cancel": {
+				"used_ids": [
+					3054,
+					3055,
+					3056,
+					3057,
+					3058,
+					3059,
+					3060,
+					3061,
+					3062,
+					3063,
+					3064,
+					3065,
+					3066,
+					3067,
+					3068,
+					3069,
+					3070,
+					3071,
+					3072,
+					3073,
+					3074,
+					3075,
+					3076,
+					3077,
+					3078,
+					3079,
+					3080,
+					3081
 				]
 			}
 		}

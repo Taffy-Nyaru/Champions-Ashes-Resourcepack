@@ -1,6 +1,7 @@
 {
 	"parent": "animated_java:item/void_slash/slash7",
 	"textures": {
-		"0": "animated_java:item/void_slash/purple_slash0"
+		"0": "animated_java:item/void_slash/purple_slash0",
+		"19": "championsashes:item/bible"
 	}
 }

@@ -1,0 +1,8 @@
+{
+	"parent": "animated_java:item/nep_phase3_teleport/black_hole",
+	"textures": {
+		"0": "animated_java:item/nep_phase3_teleport/blackhole1",
+		"1": "animated_java:item/nep_phase3_teleport/blackhole0",
+		"2": "animated_java:item/nep_phase3_teleport/blackhole1"
+	}
+}
