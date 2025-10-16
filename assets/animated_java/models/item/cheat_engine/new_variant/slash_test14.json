@@ -1,0 +1,6 @@
+{
+	"parent": "animated_java:item/cheat_engine/slash_test14",
+	"textures": {
+		"1": "animated_java:item/cheat_engine/warning_3"
+	}
+}
