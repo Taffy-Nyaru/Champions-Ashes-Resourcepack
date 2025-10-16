@@ -1,0 +1,7 @@
+{
+	"parent": "animated_java:item/nep_gravity_lightning_bolt/vfx",
+	"textures": {
+		"9": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_1",
+		"10": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx3"
+	}
+}

@@ -18489,6 +18489,348 @@
 				"custom_model_data": 3081
 			},
 			"model": "animated_java:item/nep_rkss_cancel/ignite/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3082
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/dragonslayer_greatbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3083
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3084
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3085
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/repeating_crossbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3086
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3087
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3088
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3089
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3090
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3091
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3092
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3093
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3094
+			},
+			"model": "animated_java:item/nep_offhand_bow_glitch/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3095
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3096
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3097
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/fume_ugs_slash"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3098
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_vortex"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3099
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/fume_ultra_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3100
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3101
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3102
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3103
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3104
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3105
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3106
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3107
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3108
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3109
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3110
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3111
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3112
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3113
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3114
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect6"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3115
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect7"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3116
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect8"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3117
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_effect9"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3118
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/gravity_thunder"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3119
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/wave_of_destruction"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3120
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/obsidian_edges0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3121
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/obsidian_edges1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3122
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/obsidian_edges2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3123
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/obsidian_edges3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3124
+			},
+			"model": "animated_java:item/nep_fume_ugs_skills/obsidian"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3125
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3126
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3127
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/1/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3128
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/1/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3129
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/2/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3130
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/2/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3131
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/3/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3132
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/3/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3133
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/4/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3134
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/4/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3135
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/5/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3136
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/5/gravity_lightning_bolt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3137
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/6/vfx"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3138
+			},
+			"model": "animated_java:item/nep_gravity_lightning_bolt/6/gravity_lightning_bolt"
 		}
 	],
 	"animated_java": {
@@ -21932,6 +22274,75 @@
 					3079,
 					3080,
 					3081
+				]
+			},
+			"nep_offhand_bow_glitch": {
+				"used_ids": [
+					3082,
+					3083,
+					3084,
+					3085,
+					3086,
+					3087,
+					3088,
+					3089,
+					3090,
+					3091,
+					3092,
+					3093,
+					3094
+				]
+			},
+			"nep_fume_ugs_skills": {
+				"used_ids": [
+					3095,
+					3096,
+					3097,
+					3098,
+					3099,
+					3100,
+					3101,
+					3102,
+					3103,
+					3104,
+					3105,
+					3106,
+					3107,
+					3108,
+					3109,
+					3110,
+					3111,
+					3112,
+					3113,
+					3114,
+					3115,
+					3116,
+					3117,
+					3118,
+					3119,
+					3120,
+					3121,
+					3122,
+					3123,
+					3124
+				]
+			},
+			"nep_gravity_lightning_bolt": {
+				"used_ids": [
+					3125,
+					3126,
+					3127,
+					3128,
+					3129,
+					3130,
+					3131,
+					3132,
+					3133,
+					3134,
+					3135,
+					3136,
+					3137,
+					3138
 				]
 			}
 		}

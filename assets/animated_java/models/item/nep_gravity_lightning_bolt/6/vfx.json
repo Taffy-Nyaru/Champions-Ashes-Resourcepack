@@ -1,0 +1,19 @@
+{
+	"parent": "animated_java:item/nep_gravity_lightning_bolt/vfx",
+	"textures": {
+		"0": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx3",
+		"1": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx2",
+		"2": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx1",
+		"3": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx",
+		"4": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_5",
+		"5": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_4",
+		"6": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_3",
+		"7": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_2",
+		"8": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_1",
+		"9": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_5_fade",
+		"10": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx_fade",
+		"11": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx0",
+		"12": "animated_java:item/nep_gravity_lightning_bolt/electric_laser_5_fade",
+		"13": "animated_java:item/nep_gravity_lightning_bolt/gravity_vfx_fade"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/nep_offhand_bow_glitch/drakeblood_set"
+	},
+	"elements": [
+		{
+			"from": [
+				5.5,
+				1.875,
+				5.25
+			],
+			"to": [
+				10,
+				7.78125,
+				10.75
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					5.125,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						13,
+						6.75,
+						14,
+						8
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						12,
+						6.5,
+						13,
+						8
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						11,
+						6.75,
+						12,
+						8
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						10,
+						6.75,
+						11,
+						8
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						12,
+						7.75,
+						13,
+						9.25
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						11,
+						7.75,
+						12,
+						9.25
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

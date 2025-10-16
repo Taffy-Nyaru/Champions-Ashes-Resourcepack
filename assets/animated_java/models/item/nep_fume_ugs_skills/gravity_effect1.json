@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/nep_fume_ugs_skills/pasted"
+	},
+	"elements": [
+		{
+			"from": [
+				7,
+				2,
+				7
+			],
+			"to": [
+				9,
+				14,
+				9
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					3,
+					-26,
+					2
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						2,
+						12
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						2,
+						0,
+						4,
+						12
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						4,
+						0,
+						6,
+						12
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						6,
+						0,
+						8,
+						12
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						10,
+						2,
+						8,
+						0
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						10,
+						2,
+						8,
+						4
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
