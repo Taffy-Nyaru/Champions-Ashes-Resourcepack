@@ -1,0 +1,13 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "championsashes:font/bossbar/nep_bar_overlay_phase1.png",
+			"height": 29,
+			"ascent": 14,
+			"chars": [
+				"1"
+			]
+		}
+	]
+}
