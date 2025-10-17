@@ -3758,6 +3758,44 @@
                 "assets\\animated_java\\textures\\item\\cheat_engine\\texture0.png",
                 "assets\\minecraft\\models\\item\\animated_java_empty.json"
             ]
+        },
+        "a9c0baef-441f-a919-9e7c-796f3d40a016": {
+            "project_name": "nep_phase3_transition",
+            "file_list": [
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\right_arm2.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\right_arm.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\cheat_engine.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\left_arm2.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\left_arm.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\head.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\body_top.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\body.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\right_leg2.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\right_leg.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\left_leg2.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\left_leg.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\text_display.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\sword_body.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\ringed_knight_straight_sword.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\splitleaf_greatsword.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\repeating_crossbow.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\dragonslayer_greatbow.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\pontiff_knight_curved_sword.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\murky.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\black_knight_shield.json",
+                "assets\\animated_java\\models\\item\\nep_phase3_transition\\drakeblood_greatsword.json",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\drakeblood_set.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\bible.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\text_display.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\ringed_knight_straight_sword_64.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\splitleaf.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\dragonslayer_greatbow_standby.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\repeating_crossbow.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\murky_hand_scythe.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\black_knight_shield.png",
+                "assets\\animated_java\\textures\\item\\nep_phase3_transition\\pontiff_knight_curved_sword.png",
+                "assets\\minecraft\\models\\item\\animated_java_empty.json"
+            ]
         }
     }
 }

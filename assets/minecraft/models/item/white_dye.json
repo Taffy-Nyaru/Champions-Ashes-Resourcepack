@@ -19335,6 +19335,138 @@
 				"custom_model_data": 3222
 			},
 			"model": "animated_java:item/cheat_engine/new_variant/slash_test26"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3223
+			},
+			"model": "animated_java:item/nep_phase3_transition/right_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3224
+			},
+			"model": "animated_java:item/nep_phase3_transition/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3225
+			},
+			"model": "animated_java:item/nep_phase3_transition/cheat_engine"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3226
+			},
+			"model": "animated_java:item/nep_phase3_transition/left_arm2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3227
+			},
+			"model": "animated_java:item/nep_phase3_transition/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3228
+			},
+			"model": "animated_java:item/nep_phase3_transition/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3229
+			},
+			"model": "animated_java:item/nep_phase3_transition/body_top"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3230
+			},
+			"model": "animated_java:item/nep_phase3_transition/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3231
+			},
+			"model": "animated_java:item/nep_phase3_transition/right_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3232
+			},
+			"model": "animated_java:item/nep_phase3_transition/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3233
+			},
+			"model": "animated_java:item/nep_phase3_transition/left_leg2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3234
+			},
+			"model": "animated_java:item/nep_phase3_transition/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3235
+			},
+			"model": "animated_java:item/nep_phase3_transition/text_display"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3236
+			},
+			"model": "animated_java:item/nep_phase3_transition/sword_body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3237
+			},
+			"model": "animated_java:item/nep_phase3_transition/ringed_knight_straight_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3238
+			},
+			"model": "animated_java:item/nep_phase3_transition/splitleaf_greatsword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3239
+			},
+			"model": "animated_java:item/nep_phase3_transition/repeating_crossbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3240
+			},
+			"model": "animated_java:item/nep_phase3_transition/dragonslayer_greatbow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3241
+			},
+			"model": "animated_java:item/nep_phase3_transition/pontiff_knight_curved_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3242
+			},
+			"model": "animated_java:item/nep_phase3_transition/murky"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3243
+			},
+			"model": "animated_java:item/nep_phase3_transition/black_knight_shield"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3244
+			},
+			"model": "animated_java:item/nep_phase3_transition/drakeblood_greatsword"
 		}
 	],
 	"animated_java": {
@@ -22935,6 +23067,32 @@
 					3220,
 					3221,
 					3222
+				]
+			},
+			"nep_phase3_transition": {
+				"used_ids": [
+					3223,
+					3224,
+					3225,
+					3226,
+					3227,
+					3228,
+					3229,
+					3230,
+					3231,
+					3232,
+					3233,
+					3234,
+					3235,
+					3236,
+					3237,
+					3238,
+					3239,
+					3240,
+					3241,
+					3242,
+					3243,
+					3244
 				]
 			}
 		}

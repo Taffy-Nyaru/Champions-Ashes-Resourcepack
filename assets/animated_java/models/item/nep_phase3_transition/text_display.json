@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"2": "animated_java:item/nep_phase3_transition/text_display"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				0.867924528301887,
+				8
+			],
+			"to": [
+				20,
+				15.132075471698112,
+				8
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					9.81132075471698,
+					9.018867924528301,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0,
+						0,
+						16,
+						16
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.5
+					],
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						16,
+						0,
+						0,
+						16
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						0,
+						0,
+						0,
+						4.5
+					],
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						4.5,
+						0,
+						0,
+						0
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						4.5,
+						0,
+						0,
+						0
+					],
+					"texture": "#2"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

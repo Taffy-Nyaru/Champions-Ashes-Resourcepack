@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "animated_java:item/nep_phase3_transition/drakeblood_set"
+	},
+	"elements": [
+		{
+			"from": [
+				3,
+				7.75,
+				5.25
+			],
+			"to": [
+				12.5,
+				14.649999999999999,
+				10.75
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					11.2,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						8,
+						5,
+						10,
+						6.5
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						7,
+						5,
+						8,
+						6.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						5,
+						5,
+						7,
+						6.5
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						4,
+						5,
+						5,
+						6.5
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						11.25,
+						5.75,
+						9.75,
+						5
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						18,
+						16,
+						14,
+						18
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}
