@@ -214,5 +214,8 @@
   "translate.championsashes.nep.start_fight": "虽早已结束，如今完美画上句号，\n环夜星速，逐日烬辉。",
   "translate.championsashes.nep.phase2": "王灰薪灭龙血千，一换黑斧招人怨。寿夭度登王座阶，万般龙血空牵念。",
   "translate.championsashes.nep.kill": "龙血前寻烽无影，天岳万剑军一人。",
+  "translate.cheat_engine.crash0": "是否启用Minecraft Packet Crasher？（手持cheat engine时Shift+F）",
+  "translate.cheat_engine.crash1": "再次确认：是否启用Minecraft Packet Crasher？",
+  "translate.cheat_engine.crash2": "小黑屋玩家0",
   "sounds.championsashes.nep_elder": "并非!"
 }

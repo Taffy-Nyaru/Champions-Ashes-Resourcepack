@@ -214,5 +214,8 @@
   "translate.championsashes.nep.start_fight": "I am the Lord. And this is my throne.",
   "translate.championsashes.nep.phase2": "Your skills reminds me about Grim, the No.1 free-aim crossbow user.",
   "translate.championsashes.nep.kill": "Beautiful gameplay, from start to finish.",
+  "translate.cheat_engine.crash0": "Enable Minecraft Packet Crasher?（Shift+F with cheat engine in mainhand）",
+  "translate.cheat_engine.crash1": "Reconfirm: Enable Minecraft Packet Crasher?",
+  "translate.cheat_engine.crash2": "Sent player0 to +inf coords",
   "sounds.championsashes.nep_elder": "Nep Elder!"
 }
