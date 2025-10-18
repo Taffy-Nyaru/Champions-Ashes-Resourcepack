@@ -3,7 +3,7 @@
 		{
 			"type": "bitmap",
 			"file": "championsashes:font/bossbar/nep_bar_overlay_phase2.png",
-			"height": 29,
+			"height": 28,
 			"ascent": 14,
 			"chars": [
 				"1"
